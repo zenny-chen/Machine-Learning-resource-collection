@@ -9,6 +9,7 @@
 <br />
 
 ## 机器学习与神经网络
+1. [卷积神经网络概念与原理](https://blog.csdn.net/qq_45360887/article/details/94737562)
 1. [深度学习知识库](http://lib.csdn.net/base/deeplearning)
 1. [斯坦福大学深度学习辅导](http://deeplearning.stanford.edu/tutorial/)
 1. [Apple Machine Learning Journal](https://machinelearning.apple.com)
