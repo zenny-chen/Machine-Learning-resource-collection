@@ -109,6 +109,7 @@
 1. [卷积运算和图像处理](https://www.toutiao.com/a6637072648016757261)
 1. [你的美颜，由无数程序猿亲手敲出的代码默默守护](https://www.toutiao.com/a6730030820804788750/)
 1. [实战图像分类网络的可视化，从卷积结果，卷积核到激活图](https://www.toutiao.com/a6732615202006630923/)
+1. [踏进VIO领域前，最需要了解的工作——预积分（Preintegration） | Paper Reading第一季第七期](https://zhuanlan.zhihu.com/p/36323177)
 
 <br />
 
