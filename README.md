@@ -79,6 +79,7 @@
 1. [多次训练后准确率高达98%！CNN神经网络识别手写数字全过程](https://www.toutiao.com/a6719438053825315331)
 1. [一文看懂反卷积层](https://www.toutiao.com/a6723842869485912584)
 1. [机器学习常用的调参方法：K折交叉验证（k-fold），附代码实现](https://www.toutiao.com/a6577308236297273870)
+1. [过往Net，皆为调参？一篇BagNet论文引发学界震动](https://www.toutiao.com/a6747960110821179915/)
 
 <br />
 
