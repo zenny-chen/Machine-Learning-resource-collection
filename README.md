@@ -9,15 +9,14 @@
 <br />
 
 ## 机器学习与神经网络
+
 1. [卷积神经网络概念与原理](https://blog.csdn.net/qq_45360887/article/details/94737562)
 1. [深度学习知识库](http://lib.csdn.net/base/deeplearning)
 1. [斯坦福大学深度学习辅导](http://deeplearning.stanford.edu/tutorial/)
 1. [Apple Machine Learning Journal](https://machinelearning.apple.com)
 1. [Improving the Realism of Synthetic Images](https://machinelearning.apple.com/2017/07/07/GAN.html)
-1. [硬货 | 一文了解深度学习在NLP中的最佳实践经验和技巧](http://blog.csdn.net/wemedia/details.html?id=45197)
 1. [Deep learning From Image to Sequence](http://blog.csdn.net/abcjennifer/article/details/27170627)
 1. [深度学习性能提升的诀窍——克服过拟合和提高泛化能力的20条技巧和诀窍](http://geek.csdn.net/news/detail/104190)
-1. [卷积神经网络在自然语言处理的应用](http://www.csdn.net/article/2015-11-11/2826192)
 1. [详解卷积神经网络](http://geek.csdn.net/news/detail/127365)
 1. [深度学习框架Caffe源码解析](http://geek.csdn.net/news/detail/128789)
 1. [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
@@ -68,7 +67,6 @@
 1. [动画图解Attention机制，让你一看就明白](https://www.toutiao.com/a6689088984208900622)
 1. [为什么要做特征缩放，怎么做特征缩放，什么时候做特征缩放？](https://www.toutiao.com/a6688971456245662220)
 1. [9步教你用NumPy从头开始构建神经网络！](https://www.toutiao.com/a6693296472533762574)
-1. [深入浅出人脸识别原理](https://www.toutiao.com/a6695943397275861516)
 1. [中山大学的学霸小哥开源了一个能帮你做高数题的AI](https://www.toutiao.com/a6699212868954358283)
 1. [卷积神经网络的特征是如何学习的？](https://www.toutiao.com/a6700385442048508420)
 1. [五分钟看懂CNN入门算法LeNet-5介绍（含论文详细解读和代码资源）](https://www.toutiao.com/a6705721637196530179)
@@ -86,6 +84,7 @@
 <br />
 
 ## 《手撕深度学习》系列
+
 1. [手撕深度学习算法开讲：先简单撕撕SVM](https://mp.weixin.qq.com/s?__biz=MjM5NTE3Nzk4MQ==&mid=2651231789&idx=1&sn=50cccd5aa95de0cc5c65885d8500ec99&chksm=bd0e42bf8a79cba9e9eac6ad43314404023497768d485da46eb51f8fa06fd9825d2d34e62284&mpshare=1&scene=23&srcid=0227Y4gMqEvP8VHjfGAuuSHH#rd)
 1. [手撕深度学习算法（2）：轻撕CNN](https://mp.weixin.qq.com/s?__biz=MjM5NTE3Nzk4MQ==&mid=2651231792&idx=1&sn=67b3b3b581f61562985fa5d570f7c3b5&chksm=bd0e42a28a79cbb439d94991bb9fc8bb5f267d80b710a67bd04ecbcab4e7202d57c45a4b5b86&mpshare=1&scene=23&srcid=0228cYWEXWWO6gXxDjhnXGdx#rd)
 1. [手撕深度学习算法（3）：轻撕LSTM](https://mp.weixin.qq.com/s?srcid=0301pXvJqXiLlqYqKzTkJg7B&scene=23&mid=2651231794&sn=e401c8b32631b0e516ba5d084abfe985&idx=1&__biz=MjM5NTE3Nzk4MQ%3D%3D&chksm=bd0e42a08a79cbb634a2ca4c732536296b306e66c6b7ae65d116ed7323b6036a56ca0b148376&mpshare=1#rd)
@@ -97,10 +96,12 @@
 <br />
 
 ## 计算机视觉与图像识别相关
+
 1. [ZZ opencv 识别图像中的四边形的代码](http://tlzl0526-gmail-com.iteye.com/blog/655920)
 1. [CV模式识别](http://wiki.opencv.org.cn/index.php/Cv模式识别)
 1. [模式识别](https://en.wikipedia.org/wiki/Pattern_recognition)
 1. [Features2D + Homography to find a known object](https://docs.opencv.org/2.4/doc/tutorials/features2d/feature_homography/feature_homography.html)
+1. [深入浅出人脸识别原理](https://www.toutiao.com/a6695943397275861516)
 1. [opencv各种滤波分析bilateralFilter、Laplacian、bitwise_and和GaussianBlur](http://blog.csdn.net/gdut2015go/article/details/46633627?ref=myread)
 1. [目标检测的图像特征提取之（一）HOG特征](http://blog.csdn.net/liulina603/article/details/8291093)
 1. [目标检测的图像特征提取之（二）LBP特征](http://blog.csdn.net/zouxy09/article/details/7929531)
@@ -118,6 +119,9 @@
 <br />
 
 ## 自然语言处理相关
+
+1. [硬货 | 一文了解深度学习在NLP中的最佳实践经验和技巧](http://blog.csdn.net/wemedia/details.html?id=45197)
+1. [卷积神经网络在自然语言处理的应用](http://www.csdn.net/article/2015-11-11/2826192)
 1. [未来5-10年，NLP将走向成熟](http://geek.csdn.net/news/detail/200794)
 1. [实战 | 让机器人替你聊天](http://blog.csdn.net/wemedia/details.html?id=43471)
 1. [最新自然语言处理(NLP)四步流程：Embed->Encode->Attend->Predict](http://geek.csdn.net/news/detail/116220)
@@ -133,4 +137,11 @@
 1. [训练一个能像人一样说话的神经网络模型，具体需要哪些步骤？](https://www.toutiao.com/a6733123590968836612)
 1. [「NLP-词向量」一文详述词向量的由来及本质](https://www.toutiao.com/a6732285672083685892/)
 1. [没想到，自然语言处理能这么有趣 // 自然语言处理入门](https://www.toutiao.com/a6750558750265999875/)
+
+<br />
+
+## 语音识别与合成相关
+
+1. [深度学习语音合成 2019 指南](https://www.toutiao.com/a6759421045083472396/)
+
 
