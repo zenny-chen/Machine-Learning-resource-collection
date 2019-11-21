@@ -80,6 +80,7 @@
 1. [过往Net，皆为调参？一篇BagNet论文引发学界震动](https://www.toutiao.com/a6747960110821179915/)
 1. [伯克利提出时序差分模型TDM：让深度强化学习更像人类](https://www.toutiao.com/a6751035853465715213/)
 1. [元学习的崛起](https://www.toutiao.com/a6753492616538489358/)
+1. [破解神经网络、攻击GPU，AI黑客教程来了，已登GitHub热榜](https://www.toutiao.com/i6761206494693163533/)
 
 <br />
 
