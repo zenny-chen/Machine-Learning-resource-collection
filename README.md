@@ -82,6 +82,7 @@
 1. [伯克利提出时序差分模型TDM：让深度强化学习更像人类](https://www.toutiao.com/a6751035853465715213/)
 1. [元学习的崛起](https://www.toutiao.com/a6753492616538489358/)
 1. [破解神经网络、攻击GPU，AI黑客教程来了，已登GitHub热榜](https://www.toutiao.com/i6761206494693163533/)
+1. [我的AI不可能这么傻：深度学习的致命弱点](https://www.toutiao.com/i6772542013108650499/)
 
 <br />
 
