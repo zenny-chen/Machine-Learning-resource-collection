@@ -119,6 +119,7 @@
 1. [实战图像分类网络的可视化，从卷积结果，卷积核到激活图](https://www.toutiao.com/a6732615202006630923/)
 1. [踏进VIO领域前，最需要了解的工作——预积分（Preintegration） | Paper Reading第一季第七期](https://zhuanlan.zhihu.com/p/36323177)
 1. [自动驾驶爆雷！美国专家4小时发现百度、英伟达561个故障](https://www.toutiao.com/a6754570097429332487/)
+1. [基于Tesseract的OCR识别小程序](https://www.toutiao.com/i6779014325215429133/)
 
 <br />
 
