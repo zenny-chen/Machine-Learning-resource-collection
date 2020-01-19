@@ -84,6 +84,7 @@
 1. [破解神经网络、攻击GPU，AI黑客教程来了，已登GitHub热榜](https://www.toutiao.com/i6761206494693163533/)
 1. [我的AI不可能这么傻：深度学习的致命弱点](https://www.toutiao.com/i6772542013108650499/)
 1. [卷积神经到底学了什么？为什么卷积神经中的卷积不是卷积运算？](https://www.toutiao.com/i6745262792581841419/)
+1. [贝叶斯神经网络毫无意义吗？Twitter、Reddit双战场辩论，火药味十足](https://www.toutiao.com/i6783561369120670221/)
 
 <br />
 
