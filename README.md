@@ -60,6 +60,7 @@
 1. [吴恩达深度学习笔记(77)-单层卷积网络(simple convolution)](https://www.toutiao.com/a6645947999820186119)
 1. [一文带你读懂 WaveNet：谷歌助手的声音合成器](https://www.toutiao.com/a6647671529804923396)
 1. [GAN之父谈论近4.5年生成对抗网络在人脸生成进展，5篇经典论文](https://www.toutiao.com/a6647447134759027213)
+1. [基于生成对抗网络（GAN）的人脸变形（附链接）](https://www.toutiao.com/a6761763124509934092/)
 1. [生成模型：通过单个图像查找对象位置](https://www.toutiao.com/a6648187565515997709)
 1. [可解释推荐系统：知其然，知其所以然](https://www.toutiao.com/a6632589141110424077)
 1. [这是我看过，最好懂的神经网络 // 白话机器学习算法](https://www.toutiao.com/a6670655277722763788)
