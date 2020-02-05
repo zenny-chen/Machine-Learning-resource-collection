@@ -14,6 +14,7 @@
 1. [卷积神经网络概念与原理](https://blog.csdn.net/qq_45360887/article/details/94737562)
 1. [解析卷积的高速计算中的细节，一步步代码带你飞](https://www.toutiao.com/a6763601377739424269/)
 1. [AI疯狂进阶——凸优化](https://www.toutiao.com/a6773111448286528011/)
+1. [大白话讲nnvm](https://www.toutiao.com/a6789948639490867726/)
 1. [深度学习知识库](http://lib.csdn.net/base/deeplearning)
 1. [斯坦福大学深度学习辅导](http://deeplearning.stanford.edu/tutorial/)
 1. [Apple Machine Learning Journal](https://machinelearning.apple.com)
