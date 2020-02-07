@@ -59,6 +59,7 @@
 1. [机器学习工程师必懂10大算法](https://www.toutiao.com/i6635865004769804807)
 1. [从 TensorFlow 到 PyTorch：九大深度学习框架哪款最适合你？](https://www.toutiao.com/i6603238287530263054)
 1. [几行Python代码搞定，偏要用100个GPU！](https://www.toutiao.com/i6580187743911936525)
+1. [一篇文章教你用 11 行 Python 代码实现神经网络](https://www.toutiao.com/i6411016342702391810/)
 1. [非冯诺依曼新架构：IBM100万忆阻器大规模神经网络加速AI](https://www.toutiao.com/i6576794835460555267)
 1. [机器学习中的分类](https://www.toutiao.com/a6637096294055674381)
 1. [L1和L2正则化的直观解释](https://www.toutiao.com/a6639660468589822472)
