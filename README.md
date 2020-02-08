@@ -4,6 +4,7 @@
 
 ## 机器学习各类框架
 
+1. [Apple Machine Learning Journal](https://machinelearning.apple.com)
 1. [CreateML官方文档](https://developer.apple.com/documentation/createml)
 1. [用Arduino玩人工智能，TensorFlow真香](https://www.toutiao.com/i6764560492234015244/)
 
@@ -20,6 +21,7 @@
 1. [人工智能对图像的四大算法，你知道吗？](https://www.toutiao.com/i6428344029645111809/)
 1. [初学者必读：IBM长文解读人工智能、机器学习和认知计算](https://www.toutiao.com/i6427590458439893505/)
 1. [AAAI 2020学术会议提前看：常识知识与常识推理](https://www.toutiao.com/a6790213186214691335/)
+1. [AAAI2020论文解读：将语义图嵌入跨模态注意力机制用于多标签分类](https://www.toutiao.com/a6790342917908070925/)
 1. [解析卷积的高速计算中的细节，一步步代码带你飞](https://www.toutiao.com/a6763601377739424269/)
 1. [AI疯狂进阶——凸优化](https://www.toutiao.com/a6773111448286528011/)
 1. [轻松理解交叉熵在神经网络中的作用](https://www.toutiao.com/i6491208638445650446/)
@@ -27,7 +29,6 @@
 1. [深度学习知识库](http://lib.csdn.net/base/deeplearning)
 1. [斯坦福大学深度学习辅导](http://deeplearning.stanford.edu/tutorial/)
 1. [「深度学习被可微分编程取代？」展望30年后的神经网络和函数编程](https://www.toutiao.com/i6508570177498513933/)
-1. [Apple Machine Learning Journal](https://machinelearning.apple.com)
 1. [Improving the Realism of Synthetic Images](https://machinelearning.apple.com/2017/07/07/GAN.html)
 1. [Deep Learning（1-Introduction）](https://www.toutiao.com/i6401283226471498242/)
 1. [Deep learning From Image to Sequence](http://blog.csdn.net/abcjennifer/article/details/27170627)
