@@ -194,6 +194,7 @@
 1. [卷积神经网络在自然语言处理的应用](http://www.csdn.net/article/2015-11-11/2826192)
 1. [未来5-10年，NLP将走向成熟](http://geek.csdn.net/news/detail/200794)
 1. [实战 | 让机器人替你聊天](http://blog.csdn.net/wemedia/details.html?id=43471)
+1. [用数据做酷的事！手把手教你搭建问答系统](https://www.toutiao.com/i6540960861983343117/)
 1. [最新自然语言处理(NLP)四步流程：Embed->Encode->Attend->Predict](http://geek.csdn.net/news/detail/116220)
 1. [一文了解自然语言处理神经史（上）](https://yq.aliyun.com/articles/673550)
 1. [神经网络并不是尚方宝剑，我们需要正视深度 NLP 模型的泛化问题](https://www.toutiao.com/i6598502707328188932)
