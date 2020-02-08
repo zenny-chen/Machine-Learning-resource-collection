@@ -1,10 +1,12 @@
 # Machine-Learning resource collection
 我收藏的机器学习相关文集
 
+<br />
 
 ## 机器学习各类框架
 
 1. [Apple Machine Learning Journal](https://machinelearning.apple.com)
+1. [苹果开源Turi Create：让普通开发者玩得转机器学习！](https://www.toutiao.com/i6499294335509463566/)
 1. [CreateML官方文档](https://developer.apple.com/documentation/createml)
 1. [用Arduino玩人工智能，TensorFlow真香](https://www.toutiao.com/i6764560492234015244/)
 
@@ -12,6 +14,7 @@
 
 ## 机器学习与神经网络
 
+1. [资源 | 普通程序员如何自学机器学习？这里有一份指南~](https://www.toutiao.com/i6495595128470635021/)
 1. [干货！火遍全球深度学习算法技术原理基础浅析！](https://www.toutiao.com/i6511110484731625997/)
 1. [卷积神经网络概念与原理](https://blog.csdn.net/qq_45360887/article/details/94737562)
 1. [机器学习入门：你应该学习的8个神经网络结构（一）](https://www.toutiao.com/i6507930512764436996/)
@@ -37,12 +40,15 @@
 1. [史上最好记的神经网络结构速记表（下）](https://www.toutiao.com/i6478828899277996557/)
 1. [神经网络有什么理论支持？](https://www.toutiao.com/i6485989865992225293/)
 1. [初窥神经网络内部机制，图文详解权重和隐藏层](https://www.toutiao.com/i6492916793626067469/)
+1. [你所不了解的深度神经网络](https://www.toutiao.com/i6495509752401887758/)
 1. [详解卷积神经网络](http://geek.csdn.net/news/detail/127365)
 1. [详解卷积神经网络那点事儿！](https://www.toutiao.com/i6512673469191160333/)
 1. [深度学习框架Caffe源码解析](http://geek.csdn.net/news/detail/128789)
 1. [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 1. [Shakir's Machine Learning Blog](http://blog.shakirm.com/category/machine-learning-and-statistics/)
 1. [图像分类 | 深度学习PK传统机器学习](http://geek.csdn.net/news/detail/197931)
+1. [继图像识别后，图像标注系统也被对抗样本攻陷！](https://www.toutiao.com/i6497745715836486158/)
+1. [谷歌的AI造了一个AI，超过了人造的AI](https://www.toutiao.com/i6495532940200509966/)
 1. [Open.ai新算法：一小时内训练AI系统后空翻，仅需900Bit的人类反馈数据](https://mp.weixin.qq.com/s?__biz=MzAwNDI4ODcxNA==&mid=504761354&idx=2&sn=5cd3f4c5e16c52d470c49d03d02eb428&chksm=00cc95af37bb1cb91c08bb2a71cc16d769847d517d5b164a440ec2b2f0d472b6f68a44c29e22&mpshare=1&scene=1&srcid=0614Lr2q8oG3aq7U47YPTAUf#rd)
 1. [变分自编码机](http://blog.csdn.net/wemedia/details.html?id=42029)
 1. [Top 10 Machine Learning Algorighms Everyone Should know to Become Data Scientist](http://houseofbots.com/news-detail/3531-4-top-10-machine-learning-algorighms-everyone-should-know-to-become-data-scientist)
@@ -51,6 +57,7 @@
 1. [神经网络的神奇网络](https://www.toutiao.com/i6612471002943193603)
 1. [如何为神经机器翻译配置编码器-解码器模型？](https://www.toutiao.com/i6508497046071149063/)
 1. [如何深度理解RNN？——看图就好！](https://yq.aliyun.com/articles/643783?utm_content=m_1000016823)
+1. [使用Tensorflow建立RNN实战：股市预测](https://www.toutiao.com/i6499028711038255630/)
 1. [人工智能基础：LSTM及其变种介绍，方便针对实际问题取舍](https://www.toutiao.com/i6506491503433482756/)
 1. [深度学习前沿：一文看懂近年来卷积神经网络性能优化历程](https://www.toutiao.com/i6583819871388172813)
 1. [进化算法与神经网络](https://www.toutiao.com/i6604751493914427917)
@@ -189,6 +196,7 @@
 1. [神经网络的可解释性，从经验主义到数学建模(一篇icml文)](https://zhuanlan.zhihu.com/p/67831834)
 1. [训练一个能像人一样说话的神经网络模型，具体需要哪些步骤？](https://www.toutiao.com/a6733123590968836612)
 1. [「NLP-词向量」一文详述词向量的由来及本质](https://www.toutiao.com/a6732285672083685892/)
+1. [NLP这一年：盘点2017年自然语言处理领域的重大深度学习技术](https://www.toutiao.com/i6499619395491332622/)
 1. [没想到，自然语言处理能这么有趣 // 自然语言处理入门](https://www.toutiao.com/a6750558750265999875/)
 1. [比基线模型快100倍，Google开源文本生成“加速器”LaserTagger](https://www.toutiao.com/a6788679120327803400/)
 1. [没有数据也能翻译？一文读懂无监督机器翻译](https://www.toutiao.com/i6507876936205730317/)
