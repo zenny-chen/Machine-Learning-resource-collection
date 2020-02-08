@@ -15,6 +15,7 @@
 ## 机器学习与神经网络
 
 1. [资源 | 普通程序员如何自学机器学习？这里有一份指南~](https://www.toutiao.com/i6495595128470635021/)
+1. [开发者不可错过的 10 个人工智能开源项目](https://www.toutiao.com/i6501830580370407950/)
 1. [干货！火遍全球深度学习算法技术原理基础浅析！](https://www.toutiao.com/i6511110484731625997/)
 1. [卷积神经网络概念与原理](https://blog.csdn.net/qq_45360887/article/details/94737562)
 1. [机器学习入门：你应该学习的8个神经网络结构（一）](https://www.toutiao.com/i6507930512764436996/)
@@ -31,6 +32,7 @@
 1. [大白话讲nnvm](https://www.toutiao.com/a6789948639490867726/)
 1. [深度学习知识库](http://lib.csdn.net/base/deeplearning)
 1. [斯坦福大学深度学习辅导](http://deeplearning.stanford.edu/tutorial/)
+1. [人工智能之超简单K近邻算法识别验证码](https://www.toutiao.com/i6501112415407571470/)
 1. [「深度学习被可微分编程取代？」展望30年后的神经网络和函数编程](https://www.toutiao.com/i6508570177498513933/)
 1. [Improving the Realism of Synthetic Images](https://machinelearning.apple.com/2017/07/07/GAN.html)
 1. [Deep Learning（1-Introduction）](https://www.toutiao.com/i6401283226471498242/)
@@ -58,9 +60,11 @@
 1. [如何为神经机器翻译配置编码器-解码器模型？](https://www.toutiao.com/i6508497046071149063/)
 1. [如何深度理解RNN？——看图就好！](https://yq.aliyun.com/articles/643783?utm_content=m_1000016823)
 1. [使用Tensorflow建立RNN实战：股市预测](https://www.toutiao.com/i6499028711038255630/)
+1. [循环神经网络简介以及第一个循环神经网络实现，引出LSTM](https://www.toutiao.com/i6505761740054069763/)
 1. [人工智能基础：LSTM及其变种介绍，方便针对实际问题取舍](https://www.toutiao.com/i6506491503433482756/)
 1. [深度学习前沿：一文看懂近年来卷积神经网络性能优化历程](https://www.toutiao.com/i6583819871388172813)
 1. [进化算法与神经网络](https://www.toutiao.com/i6604751493914427917)
+1. [机器学习算法篇—卷积神经网络（Convolutional Neural Network）](https://www.toutiao.com/i6501957974188098062/)
 1. [你看到的最直白清晰的CNN讲解](https://www.toutiao.com/i6511115545486557710/)
 1. [「科普:CNN论文介绍的开篇」神经网络与卷积神经网络](https://www.fjshuchi.com/news/jdm8hbmmummjb9u.html)
 1. [CNN模型的发展：自2012AlexNet-2017DRN的17篇CNN模型论文总结](https://cloud.tencent.com/developer/article/1370927)
@@ -134,6 +138,7 @@
 1. [向手机端神经网络进发：MobileNet压缩指南](https://www.toutiao.com/i6461803606025699854/)
 1. [如何在你的iPhone上建立第一个机器学习模型](https://www.toutiao.com/i6475906340043620878/)
 1. [斯坦福ICLR 2018录用论文：高效稀疏Winograd卷积神经网络 ICLR 2018](https://www.toutiao.com/i6551201702656082439/)
+1. [利用神经网络算法的Csharp手写数字识别](https://www.toutiao.com/i6516720205882720771/)
 
 <br />
 
@@ -180,6 +185,7 @@
 
 1. [如何解决90%的自然语言处理问题：分步指南奉上](https://www.toutiao.com/i6516101528384700932/)
 1. [NLP｜自然语言处理-语法解析指南：算法和技术](https://www.toutiao.com/i6507433709514261005/)
+1. [人工智能难点之——自然语言处理（NLP）](https://www.toutiao.com/i6506121464033313294/)
 1. [硬货 | 一文了解深度学习在NLP中的最佳实践经验和技巧](http://blog.csdn.net/wemedia/details.html?id=45197)
 1. [卷积神经网络在自然语言处理的应用](http://www.csdn.net/article/2015-11-11/2826192)
 1. [未来5-10年，NLP将走向成熟](http://geek.csdn.net/news/detail/200794)
@@ -197,6 +203,7 @@
 1. [训练一个能像人一样说话的神经网络模型，具体需要哪些步骤？](https://www.toutiao.com/a6733123590968836612)
 1. [「NLP-词向量」一文详述词向量的由来及本质](https://www.toutiao.com/a6732285672083685892/)
 1. [NLP这一年：盘点2017年自然语言处理领域的重大深度学习技术](https://www.toutiao.com/i6499619395491332622/)
+1. [回望2017，基于深度学习的NLP研究大盘点](https://www.toutiao.com/i6505904866823504397/)
 1. [没想到，自然语言处理能这么有趣 // 自然语言处理入门](https://www.toutiao.com/a6750558750265999875/)
 1. [比基线模型快100倍，Google开源文本生成“加速器”LaserTagger](https://www.toutiao.com/a6788679120327803400/)
 1. [没有数据也能翻译？一文读懂无监督机器翻译](https://www.toutiao.com/i6507876936205730317/)
