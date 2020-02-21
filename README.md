@@ -133,6 +133,7 @@
 1. [我的AI不可能这么傻：深度学习的致命弱点](https://www.toutiao.com/i6772542013108650499/)
 1. [卷积神经到底学了什么？为什么卷积神经中的卷积不是卷积运算？](https://www.toutiao.com/i6745262792581841419/)
 1. [贝叶斯神经网络毫无意义吗？Twitter、Reddit双战场辩论，火药味十足](https://www.toutiao.com/i6783561369120670221/)
+1. [纯贝叶斯神经网络没有意义？OpenAI科学家何出此言？](https://www.toutiao.com/a6795395720821080583/)
 1. [强化学习70年演进：从精确动态规划到基于模型](https://www.toutiao.com/a6786956404759462408/)
 1. [斯坦福大学新研究：声波、光波等都是RNN](https://www.toutiao.com/a6787637254496977419/)
 1. [机器学习时代的哈希算法，将如何更高效地索引数据](https://www.toutiao.com/i6552477331695337992/)
@@ -161,66 +162,4 @@
 ## 计算机视觉与图像识别相关
 
 1. [ZZ opencv 识别图像中的四边形的代码](http://tlzl0526-gmail-com.iteye.com/blog/655920)
-1. [CV模式识别](http://wiki.opencv.org.cn/index.php/Cv模式识别)
-1. [模式识别](https://en.wikipedia.org/wiki/Pattern_recognition)
-1. [Features2D + Homography to find a known object](https://docs.opencv.org/2.4/doc/tutorials/features2d/feature_homography/feature_homography.html)
-1. [深入浅出人脸识别原理](https://www.toutiao.com/a6695943397275861516)
-1. [opencv各种滤波分析bilateralFilter、Laplacian、bitwise_and和GaussianBlur](http://blog.csdn.net/gdut2015go/article/details/46633627?ref=myread)
-1. [计算机视觉这一年：2017 CV技术报告之卷积架构、数据集与新趋势](https://www.toutiao.com/i6492967385526436365/)
-1. [目标检测的图像特征提取之（一）HOG特征](http://blog.csdn.net/liulina603/article/details/8291093)
-1. [目标检测的图像特征提取之（二）LBP特征](http://blog.csdn.net/zouxy09/article/details/7929531)
-1. [目标检测的图像特征提取之（三）Haar特征](http://blog.csdn.net/zouxy09/article/details/7929570)
-1. [目标检测的图像特征提取之（四）OpenCV中BLOB特征提取与几何形状分类](http://blog.csdn.net/guyuealian/article/details/72026839)
-1. [机器学习算法博客——我和我追逐的梦](http://blog.csdn.net/heyongluoyao8)
-1. [结构之法 算法之道——JULY博客](http://blog.csdn.net/v_july_v)
-1. [见微知著：细粒度图像分析进展](http://geek.csdn.net/news/detail/191718)
-1. [卷积运算和图像处理](https://www.toutiao.com/a6637072648016757261)
-1. [你的美颜，由无数程序猿亲手敲出的代码默默守护](https://www.toutiao.com/a6730030820804788750/)
-1. [实战图像分类网络的可视化，从卷积结果，卷积核到激活图](https://www.toutiao.com/a6732615202006630923/)
-1. [踏进VIO领域前，最需要了解的工作——预积分（Preintegration） | Paper Reading第一季第七期](https://zhuanlan.zhihu.com/p/36323177)
-1. [自动驾驶爆雷！美国专家4小时发现百度、英伟达561个故障](https://www.toutiao.com/a6754570097429332487/)
-1. [基于Tesseract的OCR识别小程序](https://www.toutiao.com/i6779014325215429133/)
-1. [计算机视觉项目：10个高质量开源数据集发布](https://www.toutiao.com/i6779457784078402061/)
-1. [人体行为序列化识别算法研究](https://www.toutiao.com/i6550912255293129230/)
-
-<br />
-
-## 自然语言处理相关
-
-1. [如何解决90%的自然语言处理问题：分步指南奉上](https://www.toutiao.com/i6516101528384700932/)
-1. [NLP｜自然语言处理-语法解析指南：算法和技术](https://www.toutiao.com/i6507433709514261005/)
-1. [人工智能难点之——自然语言处理（NLP）](https://www.toutiao.com/i6506121464033313294/)
-1. [硬货 | 一文了解深度学习在NLP中的最佳实践经验和技巧](http://blog.csdn.net/wemedia/details.html?id=45197)
-1. [卷积神经网络在自然语言处理的应用](http://www.csdn.net/article/2015-11-11/2826192)
-1. [未来5-10年，NLP将走向成熟](http://geek.csdn.net/news/detail/200794)
-1. [实战 | 让机器人替你聊天](http://blog.csdn.net/wemedia/details.html?id=43471)
-1. [用数据做酷的事！手把手教你搭建问答系统](https://www.toutiao.com/i6540960861983343117/)
-1. [最新自然语言处理(NLP)四步流程：Embed->Encode->Attend->Predict](http://geek.csdn.net/news/detail/116220)
-1. [一文了解自然语言处理神经史（上）](https://yq.aliyun.com/articles/673550)
-1. [神经网络并不是尚方宝剑，我们需要正视深度 NLP 模型的泛化问题](https://www.toutiao.com/i6598502707328188932)
-1. [NLP领域的瑞士军刀？一个模型搞定十大自然语言常见任务](https://www.toutiao.com/i6571346295909253636)
-1. [全面拥抱Transformer：NLP三大特征抽取器(CNN/RNN/TF)比较](https://www.toutiao.com/a6645982666732601859)
-1. [最强NLP模型BERT可视化学习](https://www.toutiao.com/a6647294004691993091)
-1. [真正的完全图解Seq2Seq Attention模型](https://www.toutiao.com/a6646645659619295758)
-1. [中文分词技术及在58搜索的实践](https://www.toutiao.com/a6648920886747333128)
-1. [谷歌论文和代码效果天壤之别，遭程序员吐槽](https://www.toutiao.com/a6699649305457721870)
-1. [神经网络的可解释性，从经验主义到数学建模(一篇icml文)](https://zhuanlan.zhihu.com/p/67831834)
-1. [训练一个能像人一样说话的神经网络模型，具体需要哪些步骤？](https://www.toutiao.com/a6733123590968836612)
-1. [「NLP-词向量」一文详述词向量的由来及本质](https://www.toutiao.com/a6732285672083685892/)
-1. [NLP这一年：盘点2017年自然语言处理领域的重大深度学习技术](https://www.toutiao.com/i6499619395491332622/)
-1. [回望2017，基于深度学习的NLP研究大盘点](https://www.toutiao.com/i6505904866823504397/)
-1. [没想到，自然语言处理能这么有趣 // 自然语言处理入门](https://www.toutiao.com/a6750558750265999875/)
-1. [比基线模型快100倍，Google开源文本生成“加速器”LaserTagger](https://www.toutiao.com/a6788679120327803400/)
-1. [没有数据也能翻译？一文读懂无监督机器翻译](https://www.toutiao.com/i6507876936205730317/)
-1. [深度好奇郑达奇：用面向对象的神经规划进行文本理解](https://www.toutiao.com/i6487787444790886925/)
-1. [深度学习的应用：语音识别、图像理解、自然语言处理](https://www.toutiao.com/i6490130609275404814/)
-1. [「NLP」通用语言模型GPT 2.0告诉了我们什么？](https://www.toutiao.com/a6794241178096108040/)
-
-<br />
-
-## 语音识别与合成相关
-
-1. [深度学习语音合成 2019 指南](https://www.toutiao.com/a6759421045083472396/)
-1. [DeepMind详解新WaveNet：比原来快千倍，合成音更自然｜附论文](https://www.toutiao.com/i6491458272954941965/)
-
-
+1. [CV模式识别](http://wiki.opencv.org.cn/index.php
