@@ -202,6 +202,7 @@
 1. [NLP领域的瑞士军刀？一个模型搞定十大自然语言常见任务](https://www.toutiao.com/i6571346295909253636)
 1. [全面拥抱Transformer：NLP三大特征抽取器(CNN/RNN/TF)比较](https://www.toutiao.com/a6645982666732601859)
 1. [最强NLP模型BERT可视化学习](https://www.toutiao.com/a6647294004691993091)
+1. [Encoder-Decoder 模型架构详解](https://www.toutiao.com/a6798309686937387528/)
 1. [真正的完全图解Seq2Seq Attention模型](https://www.toutiao.com/a6646645659619295758)
 1. [中文分词技术及在58搜索的实践](https://www.toutiao.com/a6648920886747333128)
 1. [谷歌论文和代码效果天壤之别，遭程序员吐槽](https://www.toutiao.com/a6699649305457721870)
