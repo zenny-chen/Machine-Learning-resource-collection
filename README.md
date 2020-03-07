@@ -145,6 +145,7 @@
 1. [斯坦福ICLR 2018录用论文：高效稀疏Winograd卷积神经网络 ICLR 2018](https://www.toutiao.com/i6551201702656082439/)
 1. [利用神经网络算法的Csharp手写数字识别](https://www.toutiao.com/i6516720205882720771/)
 1. [浅谈模型压缩之量化、剪枝、权重共享](https://mp.weixin.qq.com/s?__biz=MzA4MDI0NDQyOQ==&mid=2447500853&idx=1&sn=08a1ffb525e80605e5176a2d817ad71c&chksm=8bb27d97bcc5f4812f8fa6157631c4317b9fff3a01bf1f794473793da297af418edf8ff031fd)
+1. [200倍的提速！华人博士生提出大场景三维点云语义分割新框架](https://www.toutiao.com/a6801003465922314760/)
 
 <br />
 
