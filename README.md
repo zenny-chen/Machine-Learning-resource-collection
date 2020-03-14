@@ -115,6 +115,7 @@
 1. [中山大学的学霸小哥开源了一个能帮你做高数题的AI](https://www.toutiao.com/a6699212868954358283)
 1. [卷积神经网络的特征是如何学习的？](https://www.toutiao.com/a6700385442048508420)
 1. [五分钟看懂CNN入门算法LeNet-5介绍（含论文详细解读和代码资源）](https://www.toutiao.com/a6705721637196530179)
+1. [ResNet详解与分析](https://www.toutiao.com/a6803146509551403527/)
 1. [深度学习初学者了解CNN卷积神经网络的黄金指南](https://www.toutiao.com/i6487345209884541454/)
 1. [一步一步动画图解LSTM和GRU，没有数学，包你看的明白](https://www.toutiao.com/a6716476758826156552)
 1. [TensorFlow MNIST高级学习](https://www.toutiao.com/i6487458243957228046/)
