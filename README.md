@@ -5,10 +5,10 @@
 
 ## 机器学习各类框架
 
-1. [Apple Machine Learning Journal](https://machinelearning.apple.com)
-1. [苹果开源Turi Create：让普通开发者玩得转机器学习！](https://www.toutiao.com/i6499294335509463566/)
-1. [CreateML官方文档](https://developer.apple.com/documentation/createml)
-1. [用Arduino玩人工智能，TensorFlow真香](https://www.toutiao.com/i6764560492234015244/)
+- [Apple Machine Learning Journal](https://machinelearning.apple.com)
+- [苹果开源Turi Create：让普通开发者玩得转机器学习！](https://www.toutiao.com/i6499294335509463566/)
+- [CreateML官方文档](https://developer.apple.com/documentation/createml)
+- [用Arduino玩人工智能，TensorFlow真香](https://www.toutiao.com/i6764560492234015244/)
 
 <br />
 
@@ -123,6 +123,7 @@
 1. [特征工程系列：特征筛选的原理与实现（下）](https://www.cnblogs.com/purple5252/p/11211083.html)
 1. [随机权值平均：深度学习中一种新的达到stage of the art的方法](https://www.toutiao.com/a6719067273581036043)
 1. [机器学习：监督、无监督和强化学习](https://www.toutiao.com/i6514792889388630541/)
+1. [Louvain算法](https://www.toutiao.com/a6814699673693979149/)
 1. [多次训练后准确率高达98%！CNN神经网络识别手写数字全过程](https://www.toutiao.com/a6719438053825315331)
 1. [一文看懂反卷积层](https://www.toutiao.com/a6723842869485912584)
 1. [机器学习常用的调参方法：K折交叉验证（k-fold），附代码实现](https://www.toutiao.com/a6577308236297273870)
@@ -191,40 +192,40 @@
 
 ## 自然语言处理相关
 
-1. [如何解决90%的自然语言处理问题：分步指南奉上](https://www.toutiao.com/i6516101528384700932/)
-1. [NLP｜自然语言处理-语法解析指南：算法和技术](https://www.toutiao.com/i6507433709514261005/)
-1. [人工智能难点之——自然语言处理（NLP）](https://www.toutiao.com/i6506121464033313294/)
-1. [硬货 | 一文了解深度学习在NLP中的最佳实践经验和技巧](http://blog.csdn.net/wemedia/details.html?id=45197)
-1. [卷积神经网络在自然语言处理的应用](http://www.csdn.net/article/2015-11-11/2826192)
-1. [未来5-10年，NLP将走向成熟](http://geek.csdn.net/news/detail/200794)
-1. [实战 | 让机器人替你聊天](http://blog.csdn.net/wemedia/details.html?id=43471)
-1. [用数据做酷的事！手把手教你搭建问答系统](https://www.toutiao.com/i6540960861983343117/)
-1. [最新自然语言处理(NLP)四步流程：Embed->Encode->Attend->Predict](http://geek.csdn.net/news/detail/116220)
-1. [一文了解自然语言处理神经史（上）](https://yq.aliyun.com/articles/673550)
-1. [神经网络并不是尚方宝剑，我们需要正视深度 NLP 模型的泛化问题](https://www.toutiao.com/i6598502707328188932)
-1. [NLP领域的瑞士军刀？一个模型搞定十大自然语言常见任务](https://www.toutiao.com/i6571346295909253636)
-1. [全面拥抱Transformer：NLP三大特征抽取器(CNN/RNN/TF)比较](https://www.toutiao.com/a6645982666732601859)
-1. [最强NLP模型BERT可视化学习](https://www.toutiao.com/a6647294004691993091)
-1. [Encoder-Decoder 模型架构详解](https://www.toutiao.com/a6798309686937387528/)
-1. [真正的完全图解Seq2Seq Attention模型](https://www.toutiao.com/a6646645659619295758)
-1. [中文分词技术及在58搜索的实践](https://www.toutiao.com/a6648920886747333128)
-1. [谷歌论文和代码效果天壤之别，遭程序员吐槽](https://www.toutiao.com/a6699649305457721870)
-1. [神经网络的可解释性，从经验主义到数学建模(一篇icml文)](https://zhuanlan.zhihu.com/p/67831834)
-1. [训练一个能像人一样说话的神经网络模型，具体需要哪些步骤？](https://www.toutiao.com/a6733123590968836612)
-1. [「NLP-词向量」一文详述词向量的由来及本质](https://www.toutiao.com/a6732285672083685892/)
-1. [NLP这一年：盘点2017年自然语言处理领域的重大深度学习技术](https://www.toutiao.com/i6499619395491332622/)
-1. [回望2017，基于深度学习的NLP研究大盘点](https://www.toutiao.com/i6505904866823504397/)
-1. [没想到，自然语言处理能这么有趣 // 自然语言处理入门](https://www.toutiao.com/a6750558750265999875/)
-1. [比基线模型快100倍，Google开源文本生成“加速器”LaserTagger](https://www.toutiao.com/a6788679120327803400/)
-1. [没有数据也能翻译？一文读懂无监督机器翻译](https://www.toutiao.com/i6507876936205730317/)
-1. [深度好奇郑达奇：用面向对象的神经规划进行文本理解](https://www.toutiao.com/i6487787444790886925/)
-1. [深度学习的应用：语音识别、图像理解、自然语言处理](https://www.toutiao.com/i6490130609275404814/)
+- [如何解决90%的自然语言处理问题：分步指南奉上](https://www.toutiao.com/i6516101528384700932/)
+- [NLP｜自然语言处理-语法解析指南：算法和技术](https://www.toutiao.com/i6507433709514261005/)
+- [人工智能难点之——自然语言处理（NLP）](https://www.toutiao.com/i6506121464033313294/)
+- [硬货 | 一文了解深度学习在NLP中的最佳实践经验和技巧](http://blog.csdn.net/wemedia/details.html?id=45197)
+- [卷积神经网络在自然语言处理的应用](http://www.csdn.net/article/2015-11-11/2826192)
+- [未来5-10年，NLP将走向成熟](http://geek.csdn.net/news/detail/200794)
+- [实战 | 让机器人替你聊天](http://blog.csdn.net/wemedia/details.html?id=43471)
+- [用数据做酷的事！手把手教你搭建问答系统](https://www.toutiao.com/i6540960861983343117/)
+- [最新自然语言处理(NLP)四步流程：Embed->Encode->Attend->Predict](http://geek.csdn.net/news/detail/116220)
+- [一文了解自然语言处理神经史（上）](https://yq.aliyun.com/articles/673550)
+- [神经网络并不是尚方宝剑，我们需要正视深度 NLP 模型的泛化问题](https://www.toutiao.com/i6598502707328188932)
+- [NLP领域的瑞士军刀？一个模型搞定十大自然语言常见任务](https://www.toutiao.com/i6571346295909253636)
+- [全面拥抱Transformer：NLP三大特征抽取器(CNN/RNN/TF)比较](https://www.toutiao.com/a6645982666732601859)
+- [最强NLP模型BERT可视化学习](https://www.toutiao.com/a6647294004691993091)
+- [Encoder-Decoder 模型架构详解](https://www.toutiao.com/a6798309686937387528/)
+- [真正的完全图解Seq2Seq Attention模型](https://www.toutiao.com/a6646645659619295758)
+- [中文分词技术及在58搜索的实践](https://www.toutiao.com/a6648920886747333128)
+- [谷歌论文和代码效果天壤之别，遭程序员吐槽](https://www.toutiao.com/a6699649305457721870)
+- [神经网络的可解释性，从经验主义到数学建模(一篇icml文)](https://zhuanlan.zhihu.com/p/67831834)
+- [训练一个能像人一样说话的神经网络模型，具体需要哪些步骤？](https://www.toutiao.com/a6733123590968836612)
+- [「NLP-词向量」一文详述词向量的由来及本质](https://www.toutiao.com/a6732285672083685892/)
+- [NLP这一年：盘点2017年自然语言处理领域的重大深度学习技术](https://www.toutiao.com/i6499619395491332622/)
+- [回望2017，基于深度学习的NLP研究大盘点](https://www.toutiao.com/i6505904866823504397/)
+- [没想到，自然语言处理能这么有趣 // 自然语言处理入门](https://www.toutiao.com/a6750558750265999875/)
+- [比基线模型快100倍，Google开源文本生成“加速器”LaserTagger](https://www.toutiao.com/a6788679120327803400/)
+- [没有数据也能翻译？一文读懂无监督机器翻译](https://www.toutiao.com/i6507876936205730317/)
+- [深度好奇郑达奇：用面向对象的神经规划进行文本理解](https://www.toutiao.com/i6487787444790886925/)
+- [深度学习的应用：语音识别、图像理解、自然语言处理](https://www.toutiao.com/i6490130609275404814/)
 
 <br />
 
 ## 语音识别与合成相关
 
-1. [深度学习语音合成 2019 指南](https://www.toutiao.com/a6759421045083472396/)
-1. [DeepMind详解新WaveNet：比原来快千倍，合成音更自然｜附论文](https://www.toutiao.com/i6491458272954941965/)
+- [深度学习语音合成 2019 指南](https://www.toutiao.com/a6759421045083472396/)
+- [DeepMind详解新WaveNet：比原来快千倍，合成音更自然｜附论文](https://www.toutiao.com/i6491458272954941965/)
 
 
