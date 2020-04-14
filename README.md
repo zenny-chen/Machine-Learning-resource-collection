@@ -187,6 +187,7 @@
 - [基于Tesseract的OCR识别小程序](https://www.toutiao.com/i6779014325215429133/)
 - [计算机视觉项目：10个高质量开源数据集发布](https://www.toutiao.com/i6779457784078402061/)
 - [人体行为序列化识别算法研究](https://www.toutiao.com/i6550912255293129230/)
+- [今日 Paper | 神经网络结构搜索；视觉目标；人物识别；视频3D人体姿态估计等](https://www.toutiao.com/a6803167817790128648/)
 
 <br />
 
