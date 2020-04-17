@@ -49,6 +49,7 @@
 - [你所不了解的深度神经网络](https://www.toutiao.com/i6495509752401887758/)
 - [详解卷积神经网络](http://geek.csdn.net/news/detail/127365)
 - [详解卷积神经网络那点事儿！](https://www.toutiao.com/i6512673469191160333/)
+- [数据流的图卷积主题模型](https://www.toutiao.com/a6815851885774242307/)
 - [深度学习框架Caffe源码解析](http://geek.csdn.net/news/detail/128789)
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [Shakir's Machine Learning Blog](http://blog.shakirm.com/category/machine-learning-and-statistics/)
