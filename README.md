@@ -103,9 +103,6 @@
 - [监督学习之梯度下降——Andrew Ng机器学习笔记](https://www.toutiao.com/i6532253132796199438/)
 - [吴恩达深度学习笔记(77)-单层卷积网络(simple convolution)](https://www.toutiao.com/a6645947999820186119)
 - [一文带你读懂 WaveNet：谷歌助手的声音合成器](https://www.toutiao.com/a6647671529804923396)
-- [GAN之父谈论近4.5年生成对抗网络在人脸生成进展，5篇经典论文](https://www.toutiao.com/a6647447134759027213)
-- [基于生成对抗网络（GAN）的人脸变形（附链接）](https://www.toutiao.com/a6761763124509934092/)
-- [伯克利与OpenAI整合RL与GAN：让代理学习自动发现目标](https://www.toutiao.com/i6422053292158747138/)
 - [生成模型：通过单个图像查找对象位置](https://www.toutiao.com/a6648187565515997709)
 - [可解释推荐系统：知其然，知其所以然](https://www.toutiao.com/a6632589141110424077)
 - [这是我看过，最好懂的神经网络 // 白话机器学习算法](https://www.toutiao.com/a6670655277722763788)
@@ -190,6 +187,10 @@
 - [计算机视觉项目：10个高质量开源数据集发布](https://www.toutiao.com/i6779457784078402061/)
 - [人体行为序列化识别算法研究](https://www.toutiao.com/i6550912255293129230/)
 - [今日 Paper | 神经网络结构搜索；视觉目标；人物识别；视频3D人体姿态估计等](https://www.toutiao.com/a6803167817790128648/)
+- [GAN之父谈论近4.5年生成对抗网络在人脸生成进展，5篇经典论文](https://www.toutiao.com/a6647447134759027213)
+- [基于生成对抗网络（GAN）的人脸变形（附链接）](https://www.toutiao.com/a6761763124509934092/)
+- [GAN | 每个人都能用英伟达GAN造脸了（附下载链接）](https://mp.weixin.qq.com/s/D-rh9m7G-ERjWEEG6BQJNg)
+- [伯克利与OpenAI整合RL与GAN：让代理学习自动发现目标](https://www.toutiao.com/i6422053292158747138/)
 
 <br />
 
