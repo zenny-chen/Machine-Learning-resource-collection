@@ -201,6 +201,7 @@
 - [如何解决90%的自然语言处理问题：分步指南奉上](https://www.toutiao.com/i6516101528384700932/)
 - [NLP｜自然语言处理-语法解析指南：算法和技术](https://www.toutiao.com/i6507433709514261005/)
 - [人工智能难点之——自然语言处理（NLP）](https://www.toutiao.com/i6506121464033313294/)
+- [读《语言学纲要》有感——NLP需要语言学](https://www.toutiao.com/a6820355902093132300/)
 - [硬货 | 一文了解深度学习在NLP中的最佳实践经验和技巧](http://blog.csdn.net/wemedia/details.html?id=45197)
 - [卷积神经网络在自然语言处理的应用](http://www.csdn.net/article/2015-11-11/2826192)
 - [未来5-10年，NLP将走向成熟](http://geek.csdn.net/news/detail/200794)
@@ -230,7 +231,6 @@
 - [「NLP实战」一文看懂深度文本分类之DPCNN原理与代码](https://www.toutiao.com/a6799265853654172163/)
 - [深度好奇郑达奇：用面向对象的神经规划进行文本理解](https://www.toutiao.com/i6487787444790886925/)
 - [深度学习的应用：语音识别、图像理解、自然语言处理](https://www.toutiao.com/i6490130609275404814/)
-- [读《语言学纲要》有感——NLP需要语言学](https://www.toutiao.com/a6820355902093132300/)
 
 <br />
 
