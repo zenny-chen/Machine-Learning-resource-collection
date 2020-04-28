@@ -215,6 +215,7 @@
 - [最强NLP模型BERT可视化学习](https://www.toutiao.com/a6647294004691993091)
 - [NLP中各种各样的编码器](https://www.toutiao.com/a6819857426532008461/)
 - [Encoder-Decoder 模型架构详解](https://www.toutiao.com/a6798309686937387528/)
+- [用放大镜看Transformer——总体和各个模块的结构到底是什么样的](https://zhuanlan.zhihu.com/p/122977440)
 - [真正的完全图解Seq2Seq Attention模型](https://www.toutiao.com/a6646645659619295758)
 - [中文分词技术及在58搜索的实践](https://www.toutiao.com/a6648920886747333128)
 - [为什么中文分词比英文分词更难？有哪些常用算法？（附代码）](https://www.toutiao.com/a6818101677795574284/)
