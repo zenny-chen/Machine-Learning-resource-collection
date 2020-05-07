@@ -242,4 +242,10 @@
 - [深度学习语音合成 2019 指南](https://www.toutiao.com/a6759421045083472396/)
 - [DeepMind详解新WaveNet：比原来快千倍，合成音更自然｜附论文](https://www.toutiao.com/i6491458272954941965/)
 
+<br />
+
+## 大数据、数据分析相关
+
+- [详解十大数据挖掘算法之Apriori](https://www.toutiao.com/i6823687838966481421/)
+
 
