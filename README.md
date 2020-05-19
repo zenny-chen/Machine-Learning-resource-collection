@@ -248,6 +248,6 @@
 
 - [详解十大数据挖掘算法之Apriori](https://www.toutiao.com/i6823687838966481421/)
 - [孤立森林算法介绍，这次终于看懂了](https://www.toutiao.com/a6825786216428864008/)
-
+- [基于Plato高性能图计算框架的社团发现算法](https://www.toutiao.com/a6828374383048786443/)
 
 
