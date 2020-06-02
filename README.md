@@ -151,6 +151,7 @@
 - [浅谈模型压缩之量化、剪枝、权重共享](https://mp.weixin.qq.com/s?__biz=MzA4MDI0NDQyOQ==&mid=2447500853&idx=1&sn=08a1ffb525e80605e5176a2d817ad71c&chksm=8bb27d97bcc5f4812f8fa6157631c4317b9fff3a01bf1f794473793da297af418edf8ff031fd)
 - [200倍的提速！华人博士生提出大场景三维点云语义分割新框架](https://www.toutiao.com/a6801003465922314760/)
 - [自动化机器学习技术(AutoML)如今在深度学习模型优化中有哪些应用](https://www.toutiao.com/a6830721116189753870/)
+- [SIGGRAPH 2020 | 自动生成prior的曲面网格重构技术](https://www.toutiao.com/a6833274782012670471/)
 
 <br />
 
