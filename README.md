@@ -196,6 +196,7 @@
 - [基于生成对抗网络（GAN）的人脸变形（附链接）](https://www.toutiao.com/a6761763124509934092/)
 - [GAN | 每个人都能用英伟达GAN造脸了（附下载链接）](https://mp.weixin.qq.com/s/D-rh9m7G-ERjWEEG6BQJNg)
 - [伯克利与OpenAI整合RL与GAN：让代理学习自动发现目标](https://www.toutiao.com/i6422053292158747138/)
+- [3D点云配准算法简述](https://www.toutiao.com/a6796096548317954564/)
 
 <br />
 
