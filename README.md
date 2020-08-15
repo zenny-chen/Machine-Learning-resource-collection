@@ -200,6 +200,7 @@
 - [伯克利与OpenAI整合RL与GAN：让代理学习自动发现目标](https://www.toutiao.com/i6422053292158747138/)
 - [3D点云配准算法简述](https://www.toutiao.com/a6796096548317954564/)
 - [史上最全的支付宝二维码扫码优化技术方案](https://developer.aliyun.com/article/769937)
+- [人脸识别技术无孔不入，一批科学家已经开始反抗](https://www.toutiao.com/a6861011896594596363/)
 
 <br />
 
