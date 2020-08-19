@@ -183,6 +183,7 @@
 - [目标检测的图像特征提取之（二）LBP特征](http://blog.csdn.net/zouxy09/article/details/7929531)
 - [目标检测的图像特征提取之（三）Haar特征](http://blog.csdn.net/zouxy09/article/details/7929570)
 - [目标检测的图像特征提取之（四）OpenCV中BLOB特征提取与几何形状分类](http://blog.csdn.net/guyuealian/article/details/72026839)
+- [计算机视觉，opencv 圆形检测](https://www.toutiao.com/a6861413724679307780/)
 - [机器学习算法博客——我和我追逐的梦](http://blog.csdn.net/heyongluoyao8)
 - [结构之法 算法之道——JULY博客](http://blog.csdn.net/v_july_v)
 - [见微知著：细粒度图像分析进展](http://geek.csdn.net/news/detail/191718)
