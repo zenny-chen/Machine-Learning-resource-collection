@@ -45,6 +45,7 @@
 - [深度学习知识库](http://lib.csdn.net/base/deeplearning)
 - [斯坦福大学深度学习辅导](http://deeplearning.stanford.edu/tutorial/)
 - [「深度学习被可微分编程取代？」展望30年后的神经网络和函数编程](https://www.toutiao.com/i6508570177498513933/)
+- [矩阵乘法无需相乘，速度提升100倍：MIT大佬的新研究引发热议](https://www.toutiao.com/i7003208938284024351/)
 - [微分方程与机器学习](https://www.toutiao.com/i6901857619758137870/)
 - [美国东北大学提出MoNet，使用紧密池化缓解特征高维问题](https://www.toutiao.com/i6526471833254887950/)
 - [Improving the Realism of Synthetic Images](https://machinelearning.apple.com/2017/07/07/GAN.html)
