@@ -51,6 +51,7 @@
 - [Improving the Realism of Synthetic Images](https://machinelearning.apple.com/2017/07/07/GAN.html)
 - [Deep Learning（1-Introduction）](https://www.toutiao.com/i6401283226471498242/)
 - [Deep learning From Image to Sequence](http://blog.csdn.net/abcjennifer/article/details/27170627)
+- [DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks](https://depthoraclenerf.github.io/)
 - [深度学习性能提升的诀窍——克服过拟合和提高泛化能力的20条技巧和诀窍](http://geek.csdn.net/news/detail/104190)
 - [基于类别深度典型相关分析的多模态数据下的细粒度场发现](https://www.toutiao.com/a6869590981340037639/)
 - [史上最好记的神经网络结构速记表（上）](https://www.leiphone.com/news/201710/FGZEmNgnEXHeHoj4.html)
