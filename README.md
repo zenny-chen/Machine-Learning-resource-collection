@@ -1,7 +1,7 @@
 # Machine-Learning resource collection
 我收藏的机器学习相关文集
 
-<br/>
+<br />
 
 ## 机器学习各类框架
 
@@ -12,7 +12,7 @@
 - [Google TensorFlow](https://tensorflow.google.cn/?hl=zh_cn)
 - [用Arduino玩人工智能，TensorFlow真香](https://www.toutiao.com/i6764560492234015244/)
 
-<br/>
+<br />
 
 ## 机器学习与神经网络
 
@@ -180,7 +180,7 @@
 - [3张图片生成一个手办3D模型！华人博士提出新模型NeROIC，更真实](https://www.toutiao.com/i7068166758972113449/)
 - [无人汽车无法避开没见过的物体？问题出在训练pipeline上](https://www.toutiao.com/i7054801127056867854/)
 
-<br/>
+<br />
 
 ## 《手撕深度学习》系列
 
@@ -192,7 +192,7 @@
 1. [手撕深度学习算法（6）：手撕LSTM第三课和第四课](https://mp.weixin.qq.com/s/EziyabolX85M4UzPqPGwIg)
 1. [手撕深度学习算法（7）：手撕LSTM后半部第八~九课（完结篇）](https://mp.weixin.qq.com/s/KP5GZbOq2pJLKHdxi4c6WA)
 
-<br/>
+<br />
 
 ## 计算机视觉与图像识别相关
 
@@ -240,7 +240,7 @@
 - [史上最全的支付宝二维码扫码优化技术方案](https://developer.aliyun.com/article/769937)
 - [人脸识别技术无孔不入，一批科学家已经开始反抗](https://www.toutiao.com/a6861011896594596363/)
 
-<br/>
+<br />
 
 ## 自然语言处理相关
 
@@ -283,14 +283,14 @@
 - [深度学习的应用：语音识别、图像理解、自然语言处理](https://www.toutiao.com/i6490130609275404814/)
 - [那个在国际翻译大赛上夺冠的模型，字节刚刚开源了（附夺冠代码）](https://www.toutiao.com/article/7086343773956964895/)
 
-<br/>
+<br />
 
 ## 语音识别与合成相关
 
 - [深度学习语音合成 2019 指南](https://www.toutiao.com/a6759421045083472396/)
 - [DeepMind详解新WaveNet：比原来快千倍，合成音更自然｜附论文](https://www.toutiao.com/i6491458272954941965/)
 
-<br/>
+<br />
 
 ## 大数据、数据分析相关
 
