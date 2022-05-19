@@ -1,7 +1,7 @@
 # Machine-Learning resource collection
 我收藏的机器学习相关文集
 
-<br />
+<br/>
 
 ## 机器学习各类框架
 
@@ -12,7 +12,7 @@
 - [Google TensorFlow](https://tensorflow.google.cn/?hl=zh_cn)
 - [用Arduino玩人工智能，TensorFlow真香](https://www.toutiao.com/i6764560492234015244/)
 
-<br />
+<br/>
 
 ## 机器学习与神经网络
 
@@ -23,6 +23,9 @@
 - [干货！火遍全球深度学习算法技术原理基础浅析！](https://www.toutiao.com/i6511110484731625997/)
 - [卷积神经网络概念与原理](https://blog.csdn.net/qq_45360887/article/details/94737562)
 - [详解卷积神经网络结构核心设计思想与实践](https://mp.weixin.qq.com/s/5BJR9g4SrB1bWtlWjnxX3w)
+- [矩阵分解就能击败深度学习！MIT发布时序数据库：用SQL做机器学习](https://www.toutiao.com/article/7083387565986021892/)
+- [Yann LeCun最新访谈：能量模型是通向自主人工智能系统的起点](https://www.toutiao.com/article/7083684364823101983/)
+- [非凸函数上，随机梯度下降能否收敛？能有条件，比凸函数收敛更难](https://www.toutiao.com/i7061834102353248799/)
 - [机器学习入门：你应该学习的8个神经网络结构（一）](https://www.toutiao.com/i6507930512764436996/)
 - [机器学习必知的8大神经网络架构和原理](https://www.toutiao.com/i6511540306473648653/)
 - [推荐：关于机器学习的十种常用算法](https://www.toutiao.com/i6488839478105342477/)
@@ -30,6 +33,7 @@
 - [基于MindSpore快速实现推荐网络模型Wide&deep大规模混合并行](https://zhuanlan.zhihu.com/p/164683221)
 - [一份数学小白也能读懂的「马尔可夫链蒙特卡洛方法」入门指南](https://www.toutiao.com/i6512784264935768579/)
 - [Python实现连续变量GHMM高斯隐马尔可夫模型](https://www.toutiao.com/i6885611651723166211/)
+- [机器学习入门 6 随机森林算法：原理、实例应用（沉船幸存者预测）](https://www.toutiao.com/i7049998827553702438/)
 - [相关性 ≠ 因果性，用图的方式打开因果关系](https://www.toutiao.com/a6867360564427883016/)
 - [人工智能对图像的四大算法，你知道吗？](https://www.toutiao.com/i6428344029645111809/)
 - [从数学到实现，全面回顾高斯过程中的函数最优化](https://www.toutiao.com/i6526459735707746830/)
@@ -45,13 +49,11 @@
 - [深度学习知识库](http://lib.csdn.net/base/deeplearning)
 - [斯坦福大学深度学习辅导](http://deeplearning.stanford.edu/tutorial/)
 - [「深度学习被可微分编程取代？」展望30年后的神经网络和函数编程](https://www.toutiao.com/i6508570177498513933/)
-- [矩阵乘法无需相乘，速度提升100倍：MIT大佬的新研究引发热议](https://www.toutiao.com/i7003208938284024351/)
 - [微分方程与机器学习](https://www.toutiao.com/i6901857619758137870/)
 - [美国东北大学提出MoNet，使用紧密池化缓解特征高维问题](https://www.toutiao.com/i6526471833254887950/)
 - [Improving the Realism of Synthetic Images](https://machinelearning.apple.com/2017/07/07/GAN.html)
 - [Deep Learning（1-Introduction）](https://www.toutiao.com/i6401283226471498242/)
 - [Deep learning From Image to Sequence](http://blog.csdn.net/abcjennifer/article/details/27170627)
-- [DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks](https://depthoraclenerf.github.io/)
 - [深度学习性能提升的诀窍——克服过拟合和提高泛化能力的20条技巧和诀窍](http://geek.csdn.net/news/detail/104190)
 - [基于类别深度典型相关分析的多模态数据下的细粒度场发现](https://www.toutiao.com/a6869590981340037639/)
 - [史上最好记的神经网络结构速记表（上）](https://www.leiphone.com/news/201710/FGZEmNgnEXHeHoj4.html)
@@ -75,6 +77,7 @@
 - [不要再对类别变量进行独热编码了](https://www.toutiao.com/a6868063233710752259/)
 - [变分自编码机](http://blog.csdn.net/wemedia/details.html?id=42029)
 - [Top 10 Machine Learning Algorighms Everyone Should know to Become Data Scientist](http://houseofbots.com/news-detail/3531-4-top-10-machine-learning-algorighms-everyone-should-know-to-become-data-scientist)
+- [变分贝叶斯深度学习综述](https://zhuanlan.zhihu.com/p/484650175)
 - [傻瓜神经网络入门指南](https://yq.aliyun.com/articles/674886?utm_content=m_1000028455)
 - [辛普森悖论：如何用同一数据证明相反的论点](https://www.toutiao.com/i6617252703640748551)
 - [神经网络的神奇网络](https://www.toutiao.com/i6612471002943193603)
@@ -106,6 +109,8 @@
 - [初学者如何学习机器学习中的L1和L2正则化](https://www.toutiao.com/i6491490036947616270/)
 - [神经网络架构搜索](https://www.toutiao.com/i6574608156565963268)
 - [谷歌官方：反向传播算法图解](https://www.toutiao.com/i6572633780652081672)
+- [打破「反向传播」垄断，「正向自动微分」也能计算梯度，且训练时间减少一半](https://www.toutiao.com/i7075891320971067911/)
+- [Transformer 架构逐层功能介绍和详细解释](https://www.toutiao.com/i7051390630940918305/)
 - [熵：从热力学到机器学习](https://www.toutiao.com/i6568668830892032526)
 - [人工智能可识别您手写的内容了-深度学习进行手写字体页面分割](https://www.toutiao.com/i6567471256659034638)
 - [不同的领域、框架，这是一份超全的深度学习模型GitHub集合](https://www.toutiao.com/i6566899025239343620)
@@ -140,6 +145,7 @@
 - [特征工程系列：特征筛选的原理与实现（下）](https://www.cnblogs.com/purple5252/p/11211083.html)
 - [随机权值平均：深度学习中一种新的达到stage of the art的方法](https://www.toutiao.com/a6719067273581036043)
 - [机器学习：监督、无监督和强化学习](https://www.toutiao.com/i6514792889388630541/)
+- [LeCun预言的自监督模型来了：首个多模态高性能自监督算法](https://www.toutiao.com/i7055542654566089229/)
 - [Louvain算法](https://www.toutiao.com/a6814699673693979149/)
 - [多次训练后准确率高达98%！CNN神经网络识别手写数字全过程](https://www.toutiao.com/a6719438053825315331)
 - [一文看懂反卷积层](https://www.toutiao.com/a6723842869485912584)
@@ -169,8 +175,12 @@
 - [200倍的提速！华人博士生提出大场景三维点云语义分割新框架](https://www.toutiao.com/a6801003465922314760/)
 - [自动化机器学习技术(AutoML)如今在深度学习模型优化中有哪些应用](https://www.toutiao.com/a6830721116189753870/)
 - [SIGGRAPH 2020 | 自动生成prior的曲面网格重构技术](https://www.toutiao.com/a6833274782012670471/)
+- [LeCun新作，一张卡就能训！方差正则，稀疏编码器不再崩溃](https://www.toutiao.com/i7049235788978078211/)
+- [训练NeRF只需5秒？！英伟达这项新技术给谷歌研究员整不会了 | 开源](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247609270&idx=2&sn=b078f4e5e9ae1e59d679610c672506b2&chksm=e8d19cc4dfa615d257f4f55f902f547c122d2d85c4bfac96fe8f93336806ae76ef98425d4030&mpshare=1&scene=23&srcid=01152tVVDMJl9mn1LBt3LRby)
+- [3张图片生成一个手办3D模型！华人博士提出新模型NeROIC，更真实](https://www.toutiao.com/i7068166758972113449/)
+- [无人汽车无法避开没见过的物体？问题出在训练pipeline上](https://www.toutiao.com/i7054801127056867854/)
 
-<br />
+<br/>
 
 ## 《手撕深度学习》系列
 
@@ -182,7 +192,7 @@
 1. [手撕深度学习算法（6）：手撕LSTM第三课和第四课](https://mp.weixin.qq.com/s/EziyabolX85M4UzPqPGwIg)
 1. [手撕深度学习算法（7）：手撕LSTM后半部第八~九课（完结篇）](https://mp.weixin.qq.com/s/KP5GZbOq2pJLKHdxi4c6WA)
 
-<br />
+<br/>
 
 ## 计算机视觉与图像识别相关
 
@@ -214,6 +224,7 @@
 - [用 Vision Transformer 进行图像分类](https://www.toutiao.com/i6891942611586810371/)
 - [踏进VIO领域前，最需要了解的工作——预积分（Preintegration） | Paper Reading第一季第七期](https://zhuanlan.zhihu.com/p/36323177)
 - [自动驾驶爆雷！美国专家4小时发现百度、英伟达561个故障](https://www.toutiao.com/a6754570097429332487/)
+- [一种基于学习视觉动力学方法，自动驾驶汽车的非线性模型预测控制](https://www.toutiao.com/i7055939691392008740/)
 - [基于Tesseract的OCR识别小程序](https://www.toutiao.com/i6779014325215429133/)
 - [计算机视觉项目：10个高质量开源数据集发布](https://www.toutiao.com/i6779457784078402061/)
 - [可变形卷积在视频学习中的应用：利用带有稀疏标记数据的视频帧](https://www.toutiao.com/i6891440070679593486/)
@@ -229,7 +240,7 @@
 - [史上最全的支付宝二维码扫码优化技术方案](https://developer.aliyun.com/article/769937)
 - [人脸识别技术无孔不入，一批科学家已经开始反抗](https://www.toutiao.com/a6861011896594596363/)
 
-<br />
+<br/>
 
 ## 自然语言处理相关
 
@@ -270,15 +281,16 @@
 - [「NLP实战」一文看懂深度文本分类之DPCNN原理与代码](https://www.toutiao.com/a6799265853654172163/)
 - [深度好奇郑达奇：用面向对象的神经规划进行文本理解](https://www.toutiao.com/i6487787444790886925/)
 - [深度学习的应用：语音识别、图像理解、自然语言处理](https://www.toutiao.com/i6490130609275404814/)
+- [那个在国际翻译大赛上夺冠的模型，字节刚刚开源了（附夺冠代码）](https://www.toutiao.com/article/7086343773956964895/)
 
-<br />
+<br/>
 
 ## 语音识别与合成相关
 
 - [深度学习语音合成 2019 指南](https://www.toutiao.com/a6759421045083472396/)
 - [DeepMind详解新WaveNet：比原来快千倍，合成音更自然｜附论文](https://www.toutiao.com/i6491458272954941965/)
 
-<br />
+<br/>
 
 ## 大数据、数据分析相关
 
@@ -289,5 +301,4 @@
 - [爱不释手，怪不得大咖都喜欢通过压缩算法实现Codec](https://www.toutiao.com/a6869955750110691852/)
 - [大规模数据的相似度计算 Min Hashing 和 LSH](https://www.toutiao.com/a6876219490678669827/)
 - [消息队列：kafka](https://www.toutiao.com/i6891283846294307331/)
-
 
