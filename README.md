@@ -11,6 +11,7 @@
 - [CreateML官方文档](https://developer.apple.com/documentation/createml)
 - [Google TensorFlow](https://tensorflow.google.cn/?hl=zh_cn)
 - [用Arduino玩人工智能，TensorFlow真香](https://www.toutiao.com/i6764560492234015244/)
+- [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 
 <br />
 
