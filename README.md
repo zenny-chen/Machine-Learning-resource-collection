@@ -306,3 +306,10 @@
 - [大规模数据的相似度计算 Min Hashing 和 LSH](https://www.toutiao.com/a6876219490678669827/)
 - [消息队列：kafka](https://www.toutiao.com/i6891283846294307331/)
 
+<br />
+
+## GPT相关
+
+- [被 GPT 带火的 Prompt 是什么？](https://www.toutiao.com/article/7216127870404395572/)
+- [教你如何本地部署chatGPT-3.5](https://www.toutiao.com/video/7216749125633573376/)
+
