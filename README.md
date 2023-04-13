@@ -248,6 +248,7 @@
 
 ## 自然语言处理相关
 
+- [万字长文解读：从Transformer到ChatGPT，通用人工智能曙光初现](https://blog.csdn.net/csdnnews/article/details/130120071)
 - [如何解决90%的自然语言处理问题：分步指南奉上](https://www.toutiao.com/i6516101528384700932/)
 - [NLP｜自然语言处理-语法解析指南：算法和技术](https://www.toutiao.com/i6507433709514261005/)
 - [人工智能难点之——自然语言处理（NLP）](https://www.toutiao.com/i6506121464033313294/)
