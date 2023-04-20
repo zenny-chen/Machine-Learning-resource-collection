@@ -15,6 +15,7 @@
 - [PCL-Platform.Intelligence/pcl_pangu: 鹏程·盘古SDK 上线！](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/pcl_pangu)
 - [绘画AI stable-diffusion 快速入门](https://www.toutiao.com/article/7214446674557583887/)
 - [OpenAI API Keys](https://platform.openai.com/account/api-keys)
+- [一觉醒后ChatGPT 被淘汰了](https://blog.csdn.net/Rocky006/article/details/130221814)
 
 <br />
 
