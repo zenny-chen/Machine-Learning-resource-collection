@@ -184,6 +184,9 @@
 - [训练NeRF只需5秒？！英伟达这项新技术给谷歌研究员整不会了 | 开源](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247609270&idx=2&sn=b078f4e5e9ae1e59d679610c672506b2&chksm=e8d19cc4dfa615d257f4f55f902f547c122d2d85c4bfac96fe8f93336806ae76ef98425d4030&mpshare=1&scene=23&srcid=01152tVVDMJl9mn1LBt3LRby)
 - [3张图片生成一个手办3D模型！华人博士提出新模型NeROIC，更真实](https://www.toutiao.com/i7068166758972113449/)
 - [无人汽车无法避开没见过的物体？问题出在训练pipeline上](https://www.toutiao.com/i7054801127056867854/)
+- [一文读懂FNN、CNN、RNN、TDNN、FSMN、Attention、Transformer](https://www.toutiao.com/article/7224073467287716367/)
+- [支持向量机算法有哪些优点和缺点？](https://www.toutiao.com/article/7224492574496358970/)
+- [马尔可夫决策过程(MDP)：马尔可夫奖励(MRP) + 智能体动作因素](https://www.toutiao.com/article/7224438666561749516/)
 
 <br />
 
