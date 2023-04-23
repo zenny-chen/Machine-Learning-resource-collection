@@ -317,4 +317,5 @@
 
 - [被 GPT 带火的 Prompt 是什么？](https://www.toutiao.com/article/7216127870404395572/)
 - [教你如何本地部署chatGPT-3.5](https://www.toutiao.com/video/7216749125633573376/)
+- [MiniGPT-4](https://minigpt-4.github.io/)
 
