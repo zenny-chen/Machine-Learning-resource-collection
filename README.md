@@ -16,6 +16,7 @@
 - [绘画AI stable-diffusion 快速入门](https://www.toutiao.com/article/7214446674557583887/)
 - [OpenAI API Keys](https://platform.openai.com/account/api-keys)
 - [一觉醒后ChatGPT 被淘汰了](https://blog.csdn.net/Rocky006/article/details/130221814)
+- [AI自动纠正动作姿势！基于物理动画制作工具Cascadeur又放大招！](https://mp.weixin.qq.com/s?__biz=MzU2MTU4MTc1Ng==&mid=2247743808&idx=1&sn=42d01ec917a9ffa1b19c1497d3d6c950)
 
 <br />
 
@@ -165,6 +166,7 @@
 - [卷积神经到底学了什么？为什么卷积神经中的卷积不是卷积运算？](https://www.toutiao.com/i6745262792581841419/)
 - [贝叶斯神经网络毫无意义吗？Twitter、Reddit双战场辩论，火药味十足](https://www.toutiao.com/i6783561369120670221/)
 - [纯贝叶斯神经网络没有意义？OpenAI科学家何出此言？](https://www.toutiao.com/a6795395720821080583/)
+- [朴素贝叶斯在人工智能中扮演什么角色？](https://www.toutiao.com/article/7226150083761390095/)
 - [强化学习70年演进：从精确动态规划到基于模型](https://www.toutiao.com/a6786956404759462408/)
 - [乘风破浪的马里奥！这个AI带你一口气通29关](https://www.toutiao.com/a6859617201876533764/)
 - [斯坦福大学新研究：声波、光波等都是RNN](https://www.toutiao.com/a6787637254496977419/)
