@@ -18,6 +18,7 @@
 - [一觉醒后ChatGPT 被淘汰了](https://blog.csdn.net/Rocky006/article/details/130221814)
 - [AI自动纠正动作姿势！基于物理动画制作工具Cascadeur又放大招！](https://mp.weixin.qq.com/s?__biz=MzU2MTU4MTc1Ng==&mid=2247743808&idx=1&sn=42d01ec917a9ffa1b19c1497d3d6c950)
 - [5分钟内我用AI创建了4首歌](https://www.toutiao.com/article/7231831534482162210/)
+- [最新！ControlNet 无需模型预处理器 Reference-only](https://www.toutiao.com/article/7233011602486870584/)
 
 <br />
 
