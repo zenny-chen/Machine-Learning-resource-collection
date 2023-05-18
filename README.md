@@ -19,6 +19,8 @@
 - [AI自动纠正动作姿势！基于物理动画制作工具Cascadeur又放大招！](https://mp.weixin.qq.com/s?__biz=MzU2MTU4MTc1Ng==&mid=2247743808&idx=1&sn=42d01ec917a9ffa1b19c1497d3d6c950)
 - [5分钟内我用AI创建了4首歌](https://www.toutiao.com/article/7231831534482162210/)
 - [最新！ControlNet 无需模型预处理器 Reference-only](https://www.toutiao.com/article/7233011602486870584/)
+- [近期OpenAI推出了一个名为Shap-E的3D模型生成器](https://www.toutiao.com/w/1766188835927054/)
+- [打开潘多拉魔盒的不是OpenAI，而是谷歌？](https://www.toutiao.com/article/7234287180980552252/)
 
 <br />
 
