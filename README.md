@@ -15,6 +15,7 @@
 - [PCL-Platform.Intelligence/pcl_pangu: 鹏程·盘古SDK 上线！](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/pcl_pangu)
 - [绘画AI stable-diffusion 快速入门](https://www.toutiao.com/article/7214446674557583887/)
 - [OpenAI API Keys](https://platform.openai.com/account/api-keys)
+- [华人一作DragGAN爆火！拖动你的GAN：交互式图像编辑新高度](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247574498&idx=2&sn=e276b6f3cf48968da8ba608926de8f95)
 - [一觉醒后ChatGPT 被淘汰了](https://blog.csdn.net/Rocky006/article/details/130221814)
 - [AI自动纠正动作姿势！基于物理动画制作工具Cascadeur又放大招！](https://mp.weixin.qq.com/s?__biz=MzU2MTU4MTc1Ng==&mid=2247743808&idx=1&sn=42d01ec917a9ffa1b19c1497d3d6c950)
 - [5分钟内我用AI创建了4首歌](https://www.toutiao.com/article/7231831534482162210/)
