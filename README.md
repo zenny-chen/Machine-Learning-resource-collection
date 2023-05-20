@@ -326,4 +326,5 @@
 - [10分钟打造基于ChatGPT的Markdown智能文档](https://www.toutiao.com/article/7231059890205295142/)
 - [MiniGPT-4](https://minigpt-4.github.io/)
 - [从语言模型到ChatGPT，大模型调教全攻略](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449960279&idx=1&sn=596a1806d4c02425fa37f3b32f990cc4)
+- [训练开销骤减，10%成本定制专属类GPT-4多模态大模型](https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247521918&idx=1&sn=37a41cd4200f79963d057777ed519b1c)
 
