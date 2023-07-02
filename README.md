@@ -331,4 +331,6 @@
 - [训练开销骤减，10%成本定制专属类GPT-4多模态大模型](https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247521918&idx=1&sn=37a41cd4200f79963d057777ed519b1c)
 - [NÜWA：多模态预训练模型，大杀四方！（附源代码下载）](https://www.toutiao.com/article/7235614935160750604/)
 - [有证据了，MIT表明：大型语言模型≠随机鹦鹉，确实能学到语义](https://www.toutiao.com/article/7235882840754684473/)
+- [大模型帮陶哲轩解题：数学真要成为首个借助AI实现突破的学科了？](https://www.toutiao.com/article/7250369242204340748/)
+
 
