@@ -70,6 +70,7 @@
 - [史上最好记的神经网络结构速记表（上）](https://www.leiphone.com/news/201710/FGZEmNgnEXHeHoj4.html)
 - [史上最好记的神经网络结构速记表（下）](https://www.toutiao.com/i6478828899277996557/)
 - [神经网络有什么理论支持？](https://www.toutiao.com/i6485989865992225293/)
+- [为什么神经网络能计算任意函数？Talk is cheap,show me the code](https://www.toutiao.com/article/7274910604354634259/)
 - [天才还是白痴：有史以来最具争议的神经网络](https://www.toutiao.com/i6904098533184635400/)
 - [初窥神经网络内部机制，图文详解权重和隐藏层](https://www.toutiao.com/i6492916793626067469/)
 - [你所不了解的深度神经网络](https://www.toutiao.com/i6495509752401887758/)
