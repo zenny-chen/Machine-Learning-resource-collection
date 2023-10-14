@@ -196,6 +196,7 @@
 - [一文读懂FNN、CNN、RNN、TDNN、FSMN、Attention、Transformer](https://www.toutiao.com/article/7224073467287716367/)
 - [支持向量机算法有哪些优点和缺点？](https://www.toutiao.com/article/7224492574496358970/)
 - [马尔可夫决策过程(MDP)：马尔可夫奖励(MRP) + 智能体动作因素](https://www.toutiao.com/article/7224438666561749516/)
+- [基于范畴论的机器学习比较](https://www.toutiao.com/article/7289423458990309923/)
 - [一文捋顺千亿模型训练技术：流水线并行、张量并行和3D并行](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449964178&idx=1&sn=9c7820a3a08eaaa4a35ea1fea6deb229&chksm=b13c7af1864bf3e72c1d899a2b3c12d579b1a8a58f283326949bd6c5963d95185bef715922d2)
 
 <br />
@@ -336,5 +337,6 @@
 - [有证据了，MIT表明：大型语言模型≠随机鹦鹉，确实能学到语义](https://www.toutiao.com/article/7235882840754684473/)
 - [大模型帮陶哲轩解题：数学真要成为首个借助AI实现突破的学科了？](https://www.toutiao.com/article/7250369242204340748/)
 - [ChatGLM相关](https://zhuanlan.zhihu.com/p/636245322)
+- [米哈游联合复旦，全面解读AI Agents现状与未来，网友：原神启动？！](https://www.toutiao.com/article/7288634082035483173/)
 
 
