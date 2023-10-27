@@ -170,6 +170,7 @@
 - [伯克利提出时序差分模型TDM：让深度强化学习更像人类](https://www.toutiao.com/a6751035853465715213/)
 - [元学习的崛起](https://www.toutiao.com/a6753492616538489358/)
 - [破解神经网络、攻击GPU，AI黑客教程来了，已登GitHub热榜](https://www.toutiao.com/i6761206494693163533/)
+- [只需这个小工具，让Stable Diffusion彻底崩溃！狗变猫，车变牛](https://www.toutiao.com/article/7294299979143856692/)
 - [Projection Network](https://www.toutiao.com/a6877184929076085252/)
 - [我的AI不可能这么傻：深度学习的致命弱点](https://www.toutiao.com/i6772542013108650499/)
 - [卷积神经到底学了什么？为什么卷积神经中的卷积不是卷积运算？](https://www.toutiao.com/i6745262792581841419/)
