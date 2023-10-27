@@ -55,6 +55,7 @@
 - [循环神经网络简介以及第一个循环神经网络实现，引出LSTM](https://www.toutiao.com/i6505761740054069763/)
 - [ResNet详解与分析](https://www.toutiao.com/a6803146509551403527/)
 - [马斯克的AI第一枪，被华人科学家大将打响！xAI首个研究成果](https://www.toutiao.com/article/7294132748636553778/)
+- [探索张量：深度学习的奇妙之旅](https://www.toutiao.com/article/7294492469977219624/)
 - [矩阵分解就能击败深度学习！MIT发布时序数据库：用SQL做机器学习](https://www.toutiao.com/article/7083387565986021892/)
 - [Yann LeCun最新访谈：能量模型是通向自主人工智能系统的起点](https://www.toutiao.com/article/7083684364823101983/)
 - [非凸函数上，随机梯度下降能否收敛？能有条件，比凸函数收敛更难](https://www.toutiao.com/i7061834102353248799/)
