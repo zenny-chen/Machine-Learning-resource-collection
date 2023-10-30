@@ -303,6 +303,7 @@
 - [比基线模型快100倍，Google开源文本生成“加速器”LaserTagger](https://www.toutiao.com/a6788679120327803400/)
 - [没有数据也能翻译？一文读懂无监督机器翻译](https://www.toutiao.com/i6507876936205730317/)
 - [「NLP实战」一文看懂深度文本分类之DPCNN原理与代码](https://www.toutiao.com/a6799265853654172163/)
+- [4个最流行的句子嵌入模型【Sentence Embedding】](https://www.toutiao.com/article/7295649497865191987/)
 - [深度好奇郑达奇：用面向对象的神经规划进行文本理解](https://www.toutiao.com/i6487787444790886925/)
 - [深度学习的应用：语音识别、图像理解、自然语言处理](https://www.toutiao.com/i6490130609275404814/)
 - [那个在国际翻译大赛上夺冠的模型，字节刚刚开源了（附夺冠代码）](https://www.toutiao.com/article/7086343773956964895/)
