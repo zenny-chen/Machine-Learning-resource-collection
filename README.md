@@ -54,6 +54,7 @@
 - [使用Tensorflow建立RNN实战：股市预测](https://www.toutiao.com/i6499028711038255630/)
 - [循环神经网络简介以及第一个循环神经网络实现，引出LSTM](https://www.toutiao.com/i6505761740054069763/)
 - [ResNet详解与分析](https://www.toutiao.com/a6803146509551403527/)
+- [详解超强 ResNet 变体 NFNet：抛弃归一化后，性能却达到了最强！](https://www.toutiao.com/article/7298351530925687331/)
 - [马斯克的AI第一枪，被华人科学家大将打响！xAI首个研究成果](https://www.toutiao.com/article/7294132748636553778/)
 - [探索张量：深度学习的奇妙之旅](https://www.toutiao.com/article/7294492469977219624/)
 - [矩阵分解就能击败深度学习！MIT发布时序数据库：用SQL做机器学习](https://www.toutiao.com/article/7083387565986021892/)
