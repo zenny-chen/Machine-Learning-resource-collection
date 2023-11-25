@@ -135,6 +135,7 @@
 - [打破「反向传播」垄断，「正向自动微分」也能计算梯度，且训练时间减少一半](https://www.toutiao.com/i7075891320971067911/)
 - [Transformer 架构逐层功能介绍和详细解释](https://www.toutiao.com/i7051390630940918305/)
 - [LeCun力挺！马毅教授五年集大成之作：数学可解释的白盒Transformer，性能不输ViT](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247575541&idx=2&sn=2c85a91aff13c84cecfaecb0f13c3d96)
+- [RetNet：万众期待的 Transformers 杀手](https://www.toutiao.com/article/7304956621552501285/)
 - [熵：从热力学到机器学习](https://www.toutiao.com/i6568668830892032526)
 - [人工智能可识别您手写的内容了-深度学习进行手写字体页面分割](https://www.toutiao.com/i6567471256659034638)
 - [不同的领域、框架，这是一份超全的深度学习模型GitHub集合](https://www.toutiao.com/i6566899025239343620)
