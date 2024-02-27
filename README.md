@@ -27,6 +27,7 @@
 - [打开潘多拉魔盒的不是OpenAI，而是谷歌？](https://www.toutiao.com/article/7234287180980552252/)
 - [彻底失眠！把Agent拉到一个群干活！跑完实例后emo了！附官方论文](https://www.toutiao.com/article/7311247213148193317/)
 - [AMD也能深度学习+免费AI绘画：超详细StableDiffusion+ROCm部署教程！](https://post.smzdm.com/p/aovp2rv7/)
+- [AI时代别掉队！无需GPU！你的笔记本就行，本地运行大语言模型](https://www.toutiao.com/article/7339803194752893452/)（[Ollama](https://ollama.com/)）
 
 <br />
 
