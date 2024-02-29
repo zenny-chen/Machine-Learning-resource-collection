@@ -317,6 +317,7 @@
 - [深度好奇郑达奇：用面向对象的神经规划进行文本理解](https://www.toutiao.com/i6487787444790886925/)
 - [深度学习的应用：语音识别、图像理解、自然语言处理](https://www.toutiao.com/i6490130609275404814/)
 - [那个在国际翻译大赛上夺冠的模型，字节刚刚开源了（附夺冠代码）](https://www.toutiao.com/article/7086343773956964895/)
+- [超越向量检索！混合检索 + 重排序改善 RAG 应用](https://www.toutiao.com/article/7340919960333943336/)
 
 <br />
 
@@ -355,4 +356,5 @@
 - [ChatGLM相关](https://zhuanlan.zhihu.com/p/636245322)
 - [米哈游联合复旦，全面解读AI Agents现状与未来，网友：原神启动？！](https://www.toutiao.com/article/7288634082035483173/)
 - [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM/)
+- [机器遗忘同等重要，AI如何忘记不良数据，保护用户隐私？](https://www.toutiao.com/article/7340655572251083314/)
 
