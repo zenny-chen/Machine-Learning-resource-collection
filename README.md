@@ -353,6 +353,7 @@
 - [十分钟读懂旋转编码（RoPE）](https://www.toutiao.com/article/7291934189082296869/)
 - [有证据了，MIT表明：大型语言模型≠随机鹦鹉，确实能学到语义](https://www.toutiao.com/article/7235882840754684473/)
 - [大模型帮陶哲轩解题：数学真要成为首个借助AI实现突破的学科了？](https://www.toutiao.com/article/7250369242204340748/)
+- [被误解的「中文版Sora」背后，字节跳动有哪些技术？](https://www.toutiao.com/article/7345373147954938404/)
 - [ChatGLM相关](https://zhuanlan.zhihu.com/p/636245322)
 - [米哈游联合复旦，全面解读AI Agents现状与未来，网友：原神启动？！](https://www.toutiao.com/article/7288634082035483173/)
 - [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM/)
