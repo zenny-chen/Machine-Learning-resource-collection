@@ -359,4 +359,5 @@
 - [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM/)
 - [机器遗忘同等重要，AI如何忘记不良数据，保护用户隐私？](https://www.toutiao.com/article/7340655572251083314/)
 - [大视频模型是世界模型？华人一作：预测下一帧就能改变世界](https://www.toutiao.com/article/7342333546251420175/)
+- [技术神秘化的去魅：Sora关键技术逆向工程图解](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449970192&idx=1&sn=41802f683f10db36e07e4f4679fd6b13)
 
