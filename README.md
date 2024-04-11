@@ -362,5 +362,5 @@
 - [大视频模型是世界模型？华人一作：预测下一帧就能改变世界](https://www.toutiao.com/article/7342333546251420175/)
 - [技术神秘化的去魅：Sora关键技术逆向工程图解](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449970192&idx=1&sn=41802f683f10db36e07e4f4679fd6b13)
 - [机器人学习现状](https://mp.weixin.qq.com/s?__biz=MjM5NTE3Nzk4MQ==&mid=2651245464&idx=1&sn=b1f1d3734963e0be7b8b4b451276dd4a)
-
+- [为什么要纯C语言手搓GPT-2，Karpathy回应网友质疑](https://www.toutiao.com/article/7356515125815575080/)（相关 Github：[llm.c](https://github.com/karpathy/llm.c)）
 
