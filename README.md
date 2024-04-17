@@ -355,6 +355,7 @@
 - [大模型帮陶哲轩解题：数学真要成为首个借助AI实现突破的学科了？](https://www.toutiao.com/article/7250369242204340748/)
 - [被误解的「中文版Sora」背后，字节跳动有哪些技术？](https://www.toutiao.com/article/7345373147954938404/)
 - [ChatGLM相关](https://zhuanlan.zhihu.com/p/636245322)
+- [新架构掀翻Transformer！无限上下文处理，2万亿token碾压Llama 2](https://www.toutiao.com/article/7358728217143951882/)
 - [米哈游联合复旦，全面解读AI Agents现状与未来，网友：原神启动？！](https://www.toutiao.com/article/7288634082035483173/)
 - [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM/)
 - [概率的艺术：变分下界(ELBO)与VAE](https://mp.weixin.qq.com/s?__biz=MzI4ODY2NjYzMQ==&mid=2247499206&idx=1&sn=30b8be5b83c92a5ef9e7dd511b477d6e)
