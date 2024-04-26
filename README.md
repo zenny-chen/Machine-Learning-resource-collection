@@ -349,6 +349,7 @@
 - [10分钟打造基于ChatGPT的Markdown智能文档](https://www.toutiao.com/article/7231059890205295142/)
 - [llama3](https://github.com/meta-llama/llama3)
 - [MiniGPT-4](https://minigpt-4.github.io/)
+- [网传Llama 3比肩GPT-4？别闹了](https://www.toutiao.com/article/7362096812267717120/)
 - [加州理工华人用AI颠覆数学证明！震惊陶哲轩，80%数学步骤自动化](https://www.toutiao.com/article/7360941656805360179/)
 - [从语言模型到ChatGPT，大模型调教全攻略](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449960279&idx=1&sn=596a1806d4c02425fa37f3b32f990cc4)
 - [训练开销骤减，10%成本定制专属类GPT-4多模态大模型](https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247521918&idx=1&sn=37a41cd4200f79963d057777ed519b1c)
