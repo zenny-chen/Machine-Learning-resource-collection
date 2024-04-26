@@ -347,6 +347,7 @@
 - [被 GPT 带火的 Prompt 是什么？](https://www.toutiao.com/article/7216127870404395572/)
 - [教你如何本地部署chatGPT-3.5](https://www.toutiao.com/video/7216749125633573376/)
 - [10分钟打造基于ChatGPT的Markdown智能文档](https://www.toutiao.com/article/7231059890205295142/)
+- [llama3](https://github.com/meta-llama/llama3)
 - [MiniGPT-4](https://minigpt-4.github.io/)
 - [加州理工华人用AI颠覆数学证明！震惊陶哲轩，80%数学步骤自动化](https://www.toutiao.com/article/7360941656805360179/)
 - [从语言模型到ChatGPT，大模型调教全攻略](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449960279&idx=1&sn=596a1806d4c02425fa37f3b32f990cc4)
