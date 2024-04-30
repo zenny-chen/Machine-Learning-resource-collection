@@ -321,6 +321,7 @@
 - [深度学习的应用：语音识别、图像理解、自然语言处理](https://www.toutiao.com/i6490130609275404814/)
 - [那个在国际翻译大赛上夺冠的模型，字节刚刚开源了（附夺冠代码）](https://www.toutiao.com/article/7086343773956964895/)
 - [超越向量检索！混合检索 + 重排序改善 RAG 应用](https://www.toutiao.com/article/7340919960333943336/)
+- [AI知道苹果是什么吗？DeepMind科学家把这些概念变得可量化、测试](https://www.toutiao.com/article/7363585317460509194/)
 
 <br />
 
