@@ -258,6 +258,7 @@
 - [你的美颜，由无数程序猿亲手敲出的代码默默守护](https://www.toutiao.com/a6730030820804788750/)
 - [实战图像分类网络的可视化，从卷积结果，卷积核到激活图](https://www.toutiao.com/a6732615202006630923/)
 - [用 Vision Transformer 进行图像分类](https://www.toutiao.com/i6891942611586810371/)
+- [ECCV \| 数据高效的Transformer目标检测器](https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247535450&idx=1&sn=0724e41a31f5a1158d6710918bc07f24)
 - [踏进VIO领域前，最需要了解的工作——预积分（Preintegration） | Paper Reading第一季第七期](https://zhuanlan.zhihu.com/p/36323177)
 - [自动驾驶爆雷！美国专家4小时发现百度、英伟达561个故障](https://www.toutiao.com/a6754570097429332487/)
 - [一种基于学习视觉动力学方法，自动驾驶汽车的非线性模型预测控制](https://www.toutiao.com/i7055939691392008740/)
