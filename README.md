@@ -34,7 +34,6 @@
 
 ## 机器学习与神经网络
 
-- [机器之心（凤凰新闻）](https://ishare.ifeng.com/mediaShare/home/572565/media)
 - [我们把AI剖开，可视化还原文生图时到底发生了什么？](https://www.toutiao.com/video/7362862599249068544/)
 - [结构之法 算法之道](https://blog.csdn.net/v_JULY_v/)
 - [资源 | 普通程序员如何自学机器学习？这里有一份指南~](https://www.toutiao.com/i6495595128470635021/)
@@ -357,7 +356,7 @@
 - [网传Llama 3比肩GPT-4？别闹了](https://www.toutiao.com/article/7362096812267717120/)
 - [使用Ollama本地部署大模型驱动AI二次元小姐姐聊天](https://www.toutiao.com/video/7362751686470795813/)
 - [开源AirLLM，单卡4GB显存跑70B大模型](https://www.toutiao.com/article/7362772438071296522/)
-- [LeCun哈佛演讲PPT放出：唱衰自回归LLM，指明下一代AI方向](https://ishare.ifeng.com/c/s/v0028FXsBSje--r9aXEN13FdqzRPbJtDcwrkcGX0Em4HQdKs__)
+- [LeCun哈佛演讲PPT放出：唱衰自回归LLM，指明下一代AI方向](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650916807&idx=2&sn=75db0431064c449a6215a88de89c2a7c)
 - [加州理工华人用AI颠覆数学证明！震惊陶哲轩，80%数学步骤自动化](https://www.toutiao.com/article/7360941656805360179/)
 - [从语言模型到ChatGPT，大模型调教全攻略](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449960279&idx=1&sn=596a1806d4c02425fa37f3b32f990cc4)
 - [训练开销骤减，10%成本定制专属类GPT-4多模态大模型](https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247521918&idx=1&sn=37a41cd4200f79963d057777ed519b1c)
