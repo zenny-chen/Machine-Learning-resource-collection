@@ -165,6 +165,7 @@
 - [支持向量机原理讲解（一）](https://www.toutiao.com/a6670858850679128588)
 - [支持向量机算法有哪些优点和缺点？](https://www.toutiao.com/article/7224492574496358970/)
 - [Graph Learning -- 知识图谱概论](https://www.toutiao.com/a6675435647513133582)
+- [图机器学习入门：基本概念介绍](https://www.toutiao.com/article/7367574789135696384/)
 - [动画图解Attention机制，让你一看就明白](https://www.toutiao.com/a6689088984208900622)
 - [ConvD：增强注意力的动态卷积嵌入用于知识图谱补全](https://www.toutiao.com/article/7312476224914686473/)
 - [为什么要做特征缩放，怎么做特征缩放，什么时候做特征缩放？](https://www.toutiao.com/a6688971456245662220)
