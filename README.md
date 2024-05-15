@@ -43,6 +43,7 @@
 - [开发者不可错过的 10 个人工智能开源项目](https://www.toutiao.com/i6501830580370407950/)
 - [干货！火遍全球深度学习算法技术原理基础浅析！](https://www.toutiao.com/i6511110484731625997/)
 - [深度学习知识库](http://lib.csdn.net/base/deeplearning)
+- [为什么人工智能可以给数学带来革命性变化](https://www.toutiao.com/article/7369133201605853748/)
 - [斯坦福大学终于把神经网络原理搞清楚了！](https://www.toutiao.com/article/7368681866733519396/)
 - [斯坦福大学深度学习辅导](http://deeplearning.stanford.edu/tutorial/)
 - [「深度学习被可微分编程取代？」展望30年后的神经网络和函数编程](https://www.toutiao.com/i6508570177498513933/)
