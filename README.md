@@ -363,6 +363,7 @@
 - [llama3](https://github.com/meta-llama/llama3)
 - [MiniGPT-4](https://minigpt-4.github.io/)
 - [苹果开源语言模型OpenELM和训练框架CoreNet](https://www.toutiao.com/video/7361783951343649290/)
+- [Karpathy称赞，从零实现LLaMa3项目爆火，半天1.5k star](https://www.toutiao.com/article/7370984236017271337/)
 - [网传Llama 3比肩GPT-4？别闹了](https://www.toutiao.com/article/7362096812267717120/)
 - [使用Ollama本地部署大模型驱动AI二次元小姐姐聊天](https://www.toutiao.com/video/7362751686470795813/)
 - [开源AirLLM，单卡4GB显存跑70B大模型](https://www.toutiao.com/article/7362772438071296522/)
