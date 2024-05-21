@@ -39,6 +39,7 @@
 - [我们把AI剖开，可视化还原文生图时到底发生了什么？](https://www.toutiao.com/video/7362862599249068544/)
 - [结构之法 算法之道](https://blog.csdn.net/v_JULY_v/)
 - [资源 | 普通程序员如何自学机器学习？这里有一份指南~](https://www.toutiao.com/i6495595128470635021/)
+- [扩散模型和Transformer引爆时序方向！](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247599163&idx=1&sn=a479ed965603b2ec2f1d89b9e78cc6e2)
 - [你知道深度学习为什么叫做深度学习吗？](https://www.toutiao.com/a6815773202959041035/)
 - [开发者不可错过的 10 个人工智能开源项目](https://www.toutiao.com/i6501830580370407950/)
 - [干货！火遍全球深度学习算法技术原理基础浅析！](https://www.toutiao.com/i6511110484731625997/)
