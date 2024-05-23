@@ -284,6 +284,7 @@
 - [伯克利与OpenAI整合RL与GAN：让代理学习自动发现目标](https://www.toutiao.com/i6422053292158747138/)
 - [这个模型脑补能力比GAN更强，ETH超分辨率模型SRFlow](https://www.toutiao.com/a6869983251008750088/)
 - [3D点云配准算法简述](https://www.toutiao.com/a6796096548317954564/)
+- [CVPR'24开源 | TEAR：大规模点云配准新方案！笔记本也能实时！](https://www.toutiao.com/article/7371438512459104795/)
 - [多任务上实现SOTA，UBC、谷歌联合Hinton等提出3D点云的无监督胶囊网络](https://mp.weixin.qq.com/s/zjbI5WKNLSDQ6hV1MysX7w)
 - [史上最全的支付宝二维码扫码优化技术方案](https://developer.aliyun.com/article/769937)
 - [人脸识别技术无孔不入，一批科学家已经开始反抗](https://www.toutiao.com/a6861011896594596363/)
