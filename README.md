@@ -42,6 +42,7 @@
 - [扩散模型和Transformer引爆时序方向！](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247599163&idx=1&sn=a479ed965603b2ec2f1d89b9e78cc6e2)
 - [你知道深度学习为什么叫做深度学习吗？](https://www.toutiao.com/a6815773202959041035/)
 - [开发者不可错过的 10 个人工智能开源项目](https://www.toutiao.com/i6501830580370407950/)
+- [CogniTutor](https://gitlab.com/aitrain/cognitutor)
 - [干货！火遍全球深度学习算法技术原理基础浅析！](https://www.toutiao.com/i6511110484731625997/)
 - [网传Ilya Sutskever的推荐清单火了，掌握当前AI 90%](https://www.toutiao.com/article/7366953535700976167/)
 - [深度学习知识库](http://lib.csdn.net/base/deeplearning)
