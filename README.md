@@ -226,6 +226,7 @@
 - [马尔可夫决策过程(MDP)：马尔可夫奖励(MRP) + 智能体动作因素](https://www.toutiao.com/article/7224438666561749516/)
 - [基于范畴论的机器学习比较](https://www.toutiao.com/article/7289423458990309923/)
 - [一文捋顺千亿模型训练技术：流水线并行、张量并行和3D并行](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449964178&idx=1&sn=9c7820a3a08eaaa4a35ea1fea6deb229&chksm=b13c7af1864bf3e72c1d899a2b3c12d579b1a8a58f283326949bd6c5963d95185bef715922d2)
+- [世界模型也扩散！训练出的智能体竟然不错](https://www.toutiao.com/article/7372387998865818150/)
 
 <br />
 
