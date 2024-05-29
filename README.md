@@ -40,6 +40,7 @@
 - [结构之法 算法之道](https://blog.csdn.net/v_JULY_v/)
 - [资源 | 普通程序员如何自学机器学习？这里有一份指南~](https://www.toutiao.com/i6495595128470635021/)
 - [扩散模型和Transformer引爆时序方向！](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247599163&idx=1&sn=a479ed965603b2ec2f1d89b9e78cc6e2)
+- [大白话浅谈Transformer架构](https://www.toutiao.com/article/7373492288804094502/)
 - [你知道深度学习为什么叫做深度学习吗？](https://www.toutiao.com/a6815773202959041035/)
 - [开发者不可错过的 10 个人工智能开源项目](https://www.toutiao.com/i6501830580370407950/)
 - [CogniTutor](https://gitlab.com/aitrain/cognitutor)
