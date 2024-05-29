@@ -244,6 +244,7 @@
 
 ## 计算机视觉与图像识别相关
 
+- [Yolov10：详解、部署、应用一站式齐全！](https://www.toutiao.com/article/7373235751674217000/)
 - [ZZ opencv 识别图像中的四边形的代码](http://tlzl0526-gmail-com.iteye.com/blog/655920)
 - [机器视觉——双目视觉的基础知识（视差深度、标定、立体匹配）](https://www.toutiao.com/a6851074810483573255/)
 - [CV模式识别](http://wiki.opencv.org.cn/index.php/Cv模式识别)
