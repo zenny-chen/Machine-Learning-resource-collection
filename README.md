@@ -39,8 +39,6 @@
 - [我们把AI剖开，可视化还原文生图时到底发生了什么？](https://www.toutiao.com/video/7362862599249068544/)
 - [结构之法 算法之道](https://blog.csdn.net/v_JULY_v/)
 - [资源 | 普通程序员如何自学机器学习？这里有一份指南~](https://www.toutiao.com/i6495595128470635021/)
-- [扩散模型和Transformer引爆时序方向！](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247599163&idx=1&sn=a479ed965603b2ec2f1d89b9e78cc6e2)
-- [大白话浅谈Transformer架构](https://www.toutiao.com/article/7373492288804094502/)
 - [你知道深度学习为什么叫做深度学习吗？](https://www.toutiao.com/a6815773202959041035/)
 - [开发者不可错过的 10 个人工智能开源项目](https://www.toutiao.com/i6501830580370407950/)
 - [CogniTutor](https://gitlab.com/aitrain/cognitutor)
@@ -115,8 +113,6 @@
 - [深度学习框架Caffe源码解析](http://geek.csdn.net/news/detail/128789)
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [Shakir's Machine Learning Blog](http://blog.shakirm.com/category/machine-learning-and-statistics/)
-- [图像分类 | 深度学习PK传统机器学习](http://geek.csdn.net/news/detail/197931)
-- [继图像识别后，图像标注系统也被对抗样本攻陷！](https://www.toutiao.com/i6497745715836486158/)
 - [谷歌的AI造了一个AI，超过了人造的AI](https://www.toutiao.com/i6495532940200509966/)
 - [Open.ai新算法：一小时内训练AI系统后空翻，仅需900Bit的人类反馈数据](https://mp.weixin.qq.com/s?__biz=MzAwNDI4ODcxNA==&mid=504761354&idx=2&sn=5cd3f4c5e16c52d470c49d03d02eb428&chksm=00cc95af37bb1cb91c08bb2a71cc16d769847d517d5b164a440ec2b2f0d472b6f68a44c29e22&mpshare=1&scene=1&srcid=0614Lr2q8oG3aq7U47YPTAUf#rd)
 - [基于协同矩阵分解的多模态数据的哈希方法](https://www.toutiao.com/a6867930741628469774/)
@@ -151,6 +147,8 @@
 - [神经网络架构搜索](https://www.toutiao.com/i6574608156565963268)
 - [谷歌官方：反向传播算法图解](https://www.toutiao.com/i6572633780652081672)
 - [打破「反向传播」垄断，「正向自动微分」也能计算梯度，且训练时间减少一半](https://www.toutiao.com/i7075891320971067911/)
+- [扩散模型和Transformer引爆时序方向！](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247599163&idx=1&sn=a479ed965603b2ec2f1d89b9e78cc6e2)
+- [大白话浅谈Transformer架构](https://www.toutiao.com/article/7373492288804094502/)
 - [Transformer 架构逐层功能介绍和详细解释](https://www.toutiao.com/i7051390630940918305/)
 - [LeCun力挺！马毅教授五年集大成之作：数学可解释的白盒Transformer，性能不输ViT](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247575541&idx=2&sn=2c85a91aff13c84cecfaecb0f13c3d96)
 - [RetNet：万众期待的 Transformers 杀手](https://www.toutiao.com/article/7304956621552501285/)
@@ -228,6 +226,7 @@
 - [基于范畴论的机器学习比较](https://www.toutiao.com/article/7289423458990309923/)
 - [一文捋顺千亿模型训练技术：流水线并行、张量并行和3D并行](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449964178&idx=1&sn=9c7820a3a08eaaa4a35ea1fea6deb229&chksm=b13c7af1864bf3e72c1d899a2b3c12d579b1a8a58f283326949bd6c5963d95185bef715922d2)
 - [世界模型也扩散！训练出的智能体竟然不错](https://www.toutiao.com/article/7372387998865818150/)
+- [又一修图魔法！MIT、谷歌团队推出受控扩散模型Alchemist，任意修改图像属性，或颠覆视频游戏、机器人等领域](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247586642&idx=1&sn=1350bef185f330ed35d79cfbdf1968b0)
 
 <br />
 
@@ -272,6 +271,8 @@
 - [使用条件随机场（CRF）来提升图像分割的表现](https://www.toutiao.com/i6896641448884716044/)
 - [你的美颜，由无数程序猿亲手敲出的代码默默守护](https://www.toutiao.com/a6730030820804788750/)
 - [实战图像分类网络的可视化，从卷积结果，卷积核到激活图](https://www.toutiao.com/a6732615202006630923/)
+- [图像分类 | 深度学习PK传统机器学习](http://geek.csdn.net/news/detail/197931)
+- [继图像识别后，图像标注系统也被对抗样本攻陷！](https://www.toutiao.com/i6497745715836486158/)
 - [用 Vision Transformer 进行图像分类](https://www.toutiao.com/i6891942611586810371/)
 - [ECCV \| 数据高效的Transformer目标检测器](https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247535450&idx=1&sn=0724e41a31f5a1158d6710918bc07f24)
 - [踏进VIO领域前，最需要了解的工作——预积分（Preintegration） | Paper Reading第一季第七期](https://zhuanlan.zhihu.com/p/36323177)
