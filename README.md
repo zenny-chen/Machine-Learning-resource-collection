@@ -277,6 +277,7 @@
 - [继图像识别后，图像标注系统也被对抗样本攻陷！](https://www.toutiao.com/i6497745715836486158/)
 - [用 Vision Transformer 进行图像分类](https://www.toutiao.com/i6891942611586810371/)
 - [ECCV \| 数据高效的Transformer目标检测器](https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247535450&idx=1&sn=0724e41a31f5a1158d6710918bc07f24)
+- [LeCun直言：ViT速度慢且效率低，实时图像处理还得看卷积！](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247599871&idx=2&sn=7657a974e62059f38eca86b38b59efc8)
 - [踏进VIO领域前，最需要了解的工作——预积分（Preintegration） | Paper Reading第一季第七期](https://zhuanlan.zhihu.com/p/36323177)
 - [自动驾驶爆雷！美国专家4小时发现百度、英伟达561个故障](https://www.toutiao.com/a6754570097429332487/)
 - [一种基于学习视觉动力学方法，自动驾驶汽车的非线性模型预测控制](https://www.toutiao.com/i7055939691392008740/)
