@@ -382,6 +382,8 @@
 - [加州理工华人用AI颠覆数学证明！震惊陶哲轩，80%数学步骤自动化](https://www.toutiao.com/article/7360941656805360179/)
 - [从语言模型到ChatGPT，大模型调教全攻略](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449960279&idx=1&sn=596a1806d4c02425fa37f3b32f990cc4)
 - [训练开销骤减，10%成本定制专属类GPT-4多模态大模型](https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247521918&idx=1&sn=37a41cd4200f79963d057777ed519b1c)
+- [ChatGPT 真能记住你的话吗？DeepMind 与开源大佬揭示 LLM 记忆之谜](https://ishare.ifeng.com/c/s/v0069gDlUR--WWcJlujtlHxYaqkOa3HFKmvxjZ4Foz4Y2C8OTf-_2nZbIMuXJ8bwFDpEyc)
+- [首次解密Claude 3大脑！25岁Anthropic参谋长预言3年内自己将被AI淘汰](https://ishare.ifeng.com/c/s/v006wbjB1-_LNQNWu4TfbLiI3Y4imTbQbf3cHij29qkCWfMrzMxQvJH48YmtcQLTd1nHr)
 - [NÜWA：多模态预训练模型，大杀四方！（附源代码下载）](https://www.toutiao.com/article/7235614935160750604/)
 - [Pika北大斯坦福联合推出RPG，多模态助力解决文生图两大难题](https://www.toutiao.com/article/7336460736702677538/)
 - [十分钟读懂旋转编码（RoPE）](https://www.toutiao.com/article/7291934189082296869/)
