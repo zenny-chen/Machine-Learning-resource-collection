@@ -373,6 +373,7 @@
 - [llama3](https://github.com/meta-llama/llama3)
 - [MiniGPT-4](https://minigpt-4.github.io/)
 - [苹果开源语言模型OpenELM和训练框架CoreNet](https://www.toutiao.com/video/7361783951343649290/)
+- [Bringing GenAI Offline: running SLM’s like Phi-2/Phi-3 and Whisper Models on Mobile Devices](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bringing-genai-offline-running-slm-s-like-phi-2-phi-3-and/ba-p/4128056?WT.mc_id=studentamb_228125)
 - [Karpathy称赞，从零实现LLaMa3项目爆火，半天1.5k star](https://www.toutiao.com/article/7370984236017271337/)
 - [video2game](https://github.com/video2game/video2game)
 - [网传Llama 3比肩GPT-4？别闹了](https://www.toutiao.com/article/7362096812267717120/)
