@@ -52,7 +52,7 @@
 - [微分方程与机器学习](https://www.toutiao.com/i6901857619758137870/)
 - [神经网络训练过程中不收敛或者训练失败的原因](https://zhuanlan.zhihu.com/p/285601835)
 - [非凸函数上，随机梯度下降能否收敛？能有条件，比凸函数收敛更难](https://www.toutiao.com/i7061834102353248799/)
-- [监督学习之梯度下降——Andrew Ng机器学习笔记](https://www.toutiao.com/i6532253132796199438/)
+- [监督学习之梯度下降——Andrew Ng机器学习笔记（一）](https://blog.csdn.net/xiaocainiaodeboke/article/details/50371986)
 - [一次看懂线性回归与梯度下降，不懂梯度下降约等于不懂人工智能←](https://www.toutiao.com/video/7376126182107906596/)
 - [吴恩达深度学习笔记(77)-单层卷积网络(simple convolution)](https://www.toutiao.com/a6645947999820186119)
 - [卷积神经网络概念与原理](https://blog.csdn.net/qq_45360887/article/details/94737562)
