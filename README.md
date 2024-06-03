@@ -377,6 +377,7 @@
 - [Karpathy称赞，从零实现LLaMa3项目爆火，半天1.5k star](https://www.toutiao.com/article/7370984236017271337/)
 - [video2game](https://github.com/video2game/video2game)
 - [网传Llama 3比肩GPT-4？别闹了](https://www.toutiao.com/article/7362096812267717120/)
+- [斯坦福爆火Llama3-V竟抄袭国内开源项目，作者火速删库](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650920201&idx=2&sn=17eb3f97e7f8c757d104c0102684283c)
 - [使用Ollama本地部署大模型驱动AI二次元小姐姐聊天](https://www.toutiao.com/video/7362751686470795813/)
 - [开源AirLLM，单卡4GB显存跑70B大模型](https://www.toutiao.com/article/7362772438071296522/)
 - [LeCun哈佛演讲PPT放出：唱衰自回归LLM，指明下一代AI方向](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650916807&idx=2&sn=75db0431064c449a6215a88de89c2a7c)
