@@ -147,6 +147,7 @@
 - [一篇文章教你用 11 行 Python 代码实现神经网络](https://www.toutiao.com/i6411016342702391810/)
 - [非冯诺依曼新架构：IBM100万忆阻器大规模神经网络加速AI](https://www.toutiao.com/i6576794835460555267)
 - [机器学习中的分类](https://www.toutiao.com/a6637096294055674381)
+- [深入理解L1、L2正则化](https://www.cnblogs.com/zingp/p/10375691.html)
 - [L1和L2正则化的直观解释](https://www.toutiao.com/a6639660468589822472)
 - [初学者如何学习机器学习中的L1和L2正则化](https://www.toutiao.com/i6491490036947616270/)
 - [神经网络架构搜索](https://www.toutiao.com/i6574608156565963268)
