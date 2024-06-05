@@ -384,6 +384,7 @@
 - [斯坦福爆火Llama3-V竟抄袭国内开源项目，作者火速删库](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650920201&idx=2&sn=17eb3f97e7f8c757d104c0102684283c)
 - [使用Ollama本地部署大模型驱动AI二次元小姐姐聊天](https://www.toutiao.com/video/7362751686470795813/)
 - [开源AirLLM，单卡4GB显存跑70B大模型](https://www.toutiao.com/article/7362772438071296522/)
+- [为什么现在的LLM都是Decoder-only的架构？](https://kexue.fm/archives/9529)
 - [LeCun哈佛演讲PPT放出：唱衰自回归LLM，指明下一代AI方向](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650916807&idx=2&sn=75db0431064c449a6215a88de89c2a7c)
 - [加州理工华人用AI颠覆数学证明！震惊陶哲轩，80%数学步骤自动化](https://www.toutiao.com/article/7360941656805360179/)
 - [从语言模型到ChatGPT，大模型调教全攻略](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449960279&idx=1&sn=596a1806d4c02425fa37f3b32f990cc4)
