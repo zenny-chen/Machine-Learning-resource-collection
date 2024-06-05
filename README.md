@@ -365,6 +365,7 @@
 - [爱不释手，怪不得大咖都喜欢通过压缩算法实现Codec](https://www.toutiao.com/a6869955750110691852/)
 - [大规模数据的相似度计算 Min Hashing 和 LSH](https://www.toutiao.com/a6876219490678669827/)
 - [消息队列：kafka](https://www.toutiao.com/i6891283846294307331/)
+- [推荐系统公开课——8小时完整版，讲解工业界真实的推荐系统](https://www.bilibili.com/video/BV1HZ421U77y/)
 
 <br />
 
