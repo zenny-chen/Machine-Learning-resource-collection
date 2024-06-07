@@ -32,6 +32,7 @@
 - [AMD也能深度学习+免费AI绘画：超详细StableDiffusion+ROCm部署教程！](https://post.smzdm.com/p/aovp2rv7/)
 - [AI时代别掉队！无需GPU！你的笔记本就行，本地运行大语言模型](https://www.toutiao.com/article/7339803194752893452/)（[Ollama](https://ollama.com/)）
 - [TimesFM (Time Series Foundation Model)](https://github.com/google-research/timesfm/)
+- [用Kimi+即梦AI等，轻松制作节日MV](https://www.toutiao.com/video/7377254919851475490/)
 
 <br />
 
@@ -411,4 +412,5 @@
 - [技术神秘化的去魅：Sora关键技术逆向工程图解](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449970192&idx=1&sn=41802f683f10db36e07e4f4679fd6b13)
 - [机器人学习现状](https://mp.weixin.qq.com/s?__biz=MjM5NTE3Nzk4MQ==&mid=2651245464&idx=1&sn=b1f1d3734963e0be7b8b4b451276dd4a)
 - [为什么要纯C语言手搓GPT-2，Karpathy回应网友质疑](https://www.toutiao.com/article/7356515125815575080/)（相关 Github：[llm.c](https://github.com/karpathy/llm.c)）
+- [大模型都能怎么用？中南大学最新综述：大模型时代的自然语言处理](https://www.toutiao.com/article/7377379056968270371/)
 
