@@ -46,6 +46,7 @@
 - [CogniTutor](https://gitlab.com/aitrain/cognitutor)
 - [干货！火遍全球深度学习算法技术原理基础浅析！](https://www.toutiao.com/i6511110484731625997/)
 - [网传Ilya Sutskever的推荐清单火了，掌握当前AI 90%](https://www.toutiao.com/article/7366953535700976167/)
+- [收藏起来！27篇AI核心文章，读完掌握90%重要内容！](https://www.toutiao.com/article/7378674700207063567/)
 - [深度学习知识库](http://lib.csdn.net/base/deeplearning)
 - [为什么人工智能可以给数学带来革命性变化](https://www.toutiao.com/article/7369133201605853748/)
 - [斯坦福大学终于把神经网络原理搞清楚了！](https://www.toutiao.com/article/7368681866733519396/)
