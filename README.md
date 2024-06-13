@@ -19,6 +19,7 @@
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 - [PCL-Platform.Intelligence/pcl_pangu: 鹏程·盘古SDK 上线！](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/pcl_pangu)
 - [绘画AI stable-diffusion 快速入门](https://www.toutiao.com/article/7214446674557583887/)
+- [AI创作指南：用Kimi和Mid打造绚丽图文故事](https://www.toutiao.com/article/7379794852814307891/)
 - [OpenAI API Keys](https://platform.openai.com/account/api-keys)
 - [https://github.com/tencent-ailab](https://github.com/tencent-ailab)
 - [华人一作DragGAN爆火！拖动你的GAN：交互式图像编辑新高度](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247574498&idx=2&sn=e276b6f3cf48968da8ba608926de8f95)
