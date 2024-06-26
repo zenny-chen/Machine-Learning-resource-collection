@@ -13,7 +13,6 @@
 - [Direct Machine Learning \(DirectML\)](https://learn.microsoft.com/en-us/windows/ai/directml/dml)
 - [DirectML](https://github.com/microsoft/DirectML)
 - [OpenVX](https://www.khronos.org/openvx/)
-- [CUDNN 9 （1）核心概念介绍](https://juejin.cn/post/7353447472557555775)
 - [RTX AI Toolkit：AI PC时代创业者必备神器](https://mp.weixin.qq.com/s?__biz=MjM5NTE3Nzk4MQ==&mid=2651246041&idx=1&sn=97fda985a2126f77febc7306710b25b1)
 - [Google TensorFlow](https://tensorflow.google.cn/?hl=zh_cn)
 - [用Arduino玩人工智能，TensorFlow真香](https://www.toutiao.com/i6764560492234015244/)
