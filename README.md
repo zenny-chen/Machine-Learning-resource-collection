@@ -406,6 +406,7 @@
 - [十分钟读懂旋转编码（RoPE）](https://www.toutiao.com/article/7291934189082296869/)
 - [有证据了，MIT表明：大型语言模型≠随机鹦鹉，确实能学到语义](https://www.toutiao.com/article/7235882840754684473/)
 - [大模型帮陶哲轩解题：数学真要成为首个借助AI实现突破的学科了？](https://www.toutiao.com/article/7250369242204340748/)
+- [人刚毕业，颠覆整个AI界：扒一扒 Sora 两带头人博士论文](https://www.toutiao.com/article/7386559169815462400/)
 - [被误解的「中文版Sora」背后，字节跳动有哪些技术？](https://www.toutiao.com/article/7345373147954938404/)
 - [ChatGLM相关](https://zhuanlan.zhihu.com/p/636245322)
 - [新架构掀翻Transformer！无限上下文处理，2万亿token碾压Llama 2](https://www.toutiao.com/article/7358728217143951882/)
