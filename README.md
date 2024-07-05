@@ -40,6 +40,7 @@
 
 ## 机器学习与神经网络
 
+- [康奈尔大学ECE 5545： 机器学习硬件和系统 课程](https://www.bilibili.com/video/BV1ZY4y1C7Dk/)
 - [我们把AI剖开，可视化还原文生图时到底发生了什么？](https://www.toutiao.com/video/7362862599249068544/)
 - [结构之法 算法之道](https://blog.csdn.net/v_JULY_v/)
 - [资源 | 普通程序员如何自学机器学习？这里有一份指南~](https://www.toutiao.com/i6495595128470635021/)
