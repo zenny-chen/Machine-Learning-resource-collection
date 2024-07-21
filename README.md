@@ -6,6 +6,7 @@
 ## 机器学习各类框架
 
 - [Coursera](https://www.coursera.org/courses?query=free)
+- [EurekaLabsAI](https://github.com/EurekaLabsAI)
 - [Apple Machine Learning Journal](https://machinelearning.apple.com)
 - [你在打王者农药，有人却用iPhone来训练神经网络](https://www.toutiao.com/a6831386992148742670/)
 - [苹果开源Turi Create：让普通开发者玩得转机器学习！](https://www.toutiao.com/i6499294335509463566/)
