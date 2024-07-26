@@ -53,6 +53,7 @@
 - [网传Ilya Sutskever的推荐清单火了，掌握当前AI 90%](https://www.toutiao.com/article/7366953535700976167/)
 - [收藏起来！27篇AI核心文章，读完掌握90%重要内容！](https://www.toutiao.com/article/7378674700207063567/)
 - [深度学习知识库](http://lib.csdn.net/base/deeplearning)
+- [贾扬清共一论文获时间检验奖,国内无缘10篇最佳论文,ICML 2024奖项](https://www.toutiao.com/article/7394773055228117544/)
 - [为什么人工智能可以给数学带来革命性变化](https://www.toutiao.com/article/7369133201605853748/)
 - [斯坦福大学终于把神经网络原理搞清楚了！](https://www.toutiao.com/article/7368681866733519396/)
 - [斯坦福大学深度学习辅导](http://deeplearning.stanford.edu/tutorial/)
