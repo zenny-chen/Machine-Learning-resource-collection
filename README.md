@@ -19,6 +19,7 @@
 - [Google TensorFlow](https://tensorflow.google.cn/?hl=zh_cn)
 - [用Arduino玩人工智能，TensorFlow真香](https://www.toutiao.com/i6764560492234015244/)
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
+- [bilibili Stable Diffusion LiblibAI](https://www.liblib.art/)
 - [PCL-Platform.Intelligence/pcl_pangu: 鹏程·盘古SDK 上线！](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/pcl_pangu)
 - [绘画AI stable-diffusion 快速入门](https://www.toutiao.com/article/7214446674557583887/)
 - [Stable Diffusion 3上线：登顶最强开源AI绘画模型，笔电手机都能跑](https://www.toutiao.com/article/7379991414387622434/)
