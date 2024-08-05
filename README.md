@@ -431,6 +431,7 @@
 - [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM/)
 - [MLLM真能看懂数学吗？MathVerse来了次摸底测评，放出当天登热榜](https://www.toutiao.com/article/7359479432686191130/)
 - [为什么你的RAG不起作用？失败的主要原因和解决方案](https://www.toutiao.com/article/7376485726273274383/)
+- [视觉RAG](https://www.toutiao.com/article/7397396952326980111/)
 - [概率的艺术：变分下界(ELBO)与VAE](https://mp.weixin.qq.com/s?__biz=MzI4ODY2NjYzMQ==&mid=2247499206&idx=1&sn=30b8be5b83c92a5ef9e7dd511b477d6e)
 - [机器遗忘同等重要，AI如何忘记不良数据，保护用户隐私？](https://www.toutiao.com/article/7340655572251083314/)
 - [大视频模型是世界模型？华人一作：预测下一帧就能改变世界](https://www.toutiao.com/article/7342333546251420175/)
