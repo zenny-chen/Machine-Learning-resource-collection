@@ -381,6 +381,7 @@
 - [大规模数据的相似度计算 Min Hashing 和 LSH](https://www.toutiao.com/a6876219490678669827/)
 - [消息队列：kafka](https://www.toutiao.com/i6891283846294307331/)
 - [推荐系统公开课——8小时完整版，讲解工业界真实的推荐系统](https://www.bilibili.com/video/BV1HZ421U77y/)
+- [三个主要降维技术对比介绍：PCA, LCA,SVD](https://zhuanlan.zhihu.com/p/660216688)
 
 <br />
 
