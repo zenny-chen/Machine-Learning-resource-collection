@@ -392,6 +392,7 @@
 - [10分钟打造基于ChatGPT的Markdown智能文档](https://www.toutiao.com/article/7231059890205295142/)
 - [llama3](https://github.com/meta-llama/llama3)
 - [MiniGPT-4](https://minigpt-4.github.io/)
+- [abml.ai](https://labml.ai/)
 - [labml.ai Deep Learning Paper Implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 - [Monitor deep learning model training and hardware usage from mobile.](https://github.com/labmlai/labml)
 - [苹果开源语言模型OpenELM和训练框架CoreNet](https://www.toutiao.com/video/7361783951343649290/)
