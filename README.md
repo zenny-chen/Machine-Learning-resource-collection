@@ -167,6 +167,7 @@
 - [扩散模型和Transformer引爆时序方向！](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247599163&idx=1&sn=a479ed965603b2ec2f1d89b9e78cc6e2)
 - [大白话浅谈Transformer架构](https://www.toutiao.com/article/7373492288804094502/)
 - [Transformer 架构逐层功能介绍和详细解释](https://www.toutiao.com/i7051390630940918305/)
+- [八问八答搞懂Transformer内部运作原理](https://www.toutiao.com/article/7400282699929289242/)
 - [Transformer动画讲解 - 多模态](https://www.toutiao.com/article/7374687469742146057/)
 - [解决Transformer根本缺陷，CoPE论文爆火：大模型都能巨大改进](https://www.toutiao.com/article/7375071827288179200/)
 - [一文看懂AI的 Transformer 架构！](https://www.toutiao.com/article/7394474364336357888/)
