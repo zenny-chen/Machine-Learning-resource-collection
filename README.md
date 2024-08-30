@@ -400,6 +400,7 @@
 - [Bringing GenAI Offline: running SLM’s like Phi-2/Phi-3 and Whisper Models on Mobile Devices](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bringing-genai-offline-running-slm-s-like-phi-2-phi-3-and/ba-p/4128056?WT.mc_id=studentamb_228125)
 - [Karpathy称赞，从零实现LLaMa3项目爆火，半天1.5k star](https://www.toutiao.com/article/7370984236017271337/)
 - [video2game](https://github.com/video2game/video2game)
+- [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io/)
 - [AI记忆神器Mem0开源，仅仅一天斩获近万星！](https://www.toutiao.com/article/7394384819760349747/)（https://github.com/mem0ai/mem0）
 - [GraphRAG: New tool for complex data discovery now on GitHub](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
 - [【llm大语言模型】一文看懂llama2(原理,模型,训练)](https://zhuanlan.zhihu.com/p/651248009)
