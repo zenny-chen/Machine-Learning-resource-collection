@@ -264,6 +264,7 @@
 ## 计算机视觉与图像识别相关
 
 - [Yolov10：详解、部署、应用一站式齐全！](https://www.toutiao.com/article/7373235751674217000/)
+- [GPT-4o vs YOLO-World 哪个更适合作为视觉提示基础模型？通过视觉提示级联基础模型](https://mp.weixin.qq.com/s?__biz=MzU4MzU2MDg0NA==&mid=2247486757&idx=1&sn=756e693bdfcb253d23077de24006fc80)
 - [ZZ opencv 识别图像中的四边形的代码](http://tlzl0526-gmail-com.iteye.com/blog/655920)
 - [机器视觉——双目视觉的基础知识（视差深度、标定、立体匹配）](https://www.toutiao.com/a6851074810483573255/)
 - [CV模式识别](http://wiki.opencv.org.cn/index.php/Cv模式识别)
@@ -315,6 +316,7 @@
 - [多任务上实现SOTA，UBC、谷歌联合Hinton等提出3D点云的无监督胶囊网络](https://mp.weixin.qq.com/s/zjbI5WKNLSDQ6hV1MysX7w)
 - [史上最全的支付宝二维码扫码优化技术方案](https://developer.aliyun.com/article/769937)
 - [人脸识别技术无孔不入，一批科学家已经开始反抗](https://www.toutiao.com/a6861011896594596363/)
+- [学术新视野，每日AI论文展：工业质检、医疗影像等场景，多模态模型、图像修复及目标检测等方向](https://mp.weixin.qq.com/s?__biz=MzU4MzU2MDg0NA==&mid=2247486913&idx=1&sn=24aea4831f562bc15f19a0384a087032)
 
 <br />
 
