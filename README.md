@@ -429,6 +429,7 @@
 - [只需这个小工具，让Stable Diffusion彻底崩溃！狗变猫，车变牛](https://www.toutiao.com/article/7294299979143856692/)
 - [首次解密Claude 3大脑！25岁Anthropic参谋长预言3年内自己将被AI淘汰](https://ishare.ifeng.com/c/s/v006wbjB1-_LNQNWu4TfbLiI3Y4imTbQbf3cHij29qkCWfMrzMxQvJH48YmtcQLTd1nHr)
 - [NÜWA：多模态预训练模型，大杀四方！（附源代码下载）](https://www.toutiao.com/article/7235614935160750604/)
+- [多模态大模型: 盘点\&Highlights part1——从BLIP到LLaVA](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449979937&idx=1&sn=bb7487099a9c063f77249b7a24b9885f)
 - [Pika北大斯坦福联合推出RPG，多模态助力解决文生图两大难题](https://www.toutiao.com/article/7336460736702677538/)
 - [十分钟读懂旋转编码（RoPE）](https://www.toutiao.com/article/7291934189082296869/)
 - [有证据了，MIT表明：大型语言模型≠随机鹦鹉，确实能学到语义](https://www.toutiao.com/article/7235882840754684473/)
