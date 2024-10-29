@@ -122,6 +122,7 @@
 - [初窥神经网络内部机制，图文详解权重和隐藏层](https://www.toutiao.com/i6492916793626067469/)
 - [你所不了解的深度神经网络](https://www.toutiao.com/i6495509752401887758/)
 - [深度学习框架Caffe源码解析](http://geek.csdn.net/news/detail/128789)
+- [Caffe学习系列：solver优化方法(梯度下降算法)](https://blog.csdn.net/yeler082/article/details/83032870)
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [Shakir's Machine Learning Blog](http://blog.shakirm.com/category/machine-learning-and-statistics/)
 - [谷歌的AI造了一个AI，超过了人造的AI](https://www.toutiao.com/i6495532940200509966/)
