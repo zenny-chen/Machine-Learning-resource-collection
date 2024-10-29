@@ -174,6 +174,7 @@
 - [LLM技术研究：Transformer 背后的数学知识](https://www.toutiao.com/article/7395825179349320227/)
 - [LeCun力挺！马毅教授五年集大成之作：数学可解释的白盒Transformer，性能不输ViT](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247575541&idx=2&sn=2c85a91aff13c84cecfaecb0f13c3d96)
 - [RetNet：万众期待的 Transformers 杀手](https://www.toutiao.com/article/7304956621552501285/)
+- [超越Transformer！MIT等华人团队发布通用时序TimeMixer++架构](https://www.toutiao.com/article/7431094887023395340/)
 - [熵：从热力学到机器学习](https://www.toutiao.com/i6568668830892032526)
 - [人工智能可识别您手写的内容了-深度学习进行手写字体页面分割](https://www.toutiao.com/i6567471256659034638)
 - [不同的领域、框架，这是一份超全的深度学习模型GitHub集合](https://www.toutiao.com/i6566899025239343620)
@@ -405,6 +406,7 @@
 - [video2game](https://github.com/video2game/video2game)
 - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io/)
 - [AI记忆神器Mem0开源，仅仅一天斩获近万星！](https://www.toutiao.com/article/7394384819760349747/)（https://github.com/mem0ai/mem0）
+- [谷歌版贾维斯即将问世，Gemini 2.0加持！AI自主操控电脑时代来临](https://www.toutiao.com/article/7430631665484988939/)
 - [GraphRAG: New tool for complex data discovery now on GitHub](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
 - [为什么你的RAG不起作用？失败的主要原因和解决方案](https://www.toutiao.com/article/7376485726273274383/)
 - [视觉RAG](https://www.toutiao.com/article/7397396952326980111/)
