@@ -165,6 +165,7 @@
 - [神经网络架构搜索](https://www.toutiao.com/i6574608156565963268)
 - [谷歌官方：反向传播算法图解](https://www.toutiao.com/i6572633780652081672)
 - [打破「反向传播」垄断，「正向自动微分」也能计算梯度，且训练时间减少一半](https://www.toutiao.com/i7075891320971067911/)
+- [一文带你了解BP算法](https://zhuanlan.zhihu.com/p/539374919)（**Error Back Propagation**，误差反向传播算法，也叫误差逆传播算法）
 - [扩散模型和Transformer引爆时序方向！](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247599163&idx=1&sn=a479ed965603b2ec2f1d89b9e78cc6e2)
 - [大白话浅谈Transformer架构](https://www.toutiao.com/article/7373492288804094502/)
 - [Transformer 架构逐层功能介绍和详细解释](https://www.toutiao.com/i7051390630940918305/)
