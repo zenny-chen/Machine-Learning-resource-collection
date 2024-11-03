@@ -406,6 +406,7 @@
 - [苹果开源语言模型OpenELM和训练框架CoreNet](https://www.toutiao.com/video/7361783951343649290/)
 - [Bringing GenAI Offline: running SLM’s like Phi-2/Phi-3 and Whisper Models on Mobile Devices](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bringing-genai-offline-running-slm-s-like-phi-2-phi-3-and/ba-p/4128056?WT.mc_id=studentamb_228125)
 - [Karpathy称赞，从零实现LLaMa3项目爆火，半天1.5k star](https://www.toutiao.com/article/7370984236017271337/)
+- [为什么要纯C语言手搓GPT-2，Karpathy回应网友质疑](https://www.toutiao.com/article/7356515125815575080/)（相关 Github：[llm.c](https://github.com/karpathy/llm.c)）
 - [video2game](https://github.com/video2game/video2game)
 - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io/)
 - [AI记忆神器Mem0开源，仅仅一天斩获近万星！](https://www.toutiao.com/article/7394384819760349747/)（https://github.com/mem0ai/mem0）
@@ -442,6 +443,7 @@
 - [大模型帮陶哲轩解题：数学真要成为首个借助AI实现突破的学科了？](https://www.toutiao.com/article/7250369242204340748/)
 - [人刚毕业，颠覆整个AI界：扒一扒 Sora 两带头人博士论文](https://www.toutiao.com/article/7386559169815462400/)
 - [被误解的「中文版Sora」背后，字节跳动有哪些技术？](https://www.toutiao.com/article/7345373147954938404/)
+- [技术神秘化的去魅：Sora关键技术逆向工程图解](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449970192&idx=1&sn=41802f683f10db36e07e4f4679fd6b13)
 - [ChatGLM相关](https://zhuanlan.zhihu.com/p/636245322)
 - [CV又不存在了？Meta分割一切2.0正式开源，视频也能分割了](https://www.toutiao.com/article/7397337878411493888/)
 - [新架构掀翻Transformer！无限上下文处理，2万亿token碾压Llama 2](https://www.toutiao.com/article/7358728217143951882/)
@@ -451,8 +453,7 @@
 - [概率的艺术：变分下界(ELBO)与VAE](https://mp.weixin.qq.com/s?__biz=MzI4ODY2NjYzMQ==&mid=2247499206&idx=1&sn=30b8be5b83c92a5ef9e7dd511b477d6e)
 - [机器遗忘同等重要，AI如何忘记不良数据，保护用户隐私？](https://www.toutiao.com/article/7340655572251083314/)
 - [大视频模型是世界模型？华人一作：预测下一帧就能改变世界](https://www.toutiao.com/article/7342333546251420175/)
-- [技术神秘化的去魅：Sora关键技术逆向工程图解](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449970192&idx=1&sn=41802f683f10db36e07e4f4679fd6b13)
 - [机器人学习现状](https://mp.weixin.qq.com/s?__biz=MjM5NTE3Nzk4MQ==&mid=2651245464&idx=1&sn=b1f1d3734963e0be7b8b4b451276dd4a)
-- [为什么要纯C语言手搓GPT-2，Karpathy回应网友质疑](https://www.toutiao.com/article/7356515125815575080/)（相关 Github：[llm.c](https://github.com/karpathy/llm.c)）
 - [大模型都能怎么用？中南大学最新综述：大模型时代的自然语言处理](https://www.toutiao.com/article/7377379056968270371/)
+- [全球首款AI游戏诞生！无需游戏引擎，视频模型直出我的世界](https://www.toutiao.com/article/7432670323008373302/)
 
