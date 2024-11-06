@@ -284,6 +284,7 @@
 - [目标检测的图像特征提取之（三）Haar特征](http://blog.csdn.net/zouxy09/article/details/7929570)
 - [目标检测的图像特征提取之（四）OpenCV中BLOB特征提取与几何形状分类](http://blog.csdn.net/guyuealian/article/details/72026839)
 - [万字长文：特征可视化技术\(CAM\)](https://zhuanlan.zhihu.com/p/269702192)
+- [大幅提升SAM 2性能！港中文提出SAM2Long：复杂长视频的分割模型](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247610620&idx=2&sn=695c92116d2a6c2fa1a7954429282fdb)
 - [多目标跟踪全解析，全网最全](https://www.toutiao.com/i6885906120649966083/)
 - [多目标跟踪：监控领域你必须要了解的算法](https://www.toutiao.com/i6889984496263922184/)
 - [目标检测一卷到底之后，终于有人为它挖了个新坑｜CVPR2021 Oral](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247545736&idx=1&sn=a8ab1d78c4adf474e46e0d1fa69370c3&chksm=ec1cde71db6b57675fe55393e996e66e673976fb67788c3b38a9a8f8643db1fa7e1e2ff256a3&mpshare=1&srcid=03139dKtTbfpoD2wGkTwXSXD&sharer_sharetime=1615613212044&sharer_shareid=84dfc9ee25045626e755f49e2619dc8d)
