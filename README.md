@@ -175,6 +175,7 @@
 - [解决Transformer根本缺陷，CoPE论文爆火：大模型都能巨大改进](https://www.toutiao.com/article/7375071827288179200/)
 - [一文看懂AI的 Transformer 架构！](https://www.toutiao.com/article/7394474364336357888/)
 - [LLM技术研究：Transformer 背后的数学知识](https://www.toutiao.com/article/7395825179349320227/)
+- [Transformer打破三十年数学猜想！算法杀手攻克数学难题](https://www.toutiao.com/article/7436677697876623913/)
 - [LeCun力挺！马毅教授五年集大成之作：数学可解释的白盒Transformer，性能不输ViT](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247575541&idx=2&sn=2c85a91aff13c84cecfaecb0f13c3d96)
 - [RetNet：万众期待的 Transformers 杀手](https://www.toutiao.com/article/7304956621552501285/)
 - [超越Transformer！MIT等华人团队发布通用时序TimeMixer++架构](https://www.toutiao.com/article/7431094887023395340/)
