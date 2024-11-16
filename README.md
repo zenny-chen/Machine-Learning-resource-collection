@@ -417,6 +417,7 @@
 - [AI记忆神器Mem0开源，仅仅一天斩获近万星！](https://www.toutiao.com/article/7394384819760349747/)（https://github.com/mem0ai/mem0）
 - [谷歌版贾维斯即将问世，Gemini 2.0加持！AI自主操控电脑时代来临](https://www.toutiao.com/article/7430631665484988939/)
 - [GraphRAG: New tool for complex data discovery now on GitHub](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
+- [AIGC Fast GraphRAG：微软推出的高效知识图谱检索框架](https://www.toutiao.com/article/7434560555446207014/)
 - [为什么你的RAG不起作用？失败的主要原因和解决方案](https://www.toutiao.com/article/7376485726273274383/)
 - [视觉RAG](https://www.toutiao.com/article/7397396952326980111/)
 - [破解PDF解析难题：RAG中高效解析复杂PDF的最佳选择](https://mp.weixin.qq.com/s?__biz=MzU4MzU2MDg0NA==&mid=2247487019&idx=1&sn=6c2a4a8ebaa15672186b2e382122f646)
@@ -444,6 +445,7 @@
 - [首次解密Claude 3大脑！25岁Anthropic参谋长预言3年内自己将被AI淘汰](https://ishare.ifeng.com/c/s/v006wbjB1-_LNQNWu4TfbLiI3Y4imTbQbf3cHij29qkCWfMrzMxQvJH48YmtcQLTd1nHr)
 - [NÜWA：多模态预训练模型，大杀四方！（附源代码下载）](https://www.toutiao.com/article/7235614935160750604/)
 - [多模态大模型: 盘点\&Highlights part1——从BLIP到LLaVA](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449979937&idx=1&sn=bb7487099a9c063f77249b7a24b9885f)
+- [多模态大模型系列：Qwen-VL解读及其实战(以配图文案生成为例)](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449980609&idx=1&sn=b48971c44b368c24693f9297d8b961b8)
 - [Pika北大斯坦福联合推出RPG，多模态助力解决文生图两大难题](https://www.toutiao.com/article/7336460736702677538/)
 - [十分钟读懂旋转编码（RoPE）](https://www.toutiao.com/article/7291934189082296869/)
 - [有证据了，MIT表明：大型语言模型≠随机鹦鹉，确实能学到语义](https://www.toutiao.com/article/7235882840754684473/)
