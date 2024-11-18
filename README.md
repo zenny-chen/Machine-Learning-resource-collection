@@ -174,6 +174,7 @@
 - [Transformer动画讲解 - 多模态](https://www.toutiao.com/article/7374687469742146057/)
 - [解决Transformer根本缺陷，CoPE论文爆火：大模型都能巨大改进](https://www.toutiao.com/article/7375071827288179200/)
 - [一文看懂AI的 Transformer 架构！](https://www.toutiao.com/article/7394474364336357888/)
+- [什么是 Transformer 模型（一）](https://www.toutiao.com/article/7410354136098619956/)
 - [动图详解 transformer，彻底读懂 transformer模型](https://www.toutiao.com/article/7415526514861359679/)
 - [LLM技术研究：Transformer 背后的数学知识](https://www.toutiao.com/article/7395825179349320227/)
 - [Transformer打破三十年数学猜想！算法杀手攻克数学难题](https://www.toutiao.com/article/7436677697876623913/)
