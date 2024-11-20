@@ -176,6 +176,7 @@
 - [一文看懂AI的 Transformer 架构！](https://www.toutiao.com/article/7394474364336357888/)
 - [什么是 Transformer 模型（一）](https://www.toutiao.com/article/7410354136098619956/)
 - [动图详解 transformer，彻底读懂 transformer模型](https://www.toutiao.com/article/7415526514861359679/)
+- [transformer的细节到底是怎么样的？Transformer 连环18问！](https://www.toutiao.com/article/7438210339893772854/)
 - [LLM技术研究：Transformer 背后的数学知识](https://www.toutiao.com/article/7395825179349320227/)
 - [Transformer打破三十年数学猜想！算法杀手攻克数学难题](https://www.toutiao.com/article/7436677697876623913/)
 - [LeCun力挺！马毅教授五年集大成之作：数学可解释的白盒Transformer，性能不输ViT](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247575541&idx=2&sn=2c85a91aff13c84cecfaecb0f13c3d96)
@@ -449,6 +450,7 @@
 - [多模态大模型系列：Qwen-VL解读及其实战(以配图文案生成为例)](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449980609&idx=1&sn=b48971c44b368c24693f9297d8b961b8)
 - [Pika北大斯坦福联合推出RPG，多模态助力解决文生图两大难题](https://www.toutiao.com/article/7336460736702677538/)
 - [十分钟读懂旋转编码（RoPE）](https://www.toutiao.com/article/7291934189082296869/)
+- [大模型承重墙，去掉了就开始摆烂！苹果给出了「超级权重」](https://www.toutiao.com/article/7438893651855540745/)
 - [有证据了，MIT表明：大型语言模型≠随机鹦鹉，确实能学到语义](https://www.toutiao.com/article/7235882840754684473/)
 - [大模型帮陶哲轩解题：数学真要成为首个借助AI实现突破的学科了？](https://www.toutiao.com/article/7250369242204340748/)
 - [人刚毕业，颠覆整个AI界：扒一扒 Sora 两带头人博士论文](https://www.toutiao.com/article/7386559169815462400/)
@@ -466,4 +468,5 @@
 - [机器人学习现状](https://mp.weixin.qq.com/s?__biz=MjM5NTE3Nzk4MQ==&mid=2651245464&idx=1&sn=b1f1d3734963e0be7b8b4b451276dd4a)
 - [大模型都能怎么用？中南大学最新综述：大模型时代的自然语言处理](https://www.toutiao.com/article/7377379056968270371/)
 - [全球首款AI游戏诞生！无需游戏引擎，视频模型直出我的世界](https://www.toutiao.com/article/7432670323008373302/)
+- [如何让你的大模型联网：网络研究助手指北](https://mp.weixin.qq.com/s?__biz=MzUyNzc5NzMzNg==&mid=2247483710&idx=1&sn=27b738469c20fb1c25cb9ea8813665a7)
 
