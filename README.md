@@ -43,6 +43,7 @@
 
 ## 机器学习与神经网络
 
+- [德国科学家激进观点：意识是虚拟的，存在于大脑构建的梦中](https://www.toutiao.com/article/7439245480694989349/)
 - [康奈尔大学ECE 5545： 机器学习硬件和系统 课程](https://www.bilibili.com/video/BV1ZY4y1C7Dk/)
 - [我们把AI剖开，可视化还原文生图时到底发生了什么？](https://www.toutiao.com/video/7362862599249068544/)
 - [结构之法 算法之道](https://blog.csdn.net/v_JULY_v/)
@@ -416,6 +417,7 @@
 - [为什么要纯C语言手搓GPT-2，Karpathy回应网友质疑](https://www.toutiao.com/article/7356515125815575080/)（相关 Github：[llm.c](https://github.com/karpathy/llm.c)）
 - [video2game](https://github.com/video2game/video2game)
 - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io/)
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)
 - [AI记忆神器Mem0开源，仅仅一天斩获近万星！](https://www.toutiao.com/article/7394384819760349747/)（https://github.com/mem0ai/mem0）
 - [谷歌版贾维斯即将问世，Gemini 2.0加持！AI自主操控电脑时代来临](https://www.toutiao.com/article/7430631665484988939/)
 - [GraphRAG: New tool for complex data discovery now on GitHub](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
