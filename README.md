@@ -445,6 +445,7 @@
 - [ChatGPT 真能记住你的话吗？DeepMind 与开源大佬揭示 LLM 记忆之谜](https://ishare.ifeng.com/c/s/v0069gDlUR--WWcJlujtlHxYaqkOa3HFKmvxjZ4Foz4Y2C8OTf-_2nZbIMuXJ8bwFDpEyc)
 - [OpenAI：我们初步破解了GPT-4的大脑](https://www.toutiao.com/article/7377582364630762025/)
 - [OpenAI凌晨发布新研究！证明者和验证者无限套娃！](https://www.toutiao.com/article/7393004539886846518/)
+- [大模型不会推理，为什么也能有思路？有人把原理搞明白了](https://www.toutiao.com/article/7439985666328429065/)
 - [只需这个小工具，让Stable Diffusion彻底崩溃！狗变猫，车变牛](https://www.toutiao.com/article/7294299979143856692/)
 - [首次解密Claude 3大脑！25岁Anthropic参谋长预言3年内自己将被AI淘汰](https://ishare.ifeng.com/c/s/v006wbjB1-_LNQNWu4TfbLiI3Y4imTbQbf3cHij29qkCWfMrzMxQvJH48YmtcQLTd1nHr)
 - [NÜWA：多模态预训练模型，大杀四方！（附源代码下载）](https://www.toutiao.com/article/7235614935160750604/)
