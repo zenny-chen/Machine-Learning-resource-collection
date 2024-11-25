@@ -425,6 +425,7 @@
 - [为什么你的RAG不起作用？失败的主要原因和解决方案](https://www.toutiao.com/article/7376485726273274383/)
 - [视觉RAG](https://www.toutiao.com/article/7397396952326980111/)
 - [破解PDF解析难题：RAG中高效解析复杂PDF的最佳选择](https://mp.weixin.qq.com/s?__biz=MzU4MzU2MDg0NA==&mid=2247487019&idx=1&sn=6c2a4a8ebaa15672186b2e382122f646)
+- [小学二年级数学水平，跟着这篇博客也能理解LLM运行原理](https://www.toutiao.com/article/7441101132698485257/)
 - [【llm大语言模型】一文看懂llama2(原理,模型,训练)](https://zhuanlan.zhihu.com/p/651248009)
 - [ECCV 2024 最佳论文候选！PointLLM：使大语言模型理解点云](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247609022&idx=2&sn=c8813beed70476c8d0d0b82b6ea8843e)
 - [20 分钟带你搞懂 LLMOps ！！](https://www.toutiao.com/article/7367564141915095562/)
