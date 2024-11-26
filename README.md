@@ -26,6 +26,7 @@
 - [AI创作指南：用Kimi和Mid打造绚丽图文故事](https://www.toutiao.com/article/7379794852814307891/)
 - [OpenAI API Keys](https://platform.openai.com/account/api-keys)
 - [https://github.com/tencent-ailab](https://github.com/tencent-ailab)
+- [A Fundamental End-to-End Speech Recognition Toolkit](https://github.com/modelscope/FunASR)
 - [华人一作DragGAN爆火！拖动你的GAN：交互式图像编辑新高度](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247574498&idx=2&sn=e276b6f3cf48968da8ba608926de8f95)
 - [一觉醒后ChatGPT 被淘汰了](https://blog.csdn.net/Rocky006/article/details/130221814)
 - [AI自动纠正动作姿势！基于物理动画制作工具Cascadeur又放大招！](https://mp.weixin.qq.com/s?__biz=MzU2MTU4MTc1Ng==&mid=2247743808&idx=1&sn=42d01ec917a9ffa1b19c1497d3d6c950)
@@ -415,6 +416,7 @@
 - [Bringing GenAI Offline: running SLM’s like Phi-2/Phi-3 and Whisper Models on Mobile Devices](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bringing-genai-offline-running-slm-s-like-phi-2-phi-3-and/ba-p/4128056?WT.mc_id=studentamb_228125)
 - [Karpathy称赞，从零实现LLaMa3项目爆火，半天1.5k star](https://www.toutiao.com/article/7370984236017271337/)
 - [为什么要纯C语言手搓GPT-2，Karpathy回应网友质疑](https://www.toutiao.com/article/7356515125815575080/)（相关 Github：[llm.c](https://github.com/karpathy/llm.c)）
+- [这才是真开源模型！公开后训练一切，性能超越Llama 3.1 Instruct](https://www.toutiao.com/article/7441166226782487049/)
 - [video2game](https://github.com/video2game/video2game)
 - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io/)
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)
