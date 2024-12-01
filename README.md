@@ -437,6 +437,7 @@
 - [使用Ollama本地部署大模型驱动AI二次元小姐姐聊天](https://www.toutiao.com/video/7362751686470795813/)
 - [开源AirLLM，单卡4GB显存跑70B大模型](https://www.toutiao.com/article/7362772438071296522/)
 - [vLLM这一年的新特性以及后续规划（总结版!）](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449980369&idx=1&sn=02f4fd3fe93c03c9b231bdd7885ebf4c)
+- [Kimi开源底层推理框架，1小时GitHub揽星1.2k](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449981382&idx=1&sn=ecde7d1b8d4880ebe048be18d1b2991b)
 - [1块3090就能训7B大模型，山东大学提出低带宽低显存训练法](https://www.toutiao.com/article/7382211685387567666/)
 - [告别庞然大物，拥抱小巧精悍！面向移动和边缘设备的小型语言模型综述](https://mp.weixin.qq.com/s?__biz=MzU4MzU2MDg0NA==&mid=2247487031&idx=1&sn=fa7707c1acaacce1ec85dc0b0a7e5d51)
 - [盛名一时的BERT哪去了？这个问题的答案昭示了LLM范式的转变](https://www.toutiao.com/article/7394361020262646282/)
