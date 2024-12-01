@@ -34,6 +34,7 @@
 - [5分钟内我用AI创建了4首歌](https://www.toutiao.com/article/7231831534482162210/)
 - [最新！ControlNet 无需模型预处理器 Reference-only](https://www.toutiao.com/article/7233011602486870584/)
 - [近期OpenAI推出了一个名为Shap-E的3D模型生成器](https://www.toutiao.com/w/1766188835927054/)
+- [OpenAI Triton 入门教程](https://zhuanlan.zhihu.com/p/684473453)（[Triton](https://github.com/triton-lang/triton) ; [Installation](https://triton-lang.org/main/getting-started/installation.html)）
 - [打开潘多拉魔盒的不是OpenAI，而是谷歌？](https://www.toutiao.com/article/7234287180980552252/)
 - [彻底失眠！把Agent拉到一个群干活！跑完实例后emo了！附官方论文](https://www.toutiao.com/article/7311247213148193317/)
 - [AMD也能深度学习+免费AI绘画：超详细StableDiffusion+ROCm部署教程！](https://post.smzdm.com/p/aovp2rv7/)
