@@ -76,6 +76,7 @@
 - [机器学习算法篇—卷积神经网络（Convolutional Neural Network）](https://www.toutiao.com/i6501957974188098062/)
 - [你看到的最直白清晰的CNN讲解](https://www.toutiao.com/i6511115545486557710/)
 - [「科普:CNN论文介绍的开篇」神经网络与卷积神经网络](https://www.fjshuchi.com/news/jdm8hbmmummjb9u.html)
+- [动画详解 CNN 卷积神经网络，每层数据流向清晰易懂](https://www.toutiao.com/article/7439299104754188800/)
 - [CNN模型的发展：自2012AlexNet-2017DRN的17篇CNN模型论文总结](https://cloud.tencent.com/developer/article/1370927)
 - [数据流的图卷积主题模型](https://www.toutiao.com/a6815851885774242307/)
 - [卷积神经网络各层反向传播公式推导](https://www.toutiao.com/a6867407578150732300/)
