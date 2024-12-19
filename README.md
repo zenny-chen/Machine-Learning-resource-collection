@@ -68,6 +68,7 @@
 - [非凸函数上，随机梯度下降能否收敛？能有条件，比凸函数收敛更难](https://www.toutiao.com/i7061834102353248799/)
 - [监督学习之梯度下降——Andrew Ng机器学习笔记（一）](https://blog.csdn.net/xiaocainiaodeboke/article/details/50371986)
 - [一次看懂线性回归与梯度下降，不懂梯度下降约等于不懂人工智能←](https://www.toutiao.com/video/7376126182107906596/)
+- [深入理解机器学习中的最大熵原理与Softmax函数](https://www.toutiao.com/article/7449685339989475890/)
 - [吴恩达深度学习笔记(77)-单层卷积网络(simple convolution)](https://www.toutiao.com/a6645947999820186119)
 - [卷积神经网络概念与原理](https://blog.csdn.net/qq_45360887/article/details/94737562)
 - [详解卷积神经网络结构核心设计思想与实践](https://mp.weixin.qq.com/s/5BJR9g4SrB1bWtlWjnxX3w)
@@ -423,6 +424,7 @@
 - [video2game](https://github.com/video2game/video2game)
 - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io/)
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)
+- [吴恩达官宣开源，yyds！](https://www.toutiao.com/article/7449173542618268196/)
 - [AI记忆神器Mem0开源，仅仅一天斩获近万星！](https://www.toutiao.com/article/7394384819760349747/)（https://github.com/mem0ai/mem0）
 - [谷歌版贾维斯即将问世，Gemini 2.0加持！AI自主操控电脑时代来临](https://www.toutiao.com/article/7430631665484988939/)
 - [GraphRAG: New tool for complex data discovery now on GitHub](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
