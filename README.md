@@ -470,6 +470,7 @@
 - [技术神秘化的去魅：Sora关键技术逆向工程图解](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449970192&idx=1&sn=41802f683f10db36e07e4f4679fd6b13)
 - [Sora之后，Apple发布视频生成大模型STIV：87亿参数大一统T2V、TI2V任务](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247612527&idx=2&sn=b3bfdfad3fa2f634ede5253a17607772)
 - [ChatGLM相关](https://zhuanlan.zhihu.com/p/636245322)
+- [RWKV-7：极先进的大模型架构，长文本能力极强](https://mp.weixin.qq.com/s?__biz=MzkxMDYxNzg2Nw==&mid=2247485335&idx=1&sn=c3d2a95d5935d72c8a3d75feaa480ded)
 - [CV又不存在了？Meta分割一切2.0正式开源，视频也能分割了](https://www.toutiao.com/article/7397337878411493888/)
 - [新架构掀翻Transformer！无限上下文处理，2万亿token碾压Llama 2](https://www.toutiao.com/article/7358728217143951882/)
 - [米哈游联合复旦，全面解读AI Agents现状与未来，网友：原神启动？！](https://www.toutiao.com/article/7288634082035483173/)
