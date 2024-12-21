@@ -26,6 +26,7 @@
 - [Stable Diffusion 3上线：登顶最强开源AI绘画模型，笔电手机都能跑](https://www.toutiao.com/article/7379991414387622434/)
 - [AI创作指南：用Kimi和Mid打造绚丽图文故事](https://www.toutiao.com/article/7379794852814307891/)
 - [OpenAI API Keys](https://platform.openai.com/account/api-keys)
+- [Welcome to the Gemini API Cookbook](https://github.com/google-gemini/cookbook)
 - [https://github.com/tencent-ailab](https://github.com/tencent-ailab)
 - [A Fundamental End-to-End Speech Recognition Toolkit](https://github.com/modelscope/FunASR)
 - [华人一作DragGAN爆火！拖动你的GAN：交互式图像编辑新高度](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247574498&idx=2&sn=e276b6f3cf48968da8ba608926de8f95)
