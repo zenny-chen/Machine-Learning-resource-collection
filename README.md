@@ -7,6 +7,7 @@
 
 - [Coursera](https://www.coursera.org/courses?query=free)
 - [EurekaLabsAI](https://github.com/EurekaLabsAI)
+- [Primers • Ilya Sutskever's Top 30](https://aman.ai/primers/ai/top-30-papers/)
 - [nVIDIA Deep Learning Institute](https://learn.nvidia.com/my-learning)
 - [Apple Machine Learning Journal](https://machinelearning.apple.com)
 - [你在打王者农药，有人却用iPhone来训练神经网络](https://www.toutiao.com/a6831386992148742670/)
