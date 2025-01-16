@@ -20,6 +20,7 @@
 - [RTX AI Toolkit：AI PC时代创业者必备神器](https://mp.weixin.qq.com/s?__biz=MjM5NTE3Nzk4MQ==&mid=2651246041&idx=1&sn=97fda985a2126f77febc7306710b25b1)
 - [Google TensorFlow](https://tensorflow.google.cn/?hl=zh_cn)
 - [用Arduino玩人工智能，TensorFlow真香](https://www.toutiao.com/i6764560492234015244/)
+- [PyTorch](https://github.com/pytorch/pytorch)
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 - [bilibili Stable Diffusion LiblibAI](https://www.liblib.art/)
 - [PCL-Platform.Intelligence/pcl_pangu: 鹏程·盘古SDK 上线！](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/pcl_pangu)
