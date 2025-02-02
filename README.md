@@ -21,6 +21,8 @@
 - [Google TensorFlow](https://tensorflow.google.cn/?hl=zh_cn)
 - [用Arduino玩人工智能，TensorFlow真香](https://www.toutiao.com/i6764560492234015244/)
 - [PyTorch](https://github.com/pytorch/pytorch)
+- [Open R1](https://github.com/huggingface/open-r1)
+- [\[SIGGRAPH'24\] CharacterGen: Efficient 3D Character Generation from Single Images with Multi-View Pose Calibration](https://huggingface.co/spaces/VAST-AI/CharacterGen)
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 - [bilibili Stable Diffusion LiblibAI](https://www.liblib.art/)
 - [PCL-Platform.Intelligence/pcl_pangu: 鹏程·盘古SDK 上线！](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/pcl_pangu)
