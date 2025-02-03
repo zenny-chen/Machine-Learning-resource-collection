@@ -9,6 +9,7 @@
 - [EurekaLabsAI](https://github.com/EurekaLabsAI)
 - [Primers • Ilya Sutskever's Top 30](https://aman.ai/primers/ai/top-30-papers/)
 - [nVIDIA Deep Learning Institute](https://learn.nvidia.com/my-learning)
+- [Experience Test-Time Scaling with DeepSeek](https://build.nvidia.com/explore/discover)
 - [Apple Machine Learning Journal](https://machinelearning.apple.com)
 - [你在打王者农药，有人却用iPhone来训练神经网络](https://www.toutiao.com/a6831386992148742670/)
 - [苹果开源Turi Create：让普通开发者玩得转机器学习！](https://www.toutiao.com/i6499294335509463566/)
