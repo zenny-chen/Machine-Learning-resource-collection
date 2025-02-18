@@ -361,6 +361,7 @@
 - [神经网络并不是尚方宝剑，我们需要正视深度 NLP 模型的泛化问题](https://www.toutiao.com/i6598502707328188932)
 - [NLP领域的瑞士军刀？一个模型搞定十大自然语言常见任务](https://www.toutiao.com/i6571346295909253636)
 - [全面拥抱Transformer：NLP三大特征抽取器(CNN/RNN/TF)比较](https://www.toutiao.com/a6645982666732601859)
+- [自回归是否是通往语言智能的唯一路径？——生成模型的一些思考（3）](https://zhuanlan.zhihu.com/p/24214732238)
 - [最强NLP模型BERT可视化学习](https://www.toutiao.com/a6647294004691993091)
 - [NLP中各种各样的编码器](https://www.toutiao.com/a6819857426532008461/)
 - [Encoder-Decoder 模型架构详解](https://www.toutiao.com/a6798309686937387528/)
