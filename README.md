@@ -488,6 +488,7 @@
 - [CV又不存在了？Meta分割一切2.0正式开源，视频也能分割了](https://www.toutiao.com/article/7397337878411493888/)
 - [新架构掀翻Transformer！无限上下文处理，2万亿token碾压Llama 2](https://www.toutiao.com/article/7358728217143951882/)
 - [米哈游联合复旦，全面解读AI Agents现状与未来，网友：原神启动？！](https://www.toutiao.com/article/7288634082035483173/)
+- [放弃agent，图灵奖得主Yoshua Bengio提出Scientist AI：避免人类生存威胁](https://www.toutiao.com/article/7475648478366941735/)
 - [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM/)
 - [MLLM真能看懂数学吗？MathVerse来了次摸底测评，放出当天登热榜](https://www.toutiao.com/article/7359479432686191130/)
 - [概率的艺术：变分下界(ELBO)与VAE](https://mp.weixin.qq.com/s?__biz=MzI4ODY2NjYzMQ==&mid=2247499206&idx=1&sn=30b8be5b83c92a5ef9e7dd511b477d6e)
