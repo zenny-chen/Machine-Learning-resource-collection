@@ -26,6 +26,8 @@
 - [PyTorch](https://github.com/pytorch/pytorch)
 - [Open R1](https://github.com/huggingface/open-r1)
 - [\[SIGGRAPH'24\] CharacterGen: Efficient 3D Character Generation from Single Images with Multi-View Pose Calibration](https://huggingface.co/spaces/VAST-AI/CharacterGen)
+- [LeRobot: State-of-the-art AI for real-world robotics](https://github.com/huggingface/lerobot?tab=readme-ov-file)
+- [如何从0搭建具身智能Lerobot SO-ARM100机械臂并完成自定义抓取任务](https://wiki.seeedstudio.com/cn/lerobot_so100m/)
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 - [bilibili Stable Diffusion LiblibAI](https://www.liblib.art/)
 - [PCL-Platform.Intelligence/pcl_pangu: 鹏程·盘古SDK 上线！](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/pcl_pangu)
