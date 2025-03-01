@@ -12,6 +12,7 @@
 - [Experience Test-Time Scaling with DeepSeek](https://build.nvidia.com/explore/discover)
 - [Deepseek满血+联网本地部署：使用博查联网搜索能力](https://mp.weixin.qq.com/s?__biz=MzkxOTU4NzEyOQ==&mid=2247508883&idx=1&sn=9285d1f991a656bf8e62179d0634fb7e)
 - [DeepSeek 开源周第二天开源项目 DeepEP，有哪些亮点值得关注？](https://www.zhihu.com/question/13300262806/answer/109885238731)
+- [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
 - [Apple Machine Learning Journal](https://machinelearning.apple.com)
 - [你在打王者农药，有人却用iPhone来训练神经网络](https://www.toutiao.com/a6831386992148742670/)
 - [苹果开源Turi Create：让普通开发者玩得转机器学习！](https://www.toutiao.com/i6499294335509463566/)
