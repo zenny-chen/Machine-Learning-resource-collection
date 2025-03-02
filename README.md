@@ -467,6 +467,7 @@
 - [撞车DeepSeek NSA，Kimi杨植麟署名的新注意力架构MoBA发布，代码也公开​](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449984724&idx=1&sn=f3967ba97fbcced986cf58b026c6733b)
 - [星观点 | DeepSeek“芯”机遇，轻量化大模型赋能边端侧AI应用](https://mp.weixin.qq.com/s?__biz=Mzg5NDI0MTI5Mg==&mid=2247490124&idx=1&sn=6ccf1a740851690d684d999262768080)
 - [What is a Mixture of Experts (MoE)?](https://huggingface.co/blog/moe)
+- [算法、系统和应用，三个视角全面读懂混合专家（MoE）](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247564505&idx=3&sn=52a9c8d755a9418b80568b65ed59c6ee)
 - [1块3090就能训7B大模型，山东大学提出低带宽低显存训练法](https://www.toutiao.com/article/7382211685387567666/)
 - [告别庞然大物，拥抱小巧精悍！面向移动和边缘设备的小型语言模型综述](https://mp.weixin.qq.com/s?__biz=MzU4MzU2MDg0NA==&mid=2247487031&idx=1&sn=fa7707c1acaacce1ec85dc0b0a7e5d51)
 - [盛名一时的BERT哪去了？这个问题的答案昭示了LLM范式的转变](https://www.toutiao.com/article/7394361020262646282/)
