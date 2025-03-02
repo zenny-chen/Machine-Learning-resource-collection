@@ -12,6 +12,7 @@
 - [Experience Test-Time Scaling with DeepSeek](https://build.nvidia.com/explore/discover)
 - [Deepseek满血+联网本地部署：使用博查联网搜索能力](https://mp.weixin.qq.com/s?__biz=MzkxOTU4NzEyOQ==&mid=2247508883&idx=1&sn=9285d1f991a656bf8e62179d0634fb7e)
 - [DeepSeek 开源周第二天开源项目 DeepEP，有哪些亮点值得关注？](https://www.zhihu.com/question/13300262806/answer/109885238731)
+- [Introducing DeepSeek-V3](https://api-docs.deepseek.com/news/news1226)
 - [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
 - [NVIDIA TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
 - [NVIDIA TensorRT-LLM Docs](https://docs.nvidia.com/tensorrt-llm/index.html)
