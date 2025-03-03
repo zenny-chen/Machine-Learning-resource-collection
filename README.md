@@ -175,6 +175,7 @@
 - [基于注意力机制，机器之心带你理解与训练神经机器翻译系统](https://www.toutiao.com/i6554661251996189198)
 - [ConvD：增强注意力的动态卷积嵌入用于知识图谱补全](https://www.toutiao.com/article/7312476224914686473/)
 - [动画图解Attention机制，让你一看就明白](https://www.toutiao.com/a6689088984208900622)
+- [注意力机制的输入和输出](https://blog.csdn.net/flyfish1986/article/details/143802557)
 - [机器学习工程师必懂10大算法](https://www.toutiao.com/i6635865004769804807)
 - [从 TensorFlow 到 PyTorch：九大深度学习框架哪款最适合你？](https://www.toutiao.com/i6603238287530263054)
 - [TensorFlow实现神经网络入门篇](https://www.toutiao.com/i6489016314676380173/)
