@@ -468,6 +468,7 @@
 - [刚刚，DeepSeek放出注意力新机制论文，梁文锋亲自参与！](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449984689&idx=1&sn=d297b2be28d62d9cc478a8ec7a0c3014)
 - [撞车DeepSeek NSA，Kimi杨植麟署名的新注意力架构MoBA发布，代码也公开​](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449984724&idx=1&sn=f3967ba97fbcced986cf58b026c6733b)
 - [星观点 | DeepSeek“芯”机遇，轻量化大模型赋能边端侧AI应用](https://mp.weixin.qq.com/s?__biz=Mzg5NDI0MTI5Mg==&mid=2247490124&idx=1&sn=6ccf1a740851690d684d999262768080)
+- [笔记：ktransformer/llama.cpp/vllm + int4 671B DeepSeek R1 模型单机大显存 GPU 部署笔记](https://zhuanlan.zhihu.com/p/24178815248)
 - [What is a Mixture of Experts (MoE)?](https://huggingface.co/blog/moe)
 - [算法、系统和应用，三个视角全面读懂混合专家（MoE）](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247564505&idx=3&sn=52a9c8d755a9418b80568b65ed59c6ee)
 - [1块3090就能训7B大模型，山东大学提出低带宽低显存训练法](https://www.toutiao.com/article/7382211685387567666/)
