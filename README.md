@@ -155,6 +155,7 @@
 - [变分自编码机](http://blog.csdn.net/wemedia/details.html?id=42029)
 - [10年前VAE经典论文获奖，ICLR 2024首个时间检验奖公布](https://www.toutiao.com/article/7366954374747013651/)
 - [变分贝叶斯深度学习综述](https://zhuanlan.zhihu.com/p/484650175)
+- [贝叶斯神经网络（BNN）入门](https://zhuanlan.zhihu.com/p/713747221)
 - [Top 10 Machine Learning Algorighms Everyone Should know to Become Data Scientist](http://houseofbots.com/news-detail/3531-4-top-10-machine-learning-algorighms-everyone-should-know-to-become-data-scientist)
 - [傻瓜神经网络入门指南](https://yq.aliyun.com/articles/674886?utm_content=m_1000028455)
 - [辛普森悖论：如何用同一数据证明相反的论点](https://www.toutiao.com/i6617252703640748551)
