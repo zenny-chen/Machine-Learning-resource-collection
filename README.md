@@ -164,6 +164,7 @@
 - [人工智能基础：LSTM及其变种介绍，方便针对实际问题取舍](https://www.toutiao.com/i6506491503433482756/)
 - [原作者带队，LSTM真杀回来了！](https://www.toutiao.com/article/7366949372905275923/)
 - [他让人工智能有了“长短期记忆”](https://www.toutiao.com/article/7386210759807599104/)
+- [Long-CoT 后，推理模型的「思维模板」有哪些新玩法？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650960236&idx=1&sn=3fdeb40722780a53878ec82b10f2c09a)
 - [深度学习前沿：一文看懂近年来卷积神经网络性能优化历程](https://www.toutiao.com/i6583819871388172813)
 - [炼丹感悟——超详细解读](https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247491422&idx=1&sn=bb77570cac15584b0b0c7da96c662169&chksm=fb726382cc05ea945371553595e36ab7e8dfd54ce8b1ccfa5558342b3132e7e7780a41de5fe3&mpshare=1&scene=23&srcid=09249y9XRxsZq8UbskBjgaBT&sharer_sharetime=1600913249594&sharer_shareid=35ac76bf9ad4a719bab0994dd606caf6#rd)
 - [进化算法与神经网络](https://www.toutiao.com/i6604751493914427917)
