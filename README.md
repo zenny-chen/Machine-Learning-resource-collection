@@ -512,6 +512,7 @@
 - [概率的艺术：变分下界(ELBO)与VAE](https://mp.weixin.qq.com/s?__biz=MzI4ODY2NjYzMQ==&mid=2247499206&idx=1&sn=30b8be5b83c92a5ef9e7dd511b477d6e)
 - [机器遗忘同等重要，AI如何忘记不良数据，保护用户隐私？](https://www.toutiao.com/article/7340655572251083314/)
 - [大视频模型是世界模型？华人一作：预测下一帧就能改变世界](https://www.toutiao.com/article/7342333546251420175/)
+- [盘一盘，2017年Transformer之后，LLM领域的重要论文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650976419&idx=2&sn=6da6cce46955d7de2a195177f8ca5ec0)
 - [机器人学习现状](https://mp.weixin.qq.com/s?__biz=MjM5NTE3Nzk4MQ==&mid=2651245464&idx=1&sn=b1f1d3734963e0be7b8b4b451276dd4a)
 - [NVIDIA Isaac GR00T N1：世界首个开源通用人形机器人基础模型](https://blog.csdn.net/kunhe0512/article/details/146374989)
 - [大模型都能怎么用？中南大学最新综述：大模型时代的自然语言处理](https://www.toutiao.com/article/7377379056968270371/)
