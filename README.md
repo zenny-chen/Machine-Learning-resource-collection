@@ -505,6 +505,7 @@
 - [RWKV-7：极先进的大模型架构，长文本能力极强](https://mp.weixin.qq.com/s?__biz=MzkxMDYxNzg2Nw==&mid=2247485335&idx=1&sn=c3d2a95d5935d72c8a3d75feaa480ded)
 - [CV又不存在了？Meta分割一切2.0正式开源，视频也能分割了](https://www.toutiao.com/article/7397337878411493888/)
 - [新架构掀翻Transformer！无限上下文处理，2万亿token碾压Llama 2](https://www.toutiao.com/article/7358728217143951882/)
+- [AI Agent vs. Agentic AI | 一文带你了解：什么是AI Agent，什么是Agentic AI？](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247504016&idx=1&sn=30328c5b7ada767c8b9b05c51c942e89)
 - [米哈游联合复旦，全面解读AI Agents现状与未来，网友：原神启动？！](https://www.36kr.com/p/2469805704583047)
 - [放弃agent，图灵奖得主Yoshua Bengio提出Scientist AI：避免人类生存威胁](https://www.toutiao.com/article/7475648478366941735/)
 - [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM/)
