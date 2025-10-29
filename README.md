@@ -507,6 +507,7 @@
 - [RWKV-7：极先进的大模型架构，长文本能力极强](https://mp.weixin.qq.com/s?__biz=MzkxMDYxNzg2Nw==&mid=2247485335&idx=1&sn=c3d2a95d5935d72c8a3d75feaa480ded)
 - [CV又不存在了？Meta分割一切2.0正式开源，视频也能分割了](https://www.toutiao.com/article/7397337878411493888/)
 - [新架构掀翻Transformer！无限上下文处理，2万亿token碾压Llama 2](https://www.toutiao.com/article/7358728217143951882/)
+- [Meta打碎Transformer 8年铁律！改写AI最底层规则，模型冒出潜意识](https://www.toutiao.com/article/7564625559151346212/)
 - [AI Agent vs. Agentic AI | 一文带你了解：什么是AI Agent，什么是Agentic AI？](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247504016&idx=1&sn=30328c5b7ada767c8b9b05c51c942e89)
 - [米哈游联合复旦，全面解读AI Agents现状与未来，网友：原神启动？！](https://www.36kr.com/p/2469805704583047)
 - [14B打败671B！微软rStar2-Agent在数学推理上超过DeepSeek-R1](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650988661&idx=1&sn=064cfce34c6c5106b3eef8ab2a183158)
