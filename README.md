@@ -526,4 +526,5 @@
 - [大模型都能怎么用？中南大学最新综述：大模型时代的自然语言处理](https://www.toutiao.com/article/7377379056968270371/)
 - [全球首款AI游戏诞生！无需游戏引擎，视频模型直出我的世界](https://www.toutiao.com/article/7432670323008373302/)
 - [如何让你的大模型联网：网络研究助手指北](https://mp.weixin.qq.com/s?__biz=MzUyNzc5NzMzNg==&mid=2247483710&idx=1&sn=27b738469c20fb1c25cb9ea8813665a7)
+- [1100多个模型殊途同归，指向一个「通用子空间」，柏拉图又赢一回？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651007176&idx=2&sn=a68a3f775ff535b6aae480ff40a4b270)
 
