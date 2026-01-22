@@ -500,6 +500,7 @@
 - [大模型承重墙，去掉了就开始摆烂！苹果给出了「超级权重」](https://www.toutiao.com/article/7438893651855540745/)
 - [弥补LLM自回归推理缺陷！苹果联合提出LaDiR：潜在扩散增强文本推理](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449995257&idx=1&sn=df2bba1fc6b8307ecd1fe4f710b1d604&poc_token=HEWq9WijaX4WCctmK_6YB2jvMWxAz19eF9lTA4Vo)
 - [全面超越GRPO！阿里提出新型强化学习框架，可同时增强LLM和MLLM推理能力](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449997274&idx=1&sn=159ffb0076dfb45056e7b2b0b9e7f99c)
+- [RL Infra架构演进：异步化是王道 从RLHF迈向Agentic RL](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2450000344&idx=1&sn=4bf8270f7ffb300b2633cbe625091aca)
 - [有证据了，MIT表明：大型语言模型≠随机鹦鹉，确实能学到语义](https://www.toutiao.com/article/7235882840754684473/)
 - [大模型帮陶哲轩解题：数学真要成为首个借助AI实现突破的学科了？](https://www.toutiao.com/article/7250369242204340748/)
 - [人刚毕业，颠覆整个AI界：扒一扒 Sora 两带头人博士论文](https://www.toutiao.com/article/7386559169815462400/)
