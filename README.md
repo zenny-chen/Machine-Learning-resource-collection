@@ -210,6 +210,7 @@
 - [解决Transformer根本缺陷，CoPE论文爆火：大模型都能巨大改进](https://www.toutiao.com/article/7375071827288179200/)
 - [Transformer打破三十年数学猜想！算法杀手攻克数学难题](https://www.toutiao.com/article/7436677697876623913/)
 - [MIT团队：用Transformer解决经验贝叶斯问题，比经典方法快100倍](https://www.toutiao.com/article/7476420376919065129/)
+- [哥大终于证明：Transformer真的在做贝叶斯](https://mp.weixin.qq.com/s?__biz=MzkzMDY4MTQxOA==&mid=2247485408&idx=1&sn=7db0fe23e38728450b13e56656c85890)
 - [LeCun力挺！马毅教授五年集大成之作：数学可解释的白盒Transformer，性能不输ViT](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247575541&idx=2&sn=2c85a91aff13c84cecfaecb0f13c3d96)
 - [RetNet：万众期待的 Transformers 杀手](https://www.toutiao.com/article/7304956621552501285/)
 - [超越Transformer！MIT等华人团队发布通用时序TimeMixer++架构](https://www.toutiao.com/article/7431094887023395340/)
