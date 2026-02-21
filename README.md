@@ -41,6 +41,7 @@
 - [Stable Diffusion 3上线：登顶最强开源AI绘画模型，笔电手机都能跑](https://www.toutiao.com/article/7379991414387622434/)
 - [AI创作指南：用Kimi和Mid打造绚丽图文故事](https://www.toutiao.com/article/7379794852814307891/)
 - [OpenAI API Keys](https://platform.openai.com/account/api-keys)
+- [OpenClaw — Personal AI Assistant](https://github.com/openclaw/openclaw)
 - [Welcome to the Gemini API Cookbook](https://github.com/google-gemini/cookbook)
 - [https://github.com/tencent-ailab](https://github.com/tencent-ailab)
 - [A Fundamental End-to-End Speech Recognition Toolkit](https://github.com/modelscope/FunASR)
