@@ -207,6 +207,7 @@
 - [Transformer 架构逐层功能介绍和详细解释](https://www.toutiao.com/i7051390630940918305/)
 - [八问八答搞懂Transformer内部运作原理](https://www.toutiao.com/article/7400282699929289242/)
 - [Transformer动画讲解 - 多模态](https://www.toutiao.com/article/7374687469742146057/)
+- [Transformer可解释性获重大突破，成果登《Nature》子刊，霸榜顶会！](https://mp.weixin.qq.com/s?__biz=MzkzODQ3NzY3MQ==&mid=2247516003&idx=1&sn=790ff700b2c59b1e70ac7c7490ead59d)
 - [解决Transformer根本缺陷，CoPE论文爆火：大模型都能巨大改进](https://www.toutiao.com/article/7375071827288179200/)
 - [Transformer打破三十年数学猜想！算法杀手攻克数学难题](https://www.toutiao.com/article/7436677697876623913/)
 - [MIT团队：用Transformer解决经验贝叶斯问题，比经典方法快100倍](https://www.toutiao.com/article/7476420376919065129/)
