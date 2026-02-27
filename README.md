@@ -183,6 +183,7 @@
 - [注意力机制到底是什么——基于常识的基本结构介绍](https://www.toutiao.com/a6820654117745066509/)
 - [Attention is All You Need？LSTM 提出者：我看未必](https://www.toutiao.com/a6861831132921463309/)
 - [KV Cache（一）：从KV Cache看懂Attention（MHA、MQA、GQA、MLA）的优化](https://mp.weixin.qq.com/s?__biz=Mzg4NTA4MjA4NQ==&mid=2247484643&idx=1&sn=4867271be33cb8c89fddde5a5b68159f)
+- [深度学习之注意力机制中QKV原理解读](https://mp.weixin.qq.com/s?__biz=Mzk2NDQzMTU1OQ==&mid=2247484283&idx=1&sn=7a755bfd73341731600b6d6bbc99bf7d)
 - [一步一步动画图解LSTM和GRU，没有数学，包你看的明白](https://www.toutiao.com/a6716476758826156552)
 - [TensorFlow MNIST高级学习](https://www.toutiao.com/i6487458243957228046/)
 - [机器学习工程师必懂10大算法](https://www.toutiao.com/i6635865004769804807)
