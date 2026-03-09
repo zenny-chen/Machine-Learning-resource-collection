@@ -5,6 +5,7 @@
 
 ## 机器学习各类框架
 
+- [48小时“烧光”56万！三人创业团队濒临破产，仅因Gemini API密钥被盗：“AI账单远超我们的银行余额”](https://blog.csdn.net/csdnnews/article/details/158707793)
 - [Coursera](https://www.coursera.org/courses?query=free)
 - [EurekaLabsAI](https://github.com/EurekaLabsAI)
 - [Primers • Ilya Sutskever's Top 30](https://aman.ai/primers/ai/top-30-papers/)
