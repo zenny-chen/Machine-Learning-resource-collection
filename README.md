@@ -44,6 +44,7 @@
 - [OpenAI API Keys](https://platform.openai.com/account/api-keys)
 - [OpenClaw — Personal AI Assistant](https://github.com/openclaw/openclaw)
 - [OpenClaw 使用心得与高阶技巧（整理版）](https://mp.weixin.qq.com/s/ReQu44T_XBsuyusIMAt03g)
+- [Claude Code](https://github.com/anthropics/claude-code)
 - [Welcome to the Gemini API Cookbook](https://github.com/google-gemini/cookbook)
 - [https://github.com/tencent-ailab](https://github.com/tencent-ailab)
 - [A Fundamental End-to-End Speech Recognition Toolkit](https://github.com/modelscope/FunASR)
