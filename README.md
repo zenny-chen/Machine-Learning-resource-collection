@@ -36,6 +36,7 @@
 - [OpenClaw — Personal AI Assistant](https://github.com/openclaw/openclaw)
 - [OpenClaw 使用心得与高阶技巧（整理版）](https://mp.weixin.qq.com/s/ReQu44T_XBsuyusIMAt03g)
 - [Claude Code](https://github.com/anthropics/claude-code)
+- [吴恩达推出 Context Hub，专治 AI 写代码时的「瞎编」问题](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453481223&idx=1&sn=aaa647d1a075c5a8219f1cf99e8c0ca5)
 - [LeRobot: State-of-the-art AI for real-world robotics](https://github.com/huggingface/lerobot?tab=readme-ov-file)
 - [如何从0搭建具身智能Lerobot SO-ARM100机械臂并完成自定义抓取任务](https://wiki.seeedstudio.com/cn/lerobot_so100m/)
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
