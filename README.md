@@ -223,6 +223,7 @@
 - [LeCun力挺！马毅教授五年集大成之作：数学可解释的白盒Transformer，性能不输ViT](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247575541&idx=2&sn=2c85a91aff13c84cecfaecb0f13c3d96)
 - [RetNet：万众期待的 Transformers 杀手](https://www.toutiao.com/article/7304956621552501285/)
 - [超越Transformer！MIT等华人团队发布通用时序TimeMixer++架构](https://www.toutiao.com/article/7431094887023395340/)
+- [华人学生立大功！Mamba-3直击Transformer死穴，推理效率碾压7倍](https://www.toutiao.com/article/7618788170058580495/)
 - [从非欧几何视角解释和改造 Transformer](https://mp.weixin.qq.com/s?__biz=MzIyNDM4ODI0OA==&mid=2247511865&idx=1&sn=69b496b553f27b89906f9470224fa7b5)
 - [告别KV Cache枷锁，将长上下文压入权重，持续学习大模型有希望了？](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651010191&idx=1&sn=36960b72ba86f0ae194849221a4b308b)
 - [【深度学习】优化器介绍](https://blog.csdn.net/weixin_44984705/article/details/135448678)
