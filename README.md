@@ -38,6 +38,12 @@
 - [Claude Code](https://github.com/anthropics/claude-code)
 - [Use Claude Code in VS Code](https://code.claude.com/docs/en/vs-code)
 - Claude Code 使用 [Superpower skills](https://github.com/obra/superpowers) 插件以后在软件代码层面更加合理一些
+- [Claude Code Skills](https://www.aitmpl.com/skills)
+- [Anthropics Skills](https://github.com/anthropics/skills)
+- [skillsmp](https://skillsmp.com/)
+- [Claude Code bmad skills](https://github.com/aj-geddes/claude-code-bmad-skills/tree/main/bmad-skills)
+- [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills)
+- [Claude Code Skills \& Plugins — Agent Skills for Every Coding Tool](https://github.com/alirezarezvani/claude-skills)
 - [吴恩达推出 Context Hub，专治 AI 写代码时的「瞎编」问题](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453481223&idx=1&sn=aaa647d1a075c5a8219f1cf99e8c0ca5)
 - [LeRobot: State-of-the-art AI for real-world robotics](https://github.com/huggingface/lerobot?tab=readme-ov-file)
 - [如何从0搭建具身智能Lerobot SO-ARM100机械臂并完成自定义抓取任务](https://wiki.seeedstudio.com/cn/lerobot_so100m/)
