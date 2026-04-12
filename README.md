@@ -454,6 +454,7 @@
 ## GPT与LLM相关
 
 - [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+- [Twinkle AI 熬夜書坊 - LLM 讀書會資源庫](https://github.com/thliang01/TwinkleAI-LLM-Book-Club)
 - [被 GPT 带火的 Prompt 是什么？](https://www.toutiao.com/article/7216127870404395572/)
 - [比比皆是的下一个创新点：从Prompt Learning进化到SIPDO的闭环自进化](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018518&idx=2&sn=9b1f02344dae9b86a417702023b0d82a)
 - [教你如何本地部署chatGPT-3.5](https://www.toutiao.com/video/7216749125633573376/)
