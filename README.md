@@ -38,6 +38,7 @@
 - [Claude Code](https://github.com/anthropics/claude-code)
 - [Use Claude Code in VS Code](https://code.claude.com/docs/en/vs-code)
 - Claude Code 使用 [Superpower skills](https://github.com/obra/superpowers) 插件以后在软件代码层面更加合理一些
+- [autoresearch](https://github.com/karpathy/autoresearch)（如果可以分析图片，是不是可以跟 [**autoresearch**](https://github.com/karpathy/autoresearch) 结合起来让Claude自己根据效果来调代码）
 - [Claude Code Skills](https://www.aitmpl.com/skills)
 - [Anthropics Skills](https://github.com/anthropics/skills)
 - [skillsmp](https://skillsmp.com/)
