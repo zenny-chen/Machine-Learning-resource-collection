@@ -471,6 +471,7 @@
 - [为什么要纯C语言手搓GPT-2，Karpathy回应网友质疑](https://www.toutiao.com/article/7356515125815575080/)（相关 Github：[llm.c](https://github.com/karpathy/llm.c)）
 - [这才是真开源模型！公开后训练一切，性能超越Llama 3.1 Instruct](https://www.toutiao.com/article/7441166226782487049/)
 - [video2game](https://github.com/video2game/video2game)
+- [视觉GPT时刻来了！DeepMind用Vision Banana证明「生成即理解」，何恺明、谢赛宁都参与](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029874&idx=2&sn=84da37be7c43f7baab4f21bf8bc8c450)
 - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io/)
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)
 - [吴恩达官宣开源，yyds！](https://www.toutiao.com/article/7449173542618268196/)
