@@ -219,6 +219,7 @@
 - [什么是 Transformer 模型（一）](https://www.toutiao.com/article/7410354136098619956/)
 - [动图详解 transformer，彻底读懂 transformer模型](https://www.toutiao.com/article/7415526514861359679/)
 - [transformer的细节到底是怎么样的？Transformer 连环18问！](https://www.toutiao.com/article/7438210339893772854/)
+- [为什么我还是无法理解Transformer？Attention的本质是什么？为什么向量之间乘一乘就能得到Token之间的相似度了？](https://mp.weixin.qq.com/s?__biz=MzA3OTc4MTQ5NQ==&mid=2452191126&idx=1&sn=7c2d9216091dc837b42215ffba4aa08e)
 - [LLM技术研究：Transformer 背后的数学知识](https://www.toutiao.com/article/7395825179349320227/)
 - [Transformer 架构逐层功能介绍和详细解释](https://www.toutiao.com/i7051390630940918305/)
 - [Transformer可视化指南-动画理解](https://mp.weixin.qq.com/s?__biz=MzIyNDkxMjQ3OA==&mid=2247487738&idx=1&sn=d27b6fc7366b6271505d82996d0709b9)
