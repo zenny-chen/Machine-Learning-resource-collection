@@ -461,6 +461,7 @@
 - [比比皆是的下一个创新点：从Prompt Learning进化到SIPDO的闭环自进化](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018518&idx=2&sn=9b1f02344dae9b86a417702023b0d82a)
 - [教你如何本地部署chatGPT-3.5](https://www.toutiao.com/video/7216749125633573376/)
 - [10分钟打造基于ChatGPT的Markdown智能文档](https://www.toutiao.com/article/7231059890205295142/)
+- [关于Loop Engineering的观点和示例](https://mp.weixin.qq.com/s?__biz=Mzk1NzgxOTM0Mw==&mid=2247484104&idx=1&sn=0c3130e9e73ef7e53e2c24cfb0b1d163)
 - [llama3](https://github.com/meta-llama/llama3)
 - [MiniGPT-4](https://minigpt-4.github.io/)
 - [abml.ai](https://labml.ai/)
