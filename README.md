@@ -78,6 +78,7 @@
 ## 机器学习与神经网络
 
 - [德国科学家激进观点：意识是虚拟的，存在于大脑构建的梦中](https://www.toutiao.com/article/7439245480694989349/)
+- [Un-0](https://github.com/unconv-ai/Un-0)
 - [康奈尔大学ECE 5545： 机器学习硬件和系统 课程](https://www.bilibili.com/video/BV1ZY4y1C7Dk/)
 - [我们把AI剖开，可视化还原文生图时到底发生了什么？](https://www.toutiao.com/video/7362862599249068544/)
 - [结构之法 算法之道](https://blog.csdn.net/v_JULY_v/)
