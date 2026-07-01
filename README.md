@@ -545,6 +545,7 @@
 - [Agent Memory（上）：记忆的形态、功能与代表性路径](https://zhuanlan.zhihu.com/p/1996875290253731742)
 - [米哈游联合复旦，全面解读AI Agents现状与未来，网友：原神启动？！](https://www.36kr.com/p/2469805704583047)
 - [14B打败671B！微软rStar2-Agent在数学推理上超过DeepSeek-R1](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650988661&idx=1&sn=064cfce34c6c5106b3eef8ab2a183158)
+- [Agent-A1：Agent视界缩放术，35B打赢万亿大模型](https://mp.weixin.qq.com/s?__biz=MzA3NjE4MDIzOQ==&mid=2650370903&idx=1&sn=2720d62a7ead623068aa59dd501e2430)
 - [放弃agent，图灵奖得主Yoshua Bengio提出Scientist AI：避免人类生存威胁](https://www.toutiao.com/article/7475648478366941735/)
 - [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM/)
 - [MLLM真能看懂数学吗？MathVerse来了次摸底测评，放出当天登热榜](https://www.toutiao.com/article/7359479432686191130/)
