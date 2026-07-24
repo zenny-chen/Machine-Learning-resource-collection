@@ -96,6 +96,7 @@
 - [斯坦福大学深度学习辅导](http://deeplearning.stanford.edu/tutorial/)
 - [「深度学习被可微分编程取代？」展望30年后的神经网络和函数编程](https://www.toutiao.com/i6508570177498513933/)
 - [微分方程与机器学习](https://www.toutiao.com/i6901857619758137870/)
+- [英伟达发布Linearizer：让神经网络变回线性](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=23&__biz=MzYzMTIxMDk3Mw==&mid=2247486524&idx=1&sn=913b9e0f710640130c75abf681bf0d5b)
 - [神经网络训练过程中不收敛或者训练失败的原因](https://zhuanlan.zhihu.com/p/285601835)
 - [非凸函数上，随机梯度下降能否收敛？能有条件，比凸函数收敛更难](https://www.toutiao.com/i7061834102353248799/)
 - [监督学习之梯度下降——Andrew Ng机器学习笔记（一）](https://blog.csdn.net/xiaocainiaodeboke/article/details/50371986)
