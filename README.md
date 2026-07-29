@@ -535,6 +535,7 @@
 - [被误解的「中文版Sora」背后，字节跳动有哪些技术？](https://www.toutiao.com/article/7345373147954938404/)
 - [技术神秘化的去魅：Sora关键技术逆向工程图解](https://mp.weixin.qq.com/s?__biz=MjM5ODExNDA2MA==&mid=2449970192&idx=1&sn=41802f683f10db36e07e4f4679fd6b13)
 - [Sora之后，Apple发布视频生成大模型STIV：87亿参数大一统T2V、TI2V任务](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247612527&idx=2&sn=b3bfdfad3fa2f634ede5253a17607772)
+- [Kimi K3能在本地Mac上跑起来，答案在架构里](https://mp.weixin.qq.com/s?__biz=MzY5OTM2NjA4Nw==&mid=2247621953&idx=1&sn=d0387f3b1deeaa3145dfbc80e30c2f55)
 - [图形学顶会王炸 | 微软开源全球首个“AI渲染引擎”，仅205M参数，支持{Mesh生图像/视频}！](https://mp.weixin.qq.com/s/ePKRBNPDF8aw_DgQEwSuMQ)
 - [ChatGLM相关](https://zhuanlan.zhihu.com/p/636245322)
 - [RWKV-7：极先进的大模型架构，长文本能力极强](https://mp.weixin.qq.com/s?__biz=MzkxMDYxNzg2Nw==&mid=2247485335&idx=1&sn=c3d2a95d5935d72c8a3d75feaa480ded)
