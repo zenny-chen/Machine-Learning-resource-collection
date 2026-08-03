@@ -550,6 +550,7 @@
 - [Agent-A1：Agent视界缩放术，35B打赢万亿大模型](https://mp.weixin.qq.com/s?__biz=MzA3NjE4MDIzOQ==&mid=2650370903&idx=1&sn=2720d62a7ead623068aa59dd501e2430)
 - [放弃agent，图灵奖得主Yoshua Bengio提出Scientist AI：避免人类生存威胁](https://www.toutiao.com/article/7475648478366941735/)
 - [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/NFLDM/)
+- [最近爆火的 Graph Engineering 是啥？一文看懂 agent 的进化史](https://mp.weixin.qq.com/s?__biz=MzI5MTUxODM1OQ==&mid=2247483972&idx=1&sn=6d589c24d544c94f831fa2dba1cc9742)
 - [MLLM真能看懂数学吗？MathVerse来了次摸底测评，放出当天登热榜](https://www.toutiao.com/article/7359479432686191130/)
 - [概率的艺术：变分下界(ELBO)与VAE](https://mp.weixin.qq.com/s?__biz=MzI4ODY2NjYzMQ==&mid=2247499206&idx=1&sn=30b8be5b83c92a5ef9e7dd511b477d6e)
 - [机器遗忘同等重要，AI如何忘记不良数据，保护用户隐私？](https://www.toutiao.com/article/7340655572251083314/)
