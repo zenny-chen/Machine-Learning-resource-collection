@@ -225,6 +225,7 @@
 - [为什么我还是无法理解Transformer？Attention的本质是什么？为什么向量之间乘一乘就能得到Token之间的相似度了？](https://mp.weixin.qq.com/s?__biz=MzA3OTc4MTQ5NQ==&mid=2452191126&idx=1&sn=7c2d9216091dc837b42215ffba4aa08e)
 - [LLM技术研究：Transformer 背后的数学知识](https://www.toutiao.com/article/7395825179349320227/)
 - [Transformer 架构逐层功能介绍和详细解释](https://www.toutiao.com/i7051390630940918305/)
+- [Transformer里这些“层”，其实是一回事？](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=23&__biz=MzcwMzQ1MjI2Ng==&mid=2247483668&idx=1&sn=41d060903658d6943aa75d5159f24bee)
 - [Transformer可视化指南-动画理解](https://mp.weixin.qq.com/s?__biz=MzIyNDkxMjQ3OA==&mid=2247487738&idx=1&sn=d27b6fc7366b6271505d82996d0709b9)
 - [八问八答搞懂Transformer内部运作原理](https://www.toutiao.com/article/7400282699929289242/)
 - [Transformer动画讲解 - 多模态](https://www.toutiao.com/article/7374687469742146057/)
