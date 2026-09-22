@@ -133,6 +133,7 @@
 - [Yann LeCun最新访谈：能量模型是通向自主人工智能系统的起点](https://www.toutiao.com/article/7083684364823101983/)
 - [机器学习入门：你应该学习的8个神经网络结构（一）](https://www.toutiao.com/i6507930512764436996/)
 - [机器学习必知的8大神经网络架构和原理](https://www.toutiao.com/i6511540306473648653/)
+- [CV｜AI不学画图，反而在学“走路”？](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=23&__biz=MzcwMzQ1MjI2Ng==&mid=2247484167&idx=1&sn=b13a592334ff9c411447079c64dd0adb)
 - [推荐：关于机器学习的十种常用算法](https://www.toutiao.com/i6488839478105342477/)
 - [机器学习第一步，这是一篇手把手的随机森林入门实战](https://www.toutiao.com/a6794333127230620164/)
 - [基于MindSpore快速实现推荐网络模型Wide&deep大规模混合并行](https://zhuanlan.zhihu.com/p/164683221)
