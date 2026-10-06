@@ -511,6 +511,7 @@
 - [笔记：ktransformer/llama.cpp/vllm + int4 671B DeepSeek R1 模型单机大显存 GPU 部署笔记](https://zhuanlan.zhihu.com/p/24178815248)
 - [What is a Mixture of Experts (MoE)?](https://huggingface.co/blog/moe)
 - [算法、系统和应用，三个视角全面读懂混合专家（MoE）](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247564505&idx=3&sn=52a9c8d755a9418b80568b65ed59c6ee)
+- [专家并行（EP）：MoE 与 all_to_all](https://mp.weixin.qq.com/s?__biz=MzkzMDY5MjcyMg==&mid=2247484414&idx=1&sn=c64321a88dc63145874d0bd6ff218d3b)
 - [1块3090就能训7B大模型，山东大学提出低带宽低显存训练法](https://www.toutiao.com/article/7382211685387567666/)
 - [告别庞然大物，拥抱小巧精悍！面向移动和边缘设备的小型语言模型综述](https://mp.weixin.qq.com/s?__biz=MzU4MzU2MDg0NA==&mid=2247487031&idx=1&sn=fa7707c1acaacce1ec85dc0b0a7e5d51)
 - [盛名一时的BERT哪去了？这个问题的答案昭示了LLM范式的转变](https://www.toutiao.com/article/7394361020262646282/)
