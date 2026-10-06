@@ -232,6 +232,7 @@
 - [超越Transformer！MIT等华人团队发布通用时序TimeMixer++架构](https://www.toutiao.com/article/7431094887023395340/)
 - [华人学生立大功！Mamba-3直击Transformer死穴，推理效率碾压7倍](https://www.toutiao.com/article/7618788170058580495/)
 - [从非欧几何视角解释和改造 Transformer](https://mp.weixin.qq.com/s?__biz=MzIyNDM4ODI0OA==&mid=2247511865&idx=1&sn=69b496b553f27b89906f9470224fa7b5)
+- [彻底抛弃Transformer！302个神经元掀翻大模型：一只毫米级线虫开启AGI新范式](https://mp.weixin.qq.com/s?__biz=MzY5MTM5NzA5Nw==&mid=2247489410&idx=1&sn=4949d94e34d07f8ee7aadf2438d03a53)
 - [深度学习之注意力机制中QKV原理解读](https://mp.weixin.qq.com/s?__biz=Mzk2NDQzMTU1OQ==&mid=2247484283&idx=1&sn=7a755bfd73341731600b6d6bbc99bf7d)
 - [AAAI2020论文解读：将语义图嵌入跨模态注意力机制用于多标签分类](https://www.toutiao.com/a6790342917908070925/)
 - [哈佛大学提出变分注意力：用VAE重建注意力机制](https://www.toutiao.com/i6582409966349451780)
