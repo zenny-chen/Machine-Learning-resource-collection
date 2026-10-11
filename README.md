@@ -72,6 +72,7 @@
 - [TimesFM (Time Series Foundation Model)](https://github.com/google-research/timesfm/)
 - [用Kimi+即梦AI等，轻松制作节日MV](https://www.toutiao.com/video/7377254919851475490/)
 - [技术速递｜MCP 支持已上线 JetBrains、Eclipse 以及 Xcode](https://mp.weixin.qq.com/s?__biz=MzA3NTU4NjY3Mw==&mid=2247502084&idx=1&sn=a5fd72df64fd970201675d5593832e69)
+- [REA + x64dbg-MCP：当 AI Agent 开始操作反编译器和调试器，逆向工程进入 Agent 时代](https://www.toutiao.com/article/7694894368477528603/)（[REA: Reverse Engineer Anything](https://github.com/morluto/rea)）
 
 <br />
 
