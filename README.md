@@ -270,6 +270,7 @@
 - [中山大学的学霸小哥开源了一个能帮你做高数题的AI](https://www.toutiao.com/a6699212868954358283)
 - [特征工程系列：特征筛选的原理与实现（上）](https://www.cnblogs.com/purple5252/p/11205500.html)
 - [特征工程系列：特征筛选的原理与实现（下）](https://www.cnblogs.com/purple5252/p/11211083.html)
+- [聚类：AI分的组，为什么和你想的不一样](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=23&__biz=MzcwMzQ1MjI2Ng==&mid=2247484730&idx=1&sn=4ad27af25c29a49abd9b16a281883536)
 - [随机权值平均：深度学习中一种新的达到stage of the art的方法](https://www.toutiao.com/a6719067273581036043)
 - [机器学习：监督、无监督和强化学习](https://www.toutiao.com/i6514792889388630541/)
 - [「代码+教程」重现“世界模型”实验，无监督方式快速训练](https://www.toutiao.com/i6566434976722584078)
