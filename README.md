@@ -243,6 +243,7 @@
 - [注意力机制的输入和输出](https://blog.csdn.net/flyfish1986/article/details/143802557)
 - [注意力机制到底是什么——基于常识的基本结构介绍](https://www.toutiao.com/a6820654117745066509/)
 - [Attention is All You Need？LSTM 提出者：我看未必](https://www.toutiao.com/a6861831132921463309/)
+- [图解Attention演进史](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=23&__biz=MzcwODQ1NjA3Nw==&mid=2247483931&idx=1&sn=380417f815f44d67fc1ccb15f3e3e795)
 - [CNN为什么如此重要？](https://mp.weixin.qq.com/s?t=pages/image_detail&scene=23&__biz=MzcwMzQ1MjI2Ng==&mid=2247484313&idx=1&sn=ed6156b94110400b3757db797ecaaa66)
 - [【深度学习】优化器介绍](https://blog.csdn.net/weixin_44984705/article/details/135448678)
 - [Token化一切，甚至网络！北大&谷歌&马普所提出TokenFormer](https://www.toutiao.com/w/1815681184730122/)
